@@ -1,0 +1,10 @@
+- 这里是我的 Reading List，已读的文章会出现在 [#read]([[read]])
+-
+- [《编程与类型系统》](https://e.jd.com/30697064.html)
+- [《You-Dont-Know-JS》](https://github.com/getify/You-Dont-Know-JS)
+- [《 Rust Course》](https://course.rs/into-rust.html)
+- [ 《React Docs》 ](https://beta.reactjs.org/)
+- [《An interesting article on typing `Object.fromEntries` properly in TypeScript》](https://twitter.com/BenLesh/status/1499107797459423236?s=20&t=tkVjh-jf4PpFaqhX3ONZqw)
+- [《React TypeScript Cheatsheet》](https://react-typescript-cheatsheet.netlify.app/)
+- [《Rust Design Patterns》](https://fomalhauthmj.github.io/patterns/intro.html)
+- [《Why I Prefer Makefiles Over package.json Scripts》](https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/)

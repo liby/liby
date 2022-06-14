@@ -1,0 +1,8 @@
+- https://www.typescriptlang.org/
+-
+- TypeScript is JavaScript with syntax for types.
+-
+- What is TypeScript?
+	- JavaScript and More
+	- A Result You Can Trust
+	- Safety at Scale

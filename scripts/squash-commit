@@ -1,0 +1,16 @@
+#!/bin/sh
+
+set -ex
+
+git fetch origin
+git reset --hard origin/master
+head=`git rev-parse HEAD`
+
+msg="chore: :wastebasket: collapse index into one commit"
+
+new_rev=$(git commit-tree HEAD^{tree} -m "$msg")
+
+git push \
+  git@github.com:liby/liby.git \
+  $new_rev:refs/heads/master \
+  --force-with-lease=refs/heads/master:$head

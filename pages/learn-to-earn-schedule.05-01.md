@@ -1,0 +1,21 @@
+title:: Learn to Earn Schedule/05-01
+
+- LATER 没有任何内容，需要补充的章节；同时也需要 i18n
+	- [Starcoin CookBook Intro](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/intro)
+	- [Working with the Starcoin console](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/setup/starcoin-console)
+	- [Creating your own private Starcoin network](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/setup/private-network)
+	- [How to rotate the authentication key?](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/accounts/rotate-authentication-key)
+	- [Use StarMask or Other wallets](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/accounts/use-starmask)
+- LATER 为 [下载安装](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/install/) 页面添加一行安装脚本；添加二进制文件描述
+- [从源码构建 Starcoin](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/install/build) 设置构建环境应该说明 Windows 用户使用 `.ps1` 脚本
+- [通过 Docker 安装/镜像 tag 说明](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/install/install-by-docker#%E9%95%9C%E5%83%8F-tag-%E8%AF%B4%E6%98%8E) 加上 `v1.11.7-rc` 此类候选版本的说明是不是更好
+- [Starcoin 命令行工具使用说明](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/setup/starcoin-usage)
+	- 因为没有设置环境变量的原因（执行任何命令时，操作系统将在预定义的一组目录中查找同名的内容），所以直接执行 `starcoin` 会提示 `command not found`，即使移动到 *target/debug* 目录也一样
+- DONE [How to set up a local dev network](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/setup/dev-network/) 缺少中文翻译
+	- LATER 存在一些 TODO list，这些都可以在群里问，或者发 issue，然后收集内容，补充文档
+- DONE [How to participate in a test network](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/setup/test-network) 缺少中文翻译
+	- #question 测试网络之间的区别
+	- #question 如何从测试网络中获取测试 token
+- DONE [账号管理](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/accounts/account-manage) 部分提到需要修改为 JSON 输出
+- #question [第一笔链上交易](https://starcoinorg.github.io/starcoin-cookbook/zh/docs/getting-started/accounts/first-transaction) 提到先阅读相关的文章，这里应该把相关文章列出，这里我要提个 [issue](https://github.com/starcoinorg/starcoin-cookbook/issues/42)
+-
