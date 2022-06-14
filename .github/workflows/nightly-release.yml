@@ -16,5 +16,5 @@ jobs:
       - uses: fregante/release-with-changelog@v3
         if: steps.daily-version.outputs.created
         with:
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ steps.daily-version.outputs.version }}
