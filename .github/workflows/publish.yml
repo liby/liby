@@ -22,7 +22,7 @@ jobs:
         with:
           dest: www
       - name: Build and Deploy
-        uses: JamesIves/github-pages-deploy-action@v4.3.3
+        uses: JamesIves/github-pages-deploy-action@v4.3.4
         with:
           git-config-name: Bryan Lee
           git-config-email: <>
