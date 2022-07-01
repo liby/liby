@@ -64,7 +64,6 @@
 			  
 			  #  checkout 一下，就可以恢复所有文件了：
 			  dot checkout
-			  
 			  ```
 		- 如果某些文件已经存在了，则会报错：
 			- ```
@@ -82,8 +81,9 @@
 		- [rcm, an rc file manager](https://thoughtbot.com/blog/rcm-for-rc-files-in-dotfiles-repos)
 -
 - ### 写在最后
-	- 我现在有个重要的事情想和大家商量一下，你们认为手指最大的作用是用来做什么事情呢？不要想歪到什么 KP、YZ、CPG 上面，正经一点
-	- 当霍金还剩下手指能动弹的时候，他在交流，他在传递信息，他在为人类星辰大海的征途绘制蓝图，而我们坐在电脑前，也只用手指操控电脑屏幕时，为什么就不能做一些更有意义的事情呢，把爱与快乐传播出去，点点赞，投投币，点点表情发发评论，我今天在这里，呼吁大家，创造美好，从我做起，没错从我做起，极客三连
+	- 我现在有个重要的事情想和大家商量一下，你们认为手指最大的作用是用来做什么事情呢？不要想歪到什么 KP、YZ、CPG 上面喔，正经一点
+	- 当霍金还剩下手指能动弹的时候，他在交流，他在传递信息，他在为人类星辰大海的征途绘制蓝图。而我们坐在电脑前，也只用手指操控键盘、鼠标和触摸板时，为什么就不能做一些更有意义的事情呢，把爱与快乐传播出去，点点赞，投投币，发发评论
+	- 我今天在这里，呼吁大家，创造美好，从我做起，点赞投币评论三连唷～
 -
 - ### 参考
 - [Dotfiles - ArchWiki](https://wiki.archlinux.org/title/Dotfiles)
@@ -92,4 +92,3 @@
 - [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
 - [使用 Git Bare Repository 管理 Dotfiles](https://shinta.ro/posts/manage-dotfiles-with-git/)
 - [Dotfiles 管理-使用 git 裸仓库](https://chenhe.me/post/dotfiles%E7%AE%A1%E7%90%86-%E4%BD%BF%E7%94%A8git%E8%A3%B8%E4%BB%93%E5%BA%93/)
--
