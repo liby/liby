@@ -1,4 +1,3 @@
--
 - 喂喂喂，人到齐了吗？
 - 今天来给大家介绍一种管理和同步 dotfiles 的方法：bare Git repository，这个方法也是我最初在 [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 一文学到的，从标题可以看到作者自信满满的称赞说：这是存储 dotfiles 的最佳方式
 -
@@ -12,7 +11,6 @@
 	- 各种程序的配置文件，帮助这些程序管理其功能；之所以命名为 dotfiles，是因为每个文件和目录都以 `.` 开头，也是以此前缀来将它们与普通文件和目录区分开来
 	- 在基于 Unix 的系统中，dotfiles 默认被操作系统隐藏
 	- 常见的 dotfiles：`.bashrc`、`.zshrc`、`.vimrc`、`.gitconfig`、`.config` 等等
-	-
 -
 - ### 为什么要存储和同步 dotfiles
 	- dotfiles 是属于你个人的，当你花了足够多的时候来调整你的配置文件，规划了最适合你的工作流程、审美和偏好设置，最终拥有一个能帮你事半功倍的开发环境
@@ -40,7 +38,7 @@
 		  # 不显示工作区（$HOME）未跟踪的文件
 		  dot config --local status.showUntrackedFiles no
 		  ```
-		- 如果不设置 `config config --local status.showUntrackedFiles no` 的话，运行 `dot status` 你会发现 列出来一大堆 untracked files，因为 `$HOME `下所有文件都还没加入 Git 跟踪，但我们本意也不是要跟踪所有文件，这样全部列出来看着很乱
+		- 如果不设置 `config config --local status.showUntrackedFiles no` 的话，运行 `dot status` 你会发现列出来一大堆 untracked files，因为 `$HOME` 下所有文件都还没加入 Git 跟踪，但我们本意也不是要跟踪所有文件，这样全部列出来看着很乱
 	- #### 使用
 		- 至此我们完成了裸仓库的创建，可以像日常使用 Git 那样来直接管理你的目标文件，例如：
 			- ```
@@ -72,7 +70,7 @@
 			  Please move or remove them before you can switch branches.
 			  Aborting
 			  ```
-			- 这就需要你备份后覆盖，然后手动合并
+			- 这种情况需要你备份后覆盖，然后手动合并
 -
 - ### 其他方案
 	- 除了上面提到的一些方案，还有一些我只听过，但完全没有尝试过的方法，比如：
