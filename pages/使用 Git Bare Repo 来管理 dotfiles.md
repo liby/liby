@@ -1,0 +1,19 @@
+-
+- 喂喂喂，人到齐了吗？
+- 今天来给大家介绍一种管理和同步 dotfiles 的方法：bare Git repository，这个方法也是我最初在 [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 一文学到的，从标题可以看到作者自信满满的称赞说：这是存储 dotfiles 的最佳方式
+-
+- ### 介绍 一下标题中提到的两个关键词
+- #### 什么是 Git Bare Repo
+	- 通俗的来讲，我们每天都在用的  git ，有一个 *.git* 目录。其实在 *.git* 目录里面的才叫 repository ，外面的实际是工作副本（working copy） ，是 repository 里的某一个版本的拷贝
+	- 所谓的 bare repository，就是没有工作副本的 repository
+	- 更详细的解释请戳 [What is a bare git repository?](https://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/)
+- #### 什么是 dotfiles
+	- 各种程序的配置文件，帮助这些程序管理其功能；之所以命名为 dotfiles，是因为每个文件和目录都以 `.` 开头，也是以此前缀来将它们与普通文件和目录区分开来
+	- 在基于 Unix 的系统中，dotfiles 默认被操作系统隐藏
+	- 常见的 dotfiles：`.bashrc`、`.zshrc`、`.vimrc`、`.gitconfig`、`.config` 等等
+	-
+-
+- ### 为什么要存储和同步 dotfiles
+	- dotfiles 是属于你个人的，当你花了足够多的时候来调整你的配置文件，规划了最适合你的工作流程、审美和偏好设置，最终拥有一个能帮你事半功倍的开发环境
+	- 如果在你花了那么多时间后，你现在不得不切换到一个新的、不同的机器上呢？是否意味着你必须从头再来？你会对你所有的设置和命令都烂熟于心吗？或者，如果你有多台设备，而你希望你的配置在这些设备间共享，那要怎么做？
+	- 软件开发的主要目标之一就是使重复性的工作自动化，所以我们
