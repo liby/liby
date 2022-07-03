@@ -74,7 +74,7 @@
 		- Shortcut(Optional)
 			- 对于上面这些步骤，操作起来还是比较繁琐的；有一些并不是经常使用的命令，所以也不容易记得。因此，我们可以写一个脚本来达到一劳永逸的效果，就像 [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles#:~:text=you%20can%20create%20a%20simple%20script) 中提到的那样：
 				- 1. 创建一个脚本
-				  2. 存储为代码片段
+				  2. 存储为代码片段，可以使用 https://paste.gg/ 之类的网站
 				  3. 为其创建一个短链接
 - ### 其他方案
 	- 除了上面提到的一些方案，还有一些我只听过，但完全没有尝试过的方法，比如：
