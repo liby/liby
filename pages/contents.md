@@ -14,7 +14,7 @@
 	- [[TypeScript]]
 - Resources
 	- [[Articles]]
-	- [[Blog]]
+	- [[Post]]
 - Archives
 	- [[Journals]]
 	- [Questions]([[question]])
