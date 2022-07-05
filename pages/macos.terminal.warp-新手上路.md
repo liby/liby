@@ -1,4 +1,6 @@
 title:: macOS/Terminal/Warp 新手上路
+type:: [[Post]]
+status:: [[DONE]]
 
 - 简单的试用了一下 Warp，因为它送了 20 个 invites remaining，便顺道在技术群和公司群里安利了一下
 	- 其实我在之前也没有觉得 iTerm2 + p10k 有什么不好，但是用了 Warp 还是能感觉到明显更快（倒没有快到让我惊讶）

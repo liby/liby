@@ -1,4 +1,6 @@
 title:: macOS/launchd/How to Use launchd to Run Services in macOS
+type:: [[Post]]
+status:: [[DONE]]
 
 - 之前写过一篇 [[macOS/launchd/launchd 踩坑初体验]]，可以说堪堪入门，把服务跑起来就算成功，经过不断的测试和翻阅资料，总算搞明白了之前留下的问题
 - 前面说  `load | unload` 命令已经被弃用，文档说推荐用 `bootstrap | bootout | enable | disable` 等命令来代替，下面就来详细讲讲这几个命令

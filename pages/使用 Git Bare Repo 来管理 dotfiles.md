@@ -1,3 +1,6 @@
+type:: [[Post]]
+status:: [[DONE]]
+
 - 喂喂喂，人到齐了吗？
 - 今天来给大家介绍一种管理和同步 dotfiles 的方法：bare Git repository，这个方法也是我最初在 [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles) 一文学到的，从标题可以看到作者自信满满的称赞说：这是存储 dotfiles 的最佳方式
 -
@@ -31,10 +34,10 @@
 		- ```
 		  # 初始化 Git Bare Repository
 		  git init --bare $HOME/.dotfiles
-		  
+
 		  # 创建 alias，方便执行操作
 		  alias dot="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
-		  
+
 		  # 不显示工作区（$HOME）未跟踪的文件
 		  dot config --local status.showUntrackedFiles no
 		  ```
@@ -45,10 +48,10 @@
 			  # 添加 dotfile
 			  dot add .zshrc
 			  dot commit -m "chore: 🔧 add .zshrc"
-			  
+
 			  # 配置远程仓库
 			  dot remote add origin <git_url>
-			  
+
 			  # 推送 commit 到远程仓库，同时将远程仓库与本地的 master 分支关联
 			  # 关联以后，推送 commit 就只需要输入 dot push
 			  dot push -u origin master
@@ -59,7 +62,7 @@
 			  git clone --bare <git_url> $HOME/.dotfiles
 			  alias dot="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
 			  dot config --local status.showUntrackedFiles no
-			  
+
 			  #  checkout 一下，就可以恢复所有文件了：
 			  dot checkout
 			  ```

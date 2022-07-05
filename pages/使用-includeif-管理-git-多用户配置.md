@@ -1,4 +1,5 @@
 title:: 使用 includeIf 管理 Git 多用户配置
+type:: [[Post]]
 
 - ### 注意
 	- `includeIf` 只在指定目录下的 repositories 中工作，而在 non-repo 目录中[不工作](https://stackoverflow.com/questions/64843104/why-gitconfig-includeif-does-not-work)

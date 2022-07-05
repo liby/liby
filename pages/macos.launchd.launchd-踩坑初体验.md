@@ -1,4 +1,6 @@
 title:: macOS/launchd/launchd 踩坑初体验
+type:: [[Post]]
+status:: [[DONE]]
 
 - launchd 是通过以 *.plist* 后缀结尾的 xml 文件来定义一个程序的开机自启动的，一般称它为 plist 文件
 - plist 文件分别放在以下几个目录：

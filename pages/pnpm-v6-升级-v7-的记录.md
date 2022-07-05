@@ -1,4 +1,6 @@
 title:: pnpm V6 升级 V7 的记录
+type:: [[Post]]
+status:: [[DONE]]
 
 - Major 改动很多，但在升级中发现对我影响特别大的地方不算很多
 - `--filter` 的参数必须遵守 glob 语法
