@@ -21,5 +21,5 @@
 	- [Read]([[read]])
 -
 - Note
-	- 本项目来源于 [Xuanwo's Note](https://note.xuanwo.io)
+	- This project is heavily inspired by [Xuanwo's Note](https://note.xuanwo.io)
 	- This project is powered by [Logseq](https://logseq.com/) using [logseq dev theme](https://github.com/pengx17/logseq-dev-theme)
