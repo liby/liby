@@ -1,3 +1,4 @@
+title:: 使用 Git Bare Repo 来管理 dotfiles
 type:: [[Post]]
 status:: [[DONE]]
 

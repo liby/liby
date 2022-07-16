@@ -1,5 +1,6 @@
 title:: 使用 includeIf 管理 Git 多用户配置
 type:: [[Post]]
+status:: [[DONE]]
 
 - ### 背景描述
 	- 我们通常会拥有公司或者个人的多个 GitHub/GitLab 账户，在不同项目下开发时，commit 的用户名和邮箱是不同的
@@ -36,7 +37,7 @@ type:: [[Post]]
 		  2. 用 `git config -f --file` 命令指定文件的 `$path`
 		  ```
 		  git config -f ~/.gitconfig_self user.name "Your Name"
-		  
+
 		  git config -f ~/.gitconfig_self user.email "your@example.com"
 		  ```
 - ### 内容详解
@@ -74,17 +75,17 @@ type:: [[Post]]
 	- 不要试图省事，直接将用户信息配置在 `includeIf` 部分，这会覆盖前面的用户配置项，也就是下面这种写法
 		- ```
 		  # $HOME/.gitconfig
-		  
+
 		  [user]
 		      name = Nick
 		      email = user@example.com
-		  
+
 		  [includeIf "gitdir/i:~/workspace/private/"]
 		  # 如此配置会将上面的用户配置覆盖
 		  	[user]
 		        name = Fake
 		        email = fake@example.com
-		  
+
 		  [includeIf "gitdir/i:~/workspace/private/"]
 		  # 如此配置不会工作，会使用上面的用户配置项
 		    name = Fake
