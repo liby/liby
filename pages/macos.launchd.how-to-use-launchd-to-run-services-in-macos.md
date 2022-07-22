@@ -6,7 +6,7 @@ status:: [[DONE]]
 - 前面说  `load | unload` 命令已经被弃用，文档说推荐用 `bootstrap | bootout | enable | disable` 等命令来代替，下面就来详细讲讲这几个命令
 	- `launchctl  bootstrap domain-target [service-path service-path2 ...] | service-target`
 		- 加载并运行服务（会立即执行一次）
-		- `launchctl bootstrap gui/<user's UID> /Library/LaunchAgents/com.company.launchagent.plist`
+		- `launchctl bootstrap gui/<user's UID> ~/Library/LaunchAgents/com.company.launchagent.plist`
 		- `gui/$UID` 和 plist 文件路径之间有空格，且要带 `.plist` 文件后缀
 		- 不知道 UID 可以直接写 `gui/$UID`，也可以通过 `id -u <username>` 来获取具体 ID
 		- domain-target 主要有以下几个参数
