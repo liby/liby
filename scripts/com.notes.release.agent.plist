@@ -6,10 +6,10 @@
     <string>com.notes.release.agent.plist</string>
     <key>ProgramArguments</key>
     <array>
-        <string>Path/Personal/liby/scripts/git-sync</string>
+        <string>/Volumes/Code/Personal/liby/scripts/git-sync</string>
     </array>
     <key>WorkingDirectory</key>
-    <string>Path/Personal/liby</string>
+    <string>/Volumes/Code/Personal/liby/</string>
     <key>RunAtLoad</key>
     <true/>
     <key>StartCalendarInterval</key>
