@@ -98,13 +98,12 @@ setup_ohmyzsh() {
   echo "  - zsh-autosuggestions                                    "
   echo "  - zsh-completions                                        "
   echo "  - fast-syntax-highlighting                               "
-  echo "  - autoupdate-zsh-plugin                                  "
+  echo "                                                           "
   echo "-----------------------------------------------------------"
 
   git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
   git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions
   git clone https://github.com/zdharma/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
-  git clone https://github.com/TamCore/autoupdate-oh-my-zsh-plugins ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/autoupdate
 }
 
 install_starship() {
