@@ -59,8 +59,8 @@ install_packages() {
   )
 
   echo "==========================================================="
-  echo "* Install following packages:"
-  echo ""
+  echo "                * Install following packages:              "
+  echo "                                                           "
 
   for __pkg ($__pkg_to_be_installed); do
     echo "  - ${__pkg}"
@@ -77,7 +77,7 @@ install_packages() {
 
 restore_dotfiles() {
   echo "-----------------------------------------------------------"
-  echo "* Restore Bryan/dotfiles from GitHub.com"
+  echo "          * Restore Bryan/dotfiles from GitHub.com         "
   echo "-----------------------------------------------------------"
 
   git clone --bare git@github.com:liby/dotfiles.git $HOME/.dotfiles
@@ -95,11 +95,11 @@ setup_ohmyzsh() {
   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
   echo "-----------------------------------------------------------"
-  echo "* Installing ZSH Custom Plugins & Themes:"
-  echo ""
-  echo "  - zsh-autosuggestions"
-  echo "  - fast-syntax-highlighting"
-  echo "  - zsh-z"
+  echo "          * Installing ZSH Custom Plugins & Themes:        "
+  echo "                                                           "
+  echo "  - zsh-autosuggestions                                    "
+  echo "  - fast-syntax-highlighting                               "
+  echo "  - zsh-z                                                  "
   echo "-----------------------------------------------------------"
 
   git clone https://github.com/Aloxaf/fzf-tab ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/fzf-tab
@@ -107,6 +107,15 @@ setup_ohmyzsh() {
   git clone https://github.com/zdharma/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
   git clone https://github.com/agkozak/zsh-z ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/zsh-z
 }
+
+install_starship() {
+  echo "==========================================================="
+  echo "                   Install Starship                        "
+  echo "-----------------------------------------------------------"
+
+  curl -sS https://starship.rs/install.sh | sh
+}
+
 
 brew_bundle() {
   brew bundle
@@ -124,13 +133,13 @@ install_nodejs() {
   [[ ! -d "$NPM_CONFIG_PREFIX" ]] && mkdir -p $NPM_CONFIG_PREFIX
 
   echo "-----------------------------------------------------------"
-  echo "                * Installing Node.js LTS...                 "
+  echo "                * Installing Node.js LTS...                "
   echo "-----------------------------------------------------------"
 
   fnm install --lts
 
   echo "-----------------------------------------------------------"
-  echo -n "                   * Node.js Version:                    "
+  echo -n "                   * Node.js Version:                   "
 
   node -v
 
@@ -158,26 +167,25 @@ install_nodejs() {
   done
 }
 
-install-goenv() {
+install_rust() {
   echo "==========================================================="
-  echo "                   Install syndbg/goenv                    "
+  echo "                   Install Rust                            "
   echo "-----------------------------------------------------------"
 
-  git clone https://github.com/syndbg/goenv.git $HOME/.goenv
+  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 }
 
 zshrc() {
   echo "==========================================================="
-  echo "                  Import sukka env zshrc                   "
+  echo "                  Import Bryan env zshrc                   "
   echo "-----------------------------------------------------------"
 
-  cat $HOME/dotfiles/_zshrc/macos.zshrc > $HOME/.zshrc
-  cat $HOME/dotfiles/p10k/.p10k.zsh > $HOME/.p10k.zsh
+  exec zsh
 }
 
 vimrc() {
   echo "==========================================================="
-  echo "                  Import sukka env vimrc                   "
+  echo "                  Import Bryan env vimrc                   "
   echo "-----------------------------------------------------------"
 
   cat $HOME/dotfiles/vim/.vimrc > $HOME/.vimrc
@@ -185,11 +193,6 @@ vimrc() {
 
 finish() {
   echo "==========================================================="
-  echo -n "                     * Clean up...                      "
-
-  cd $HOME
-  rm -rf $HOME/dotfiles
-
   echo "Done!                                                      "
   echo "                                                           "
   echo "> Bryan Enviroment Setup finished!                         "
@@ -211,7 +214,9 @@ install_homebrew
 # install_packages
 restore_dotfiles
 setup_ohmyzsh
+install_starship
 brew_bundle
 install_nodejs
+install_rust
 zshrc
 finish
