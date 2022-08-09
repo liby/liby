@@ -126,7 +126,7 @@ install_nodejs() {
   echo "==========================================================="
   echo "              Setting up NodeJS Environment                "
 
-  eval $(fnm env --use-on-cd --shell zsh)
+  eval "$(fnm env --use-on-cd --shell zsh)"
 
   # Set NPM Global Path
   export NPM_CONFIG_PREFIX="$HOME/.npm-global"
