@@ -85,7 +85,7 @@ restore_dotfiles() {
   dot config --local status.showUntrackedFiles no
 }
 
-setup_omz() {
+setup_ohmyzsh() {
   echo "==========================================================="
   echo "                      Shells Enviroment                    "
   echo "-----------------------------------------------------------"
@@ -116,8 +116,7 @@ install_nodejs() {
   echo "==========================================================="
   echo "              Setting up NodeJS Environment                "
 
-  # eval $(fnm env --shell zsh)
-  fnm install --lts
+  eval $(fnm env --use-on-cd --shell zsh)
 
   # Set NPM Global Path
   export NPM_CONFIG_PREFIX="$HOME/.npm-global"
@@ -125,33 +124,23 @@ install_nodejs() {
   [[ ! -d "$NPM_CONFIG_PREFIX" ]] && mkdir -p $NPM_CONFIG_PREFIX
 
   echo "-----------------------------------------------------------"
-  echo "                * Installing NodeJS LTS...                 "
+  echo "                * Installing Node.js LTS...                 "
   echo "-----------------------------------------------------------"
 
   fnm install --lts
 
   echo "-----------------------------------------------------------"
-  echo -n "                   * NodeJS Version:                    "
+  echo -n "                   * Node.js Version:                    "
 
   node -v
 
   __npm_global_pkgs=(
-    @cloudflare/wrangler
     @upimg/cli
     0x
-    cf-firewall-rules-generator
-    clinic
-    hexo-cli
-    ipip-cli
-    nali-cli@next
-    vercel
+    # clinic
+    # vercel
     npm-why
-    pnpm
-    npm
-    posea
-    serve
-    surge
-    yarn
+    # serve
   )
 
   echo "-----------------------------------------------------------"
@@ -177,36 +166,6 @@ install-goenv() {
   git clone https://github.com/syndbg/goenv.git $HOME/.goenv
 }
 
-ci_editor() {
-  echo "==========================================================="
-  echo "                Install Google ci_editor"
-  echo ""
-  echo "* Cloning google/ci_edit from GitHub.com"
-  echo "-----------------------------------------------------------"
-
-  cd $HOME
-  git clone https://github.com/google/ci_edit.git --depth=5
-
-  echo "-----------------------------------------------------------"
-  echo "> You can run 'ci-edit-update' later to finish install."
-
-  sleep 5
-}
-
-ioio() {
-  echo "==========================================================="
-  echo "                 Install Rehabman ioio"
-  echo "-----------------------------------------------------------"
-
-  wget https://bitbucket.org/RehabMan/os-x-ioio/downloads/RehabMan-ioio-2014-0122.zip
-  mkdir -p ioio
-  unzip -o RehabMan-ioio-2014-0122.zip -d ioio
-
-  \cp -rf ./ioio/Release/ioio $HOME/bin
-
-  rm -rf ioio
-}
-
 zshrc() {
   echo "==========================================================="
   echo "                  Import sukka env zshrc                   "
@@ -222,16 +181,6 @@ vimrc() {
   echo "-----------------------------------------------------------"
 
   cat $HOME/dotfiles/vim/.vimrc > $HOME/.vimrc
-}
-
-fix_home_end_keybinding() {
-  mkdir -p $HOME/Library/KeyBindings/
-  echo "{
-    \"\UF729\"  = moveToBeginningOfLine:; // home
-    \"\UF72B\"  = moveToEndOfLine:; // end
-    \"$\UF729\" = moveToBeginningOfLineAndModifySelection:; // shift-home
-    \"$\UF72B\" = moveToEndOfLineAndModifySelection:; // shift-end
-  }" > $HOME/Library/KeyBindings/DefaultKeyBinding.dict
 }
 
 finish() {
@@ -261,11 +210,8 @@ start
 install_homebrew
 # install_packages
 restore_dotfiles
-setup_omz
+setup_ohmyzsh
 brew_bundle
 install_nodejs
-ci_editor
-ioio
-fix_home_end_keybinding
 zshrc
 finish
