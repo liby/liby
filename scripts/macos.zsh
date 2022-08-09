@@ -98,14 +98,15 @@ setup_ohmyzsh() {
   echo "          * Installing ZSH Custom Plugins & Themes:        "
   echo "                                                           "
   echo "  - zsh-autosuggestions                                    "
+  echo "  - zsh-completions                                        "
   echo "  - fast-syntax-highlighting                               "
-  echo "  - zsh-z                                                  "
+  echo "  - autoupdate-zsh-plugin                                  "
   echo "-----------------------------------------------------------"
 
-  git clone https://github.com/Aloxaf/fzf-tab ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/fzf-tab
   git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+  git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions
   git clone https://github.com/zdharma/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
-  git clone https://github.com/agkozak/zsh-z ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/zsh-z
+  git clone https://github.com/TamCore/autoupdate-oh-my-zsh-plugins ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/autoupdate
 }
 
 install_starship() {
@@ -147,9 +148,9 @@ install_nodejs() {
     @upimg/cli
     0x
     # clinic
-    # vercel
     npm-why
     # serve
+    # vercel
   )
 
   echo "-----------------------------------------------------------"
@@ -189,7 +190,7 @@ reload_zshrc() {
   echo "-----------------------------------------------------------"
 
   # exec zsh
-  compinit -i
+  rm ~/.zcompdump*; compinit
 }
 
 vimrc() {
@@ -207,7 +208,8 @@ finish() {
   echo "> Bryan Enviroment Setup finished!                         "
   echo "> Do not forget run those things:                          "
   echo "                                                           "
-  echo "- npm login                                                "
+  echo "- NPM login                                                "
+  echo "- Steup iTerm2                                            "
   echo "- Install Inconsolata LGC                                  "
   echo "- Create a case-sensitive volume on macOS                  "
   echo "- https://www.v2ex.com/t/813229?p=1#r_11048555             "
