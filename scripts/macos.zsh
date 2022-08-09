@@ -175,12 +175,21 @@ install_rust() {
   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 }
 
-zshrc() {
+install_font() {
   echo "==========================================================="
-  echo "                  Import Bryan env zshrc                   "
+  echo "                 Install Inconsolata LGC                   "
   echo "-----------------------------------------------------------"
 
-  exec zsh
+  curl -LJO https://github.com/ryanoasis/nerd-fonts/releases/latest/download/InconsolataLGC.zip -o $HOME/Downloads
+}
+
+reload_zshrc() {
+  echo "==========================================================="
+  echo "                  Reload Bryan env zshrc                   "
+  echo "-----------------------------------------------------------"
+
+  # exec zsh
+  compinit -i
 }
 
 vimrc() {
@@ -198,10 +207,9 @@ finish() {
   echo "> Bryan Enviroment Setup finished!                         "
   echo "> Do not forget run those things:                          "
   echo "                                                           "
-  echo "- chsh -s /usr/bin/zsh                                     "
   echo "- npm login                                                "
-  echo "- ci-edit-update                                           "
-  echo "- oload-config                                             "
+  echo "- Install Inconsolata LGC                                  "
+  echo "- Create a case-sensitive volume on macOS                  "
   echo "- git-config                                               "
   echo "* open vim and run :PlugInstall                            "
   echo "==========================================================="
@@ -218,5 +226,6 @@ install_starship
 brew_bundle
 install_nodejs
 install_rust
-zshrc
+install_font
+reload_zshrc
 finish
