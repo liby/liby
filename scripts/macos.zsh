@@ -210,8 +210,8 @@ finish() {
   echo "- npm login                                                "
   echo "- Install Inconsolata LGC                                  "
   echo "- Create a case-sensitive volume on macOS                  "
-  echo "- git-config                                               "
-  echo "* open vim and run :PlugInstall                            "
+  echo "- https://www.v2ex.com/t/813229?p=1#r_11048555             "
+  echo "                                                           "
   echo "==========================================================="
 
   cd $HOME
