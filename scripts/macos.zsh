@@ -115,7 +115,6 @@ install_starship() {
   curl -sS https://starship.rs/install.sh | sh
 }
 
-
 brew_bundle() {
   brew bundle
 }
