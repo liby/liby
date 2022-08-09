@@ -33,7 +33,7 @@ start() {
   sleep 5
 
   echo -n "Times up! Here we start!"
-  echo ""
+  echo "                                                           "
 
   cd $HOME
 }
@@ -51,10 +51,8 @@ install_packages() {
   # Later we will call brew bundle
   __pkg_to_be_installed=(
     curl
-    fnm
     git
     jq
-    wget
     zsh
   )
 
@@ -190,15 +188,7 @@ reload_zshrc() {
   echo "-----------------------------------------------------------"
 
   # exec zsh
-  rm ~/.zcompdump*; compinit
-}
-
-vimrc() {
-  echo "==========================================================="
-  echo "                  Import Bryan env vimrc                   "
-  echo "-----------------------------------------------------------"
-
-  cat $HOME/dotfiles/vim/.vimrc > $HOME/.vimrc
+  rm ~/.zcompdump*; compinit -i
 }
 
 finish() {
@@ -209,7 +199,7 @@ finish() {
   echo "> Do not forget run those things:                          "
   echo "                                                           "
   echo "- NPM login                                                "
-  echo "- Steup iTerm2                                            "
+  echo "- Steup iTerm2                                             "
   echo "- Install Inconsolata LGC                                  "
   echo "- Create a case-sensitive volume on macOS                  "
   echo "- https://www.v2ex.com/t/813229?p=1#r_11048555             "
@@ -221,7 +211,7 @@ finish() {
 
 start
 install_homebrew
-# install_packages
+install_packages
 restore_dotfiles
 setup_ohmyzsh
 install_starship
