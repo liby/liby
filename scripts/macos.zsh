@@ -73,16 +73,6 @@ install_packages() {
   done
 }
 
-restore_dotfiles() {
-  echo "-----------------------------------------------------------"
-  echo "          * Restore Bryan/dotfiles from GitHub.com         "
-  echo "-----------------------------------------------------------"
-
-  git clone --bare git@github.com:liby/dotfiles.git $HOME/.dotfiles
-  alias dot="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
-  dot config --local status.showUntrackedFiles no
-}
-
 setup_ohmyzsh() {
   echo "==========================================================="
   echo "                      Shells Enviroment                    "
@@ -103,7 +93,7 @@ setup_ohmyzsh() {
 
   git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
   git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions
-  git clone https://github.com/zdharma/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
+  git clone https://github.com/z-shell/F-Sy-H.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/F-Sy-H
 }
 
 install_starship() {
@@ -112,6 +102,17 @@ install_starship() {
   echo "-----------------------------------------------------------"
 
   curl -sS https://starship.rs/install.sh | sh
+}
+
+restore_dotfiles() {
+  echo "-----------------------------------------------------------"
+  echo "          * Restore Bryan/dotfiles from GitHub.com         "
+  echo "-----------------------------------------------------------"
+
+  git clone --bare git@github.com:liby/dotfiles.git $HOME/.dotfiles
+  alias dot="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
+  dot config --local status.showUntrackedFiles no
+  dot checkout
 }
 
 brew_bundle() {
@@ -198,6 +199,12 @@ finish() {
   echo "                                                           "
   echo "- NPM login                                                "
   echo "- Steup iTerm2                                             "
+  echo "- Install Slack,                                           "
+  echo "          WeChat,                                          "
+  echo "          Telegram,                                        "
+  echo "          The Unarchiver,                                  "
+  echo "          Hidden Bar                                       "
+  echo "  from the Apple Store                                     "
   echo "- Install Inconsolata LGC                                  "
   echo "- Create a case-sensitive volume on macOS                  "
   echo "- https://www.v2ex.com/t/813229?p=1#r_11048555             "
@@ -210,9 +217,9 @@ finish() {
 start
 install_homebrew
 install_packages
-restore_dotfiles
 setup_ohmyzsh
 install_starship
+restore_dotfiles
 brew_bundle
 install_nodejs
 install_rust
