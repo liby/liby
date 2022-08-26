@@ -199,6 +199,7 @@ finish() {
   echo "                                                           "
   echo "- NPM login                                                "
   echo "- Steup iTerm2                                             "
+  echo "- Steup launchd for notes                                  "
   echo "- Install Slack,                                           "
   echo "          WeChat,                                          "
   echo "          Telegram,                                        "
