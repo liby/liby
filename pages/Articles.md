@@ -11,3 +11,5 @@
 - [《Rust 的 Pin 与 Unpin》](https://folyd.com/blog/rust-pin-unpin/)
 - [《Rust Pin 进阶》](https://folyd.com/blog/rust-pin-advanced/)
 - [《Guide to Rustc Development》](https://rustc-dev-guide.rust-lang.org/about-this-guide.html)
+- [《JavaScript Refresher》](https://beta.reactjs.org/learn/a-javascript-refresher#arrow-functions)
+- [《Everything you need to know about Design Systems》](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
