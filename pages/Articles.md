@@ -13,3 +13,4 @@
 - [《Guide to Rustc Development》](https://rustc-dev-guide.rust-lang.org/about-this-guide.html)
 - [《JavaScript Refresher》](https://beta.reactjs.org/learn/a-javascript-refresher#arrow-functions)
 - [《Everything you need to know about Design Systems》](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
+- [《React hooks: not magic, just arrays》](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
