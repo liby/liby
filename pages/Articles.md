@@ -16,3 +16,4 @@
 - [《React Docs: BETA》](https://beta.reactjs.org/)
 	- [JavaScript Refresher](https://beta.reactjs.org/learn/a-javascript-refresher#arrow-functions)
 	- [Setting state does not update variables](https://beta.reactjs.org/learn/troubleshooting-state-updates#setting-state-does-not-update-variables)
+	- [Optimization strategies](https://beta.reactjs.org/learn/skipping-unchanged-trees)
