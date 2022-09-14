@@ -1,0 +1,20 @@
+name: Nightly release
+
+on:
+  schedule:
+    - cron: '23 23 * * *'
+
+jobs:
+  Tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: fregante/daily-version-action@v2
+        id: daily-version
+        with:
+          prefix: v
+      - uses: fregante/release-with-changelog@v3
+        if: steps.daily-version.outputs.created
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ steps.daily-version.outputs.version }}

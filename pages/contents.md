@@ -1,0 +1,25 @@
+- Halo，我是 Bryan
+	- 内容 [Bryan’s Blog](https://liby.github.io)
+	- 代码 [Bryan’s GitHub](https://github.com/liby)
+-
+- 这里是 Bryan’s Note
+	- 查看本站的源代码 [liby/liby](https://github.com/liby/liby)，欢迎 Star 本项目以示支持
+	- 发现错误请在 [Issues](https://github.com/liby/liby/issues) 提交反馈
+	- 探讨问题请在 [Discussions](https://github.com/liby/liby/discussions) 开启讨论
+	- 链接如果失效请尝试使用 `Ctrl/Cmd` + `K` 来搜索关键词
+-
+- Knowledge
+	- [[macOS]]
+	- [[Rust]]
+	- [[TypeScript]]
+- Resources
+	- [[Articles]]
+	- [[Post]]
+- Archives
+	- [[Journals]]
+	- [Questions]([[question]])
+	- [Read]([[read]])
+-
+- Note
+	- This project is heavily inspired by [Xuanwo's Note](https://note.xuanwo.io)
+	- This project is powered by [Logseq](https://logseq.com/) using [logseq dev theme](https://github.com/pengx17/logseq-dev-theme)

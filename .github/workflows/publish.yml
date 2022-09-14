@@ -1,0 +1,36 @@
+name: Publish
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}-${{ github.event_name }}
+  cancel-in-progress: true
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Logseq Publish 🚩
+        uses: pengx17/logseq-publish@main
+        with:
+          dest: www
+      - name: Build and Deploy
+        uses: JamesIves/github-pages-deploy-action@v4.3.4
+        with:
+          git-config-name: Bryan Lee
+          git-config-email: <>
+          repository-name: liby/notes
+          token: ${{ secrets.ACCESS_TOKEN }}
+          branch: gh-pages
+          folder: www
+          single-commit: true
+          commit-message:
+          clean: true
+          silent: true
