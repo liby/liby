@@ -22,11 +22,8 @@ jobs:
         with:
           dest: www
       - name: Deploy to Vercel
-        uses: amondnet/vercel-action@v25.1.0
-        with:
-          vercel-token: ${{ secrets.VERCEL_TOKEN }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          vercel-args: "--prod"
-          vercel-org-id: ${{ secrets.VERCEL_ORG_ID}}
-          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID}}
-          working-directory: ./sub-directory
+        env:
+          VERCEL_ORG_ID: ${{secrets.VERCEL_ORG_ID}}
+          VERCEL_PROJECT_ID: ${{secrets.VERCEL_PROJECT_ID}}
+        run: |
+          npx vercel --token=${{ secrets.VERCEL_TOKEN }} --prod --scope liby www
