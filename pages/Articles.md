@@ -17,3 +17,4 @@
 	- [JavaScript Refresher](https://beta.reactjs.org/learn/a-javascript-refresher#arrow-functions)
 	- [Setting state does not update variables](https://beta.reactjs.org/learn/troubleshooting-state-updates#setting-state-does-not-update-variables)
 	- [Optimization strategies](https://beta.reactjs.org/learn/skipping-unchanged-trees)
+- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
