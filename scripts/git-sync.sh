@@ -9,6 +9,9 @@ if [ -n "$(git status -s)" ]; then
   git commit -m "docs: 📝 update on ${DATE}"
   git remote -v | grep fetch | awk '{print $2}' | git pull --rebase origin master
   git push
+elif [ -n "$(git status)" ]; then
+  git remote -v | grep fetch | awk '{print $2}' | git pull --rebase origin master
+  git push
 else
   echo ${MESSAGE}
 fi
