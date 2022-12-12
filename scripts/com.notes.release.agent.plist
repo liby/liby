@@ -6,7 +6,7 @@
     <string>com.notes.release.agent.plist</string>
     <key>ProgramArguments</key>
     <array>
-        <string>/Users/bryan/Code/Personal/liby/scripts/git-sync</string>
+        <string>/Users/bryan/Code/Personal/liby/scripts/git-sync.sh</string>
     </array>
     <key>WorkingDirectory</key>
     <string>/Users/bryan/Code/Personal/liby/</string>
