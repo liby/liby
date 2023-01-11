@@ -2,6 +2,7 @@
 
 DATE=$(date +"%Y-%m-%d %H:%M:%S")
 MESSAGE="Nothing to commit"
+git config commit.gpgsign false
 
 if [ -n "$(git status -s)" ]; then
   echo "Checked for changes:" ${DATE}
