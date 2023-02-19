@@ -19,3 +19,4 @@
 	- [Optimization strategies](https://beta.reactjs.org/learn/skipping-unchanged-trees)
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 - [DIY Linux Router Part 1: Hardware](https://www.sherbers.de/diy-linux-router-part-1-hardware/)
+- [Rust Atomics and Locks](https://marabos.nl/atomics/)
