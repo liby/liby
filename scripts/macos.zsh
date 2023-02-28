@@ -134,7 +134,7 @@ install_nodejs() {
   echo "                * Installing Node.js LTS...                "
   echo "-----------------------------------------------------------"
 
-  fnm install --lts
+  n lts
 
   echo "-----------------------------------------------------------"
   echo -n "                   * Node.js Version:                   "
