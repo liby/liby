@@ -1,6 +1,7 @@
 title:: English Learning
 
 - properly、appropriate、suitable 之间的区别
+  collapsed:: true
 	- **properly**（副词）：表示以正确、适当或恰当的方式进行。它通常用于描述动作或过程。
 	  collapsed:: true
 		- 示例：请确保您正确地安装了软件（Please make sure you install the software properly）。
@@ -15,6 +16,7 @@ title:: English Learning
 		- 注意它们的语境：`properly` 通常用于描述动作或过程；`appropriate` 和 `suitable` 通常用于描述选择、行为或事物。
 		- 多做练习：尝试用这三个词填空或改写句子，以便加深对它们用法的理解。
 - fair 和 equal 的区别
+  collapsed:: true
 	- **fair（公平）**
 		- `fair` 通常表示在一个特定情况下，事情、处理或判断是正当的和公正的。它强调权利和义务之间的平衡，而不总是意味所有人都得到相同的待遇。公平可能需要根据个人的努力、能力、需求和合法权益来决定。
 			- 例子：
@@ -31,3 +33,18 @@ title:: English Learning
 	- **shop（商店，小店）**
 		- `shop` 更常用于描述小型的零售店，尤其是在英国英语中。它通常指向提供较为专业的商品或服务的小型场所，如书店、花店、理发店等。
 	- 总的来说，`store` 和 `shop` 都表示出售商品的场所，但在规模和类型上，`store` 描述的商店通常规模更大，商品种类更多，而 `shop` 更常指表述小型商店、专业店等。在某些情况下，二者可以互换使用
+- demand 和 require 的区别
+	- **demand (v.)（需求，要求）**
+		- 表示强烈的欲望、需要或坚决请求某物。
+		- 通常带有紧迫感和权威感。
+		- 在一般情况下，`demand` 用于表达较为强烈、严肃的情况，例如工作、人际关系等。
+			- 例句：
+			- 1. 顾客要求退款。The customer demanded a refund.
+			  2. 抗议者要求公正和平等。The protesters demanded justice and equality.
+	- **require (v.)（需要，要求）**
+		- 表示基本的、必须的需求，通常在规则、条件、指导方面使用。
+		- 通常带有较低的情感强度，更具客观性。
+		- 在一般情况下，`require` 常用于法律、规范、步骤等场景。
+			- 例句：
+				- 1. 进入大楼需要刷卡。Entry to the building requires a card swipe.
+				  2. 申请这个职位需要具备三年经验。Applying for this position requires three years of experience.
