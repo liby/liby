@@ -136,4 +136,7 @@
   ;; E.g. #{:created-at :updated-at}
   ;; :block-hidden-properties #{}
   :editor/extra-codemirror-options {:lineWrapping true}
+  :file/name-format :triple-lowbar
+  :feature/enable-whiteboards? false
+  :feature/enable-flashcards? false
 }
