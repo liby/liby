@@ -9,6 +9,7 @@
 	- 链接如果失效请尝试使用 `Ctrl/Cmd` + `K` 来搜索关键词
 -
 - Knowledge
+  id:: 64817b0b-af96-4fd3-92e2-1071610f2213
 	- [[macOS]]
 	- [[Rust]]
 	- [[TypeScript]]
