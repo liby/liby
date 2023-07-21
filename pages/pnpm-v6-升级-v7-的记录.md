@@ -19,7 +19,7 @@ status:: [[DONE]]
 	    "dev": "pnpm run cmd --param"
 	  }
 	  ```
-- `pnpm install -g pkg` 不再会向全局的 Node.js 或 npm 文件夹里安装 pkg，[除非提前通过 `PNPM_HOME` 环境变量来指定](https://github.com/pnpm/pnpm/issues/4658#issuecomment-1119079637)
+- `pnpm add -g <pkg>` 不再会向全局的 _bin_ 文件夹中安装 pkg，[除非提前通过 `PNPM_HOME` 环境变量来指定](https://github.com/pnpm/pnpm/issues/4658#issuecomment-1119079637)
 	- 可以通过运行 `pnpm steup` 来完成设置环境变量的操作，它会：
 		- 为 pnpm CLI 创建一个主目录
 		- 通过更新 shell 配置文件将 pnpm 主目录添加到 `PATH`
