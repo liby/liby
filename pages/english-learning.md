@@ -50,10 +50,12 @@ title:: English Learning
 			- 例句：
 				- 1. 进入大楼需要刷卡。Entry to the building requires a card swipe.
 				  2. 申请这个职位需要具备三年经验。Applying for this position requires three years of experience.
-- joy，entertaining" 和 delightful 之间的区别
+- joy，entertaining，delightful 和 merry 之间的区别
 	- **Joy（愉快，快乐）**：这个词通常用来描述一种强烈的快乐或满足感。这种感觉通常源于某种愉快的事件或成就。
 		- 例如，你可能会因为完成一个困难的任务而感到“joy”，或者因为和家人朋友共度佳节而感到“joy”。
 	- **Entertaining（娱乐的，有趣的）**：这个词更多地用于描述某事物或活动引人注意，能够带给人们乐趣的特质。通常用于描述电影、音乐、书籍、游戏或者其他任何能吸引人的观看、听听或参与的事物。
 		- 例如，一部引人入胜的电影或一个有趣的游戏就可以被描述为“entertaining”。
 	- **Delightful（令人愉快的，可爱的）**: 这个词描述的是某种从某事物中得到的深深的快乐或满足感，它强调的是这种快乐感满溢的状况。它可以用于描述美食、天气、风景，或者任何让人有愉快感觉的事物或性质。
 		- 例如，一道美食可能会被描述为“delightful”。
+	- **Merry（愉快的，快乐的）**：这个词通常用于描述一种充满活力，欢悦且轻松的心境或环境，
+		- 比如在节日期间，你可能会听到 "merry Christmas"（圣诞快乐）这样的祝福语。
