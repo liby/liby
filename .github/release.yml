@@ -1,15 +1,13 @@
 changelog:
   exclude:
-    labels:
-      - Dependencies
     authors:
-      - dependabot
+      # Ignore the release PR created by github-actions
+      - github-actions
   categories:
-    - title: What's Changed 🎊
+    - title: 📦 Dependency Updates
+      labels:
+        - Dependencies
+        - Security
+    - title: 🦋 Other Changes
       labels:
         - '*'
-      exclude:
-        labels:
-          - Dependencies
-        authors:
-          - dependabot
