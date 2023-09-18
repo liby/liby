@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # This script is heavily inspired by [SukkaW](https://github.com/SukkaW/dotfiles/blob/master/_install/macos.zsh)
-# curl -o- https://raw.githubusercontent.com/liby/liby/master/scripts/macos.zsh | zsh
+# sudo curl -o- https://raw.githubusercontent.com/liby/liby/master/scripts/macos.zsh | zsh
 
 if [[ "$OSTYPE" != "darwin"* ]]; then
   echo "No macOS detected!"
@@ -43,7 +43,6 @@ install_homebrew() {
   echo "==========================================================="
   echo "                     Install Homebrew                      "
   echo "-----------------------------------------------------------"
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 }
 
