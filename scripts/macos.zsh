@@ -44,6 +44,7 @@ install_homebrew() {
   echo "                     Install Homebrew                      "
   echo "-----------------------------------------------------------"
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 }
 
 install_packages() {
