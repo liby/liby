@@ -91,9 +91,12 @@ setup_ohmyzsh() {
   echo "                                                           "
   echo "-----------------------------------------------------------"
 
-  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-  git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/zsh-completions
-  git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
+  export ZSH_PLUGINS_PREFIX="$HOME/.zsh/plugins"
+  [[ ! -d "$ZSH_PLUGINS_PREFIX" ]] && mkdir -p $ZSH_PLUGINS_PREFIX
+
+  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_PLUGINS_PREFIX}/zsh-autosuggestions
+  git clone https://github.com/zsh-users/zsh-completions ${ZSH_PLUGINS_PREFIX}/zsh-completions
+  git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_PLUGINS_PREFIX}/fast-syntax-highlighting
 }
 
 install_starship() {
@@ -123,7 +126,8 @@ install_nodejs() {
   echo "==========================================================="
   echo "              Setting up NodeJS Environment                "
 
-  eval "$(fnm env --use-on-cd --shell zsh)"
+  export N_PREFIX="$HOME/.n"
+  curl -fsSL https://raw.githubusercontent.com/tj/n/master/bin/n | bash -s lts
 
   # Set NPM Global Path
   export NPM_CONFIG_PREFIX="$HOME/.npm-global"
