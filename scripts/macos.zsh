@@ -118,10 +118,15 @@ setup_ohmyzsh() {
   echo "==========================================================="
   echo "                      Shells Enviroment                    "
   echo "-----------------------------------------------------------"
-  echo "                   * Installing Oh-My-Zsh...               "
+  echo "                   * Installing Oh My Zsh...               "
   echo "-----------------------------------------------------------"
 
-  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  if [[ -d "$HOME/.oh-my-zsh" ]]; then
+    echo "Oh My Zsh is already installed, skipping..."
+  else
+    echo "Oh My Zsh is not installed, proceeding with the installation..."
+    sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  fi
 
   echo "-----------------------------------------------------------"
   echo "          * Installing ZSH Custom Plugins & Themes:        "
@@ -265,8 +270,8 @@ reload_zshrc() {
   echo "                  Reload Bryan env zshrc                   "
   echo "-----------------------------------------------------------"
 
-  exec zsh
   rm ~/.zcompdump*; compinit -i
+  exec zsh
 }
 
 finish() {
@@ -279,7 +284,8 @@ finish() {
   echo "- NPM login                                                "
   echo "- Steup iTerm2                                             "
   echo "- Steup launchd for notes                                  "
-  echo "- Install Slack,                                           "
+  echo "- Install Bob,                                             "
+  echo "          Slack,                                           "
   echo "          WeChat,                                          "
   echo "          Telegram,                                        "
   echo "          The Unarchiver,                                  "
@@ -303,5 +309,5 @@ restore_dotfiles
 install_nodejs
 install_rust
 install_font
-reload_zshrc
 finish
+reload_zshrc
