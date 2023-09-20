@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # This script is heavily inspired by [SukkaW](https://github.com/SukkaW/dotfiles/blob/master/_install/macos.zsh)
-# sudo curl -o- https://raw.githubusercontent.com/liby/liby/master/scripts/macos.zsh | zsh
+# curl -o macos.zsh https://raw.githubusercontent.com/liby/liby/master/scripts/macos.zsh && chmod +x macos.zsh && ./macos.zsh
 
 if [[ "$OSTYPE" != "darwin"* ]]; then
   echo "No macOS detected!"
@@ -36,6 +36,21 @@ start() {
   echo "                                                           "
 
   cd $HOME
+  xcode-select --install || true
+}
+
+is_apple_silicon() {
+  [[ "$(/usr/bin/uname -m)" == "arm64" ]]
+}
+
+brew_shellenv() {
+  # It will export env variable: HOMEBREW_PREFIX, HOMEBREW_CELLAR, HOMEBREW_REPOSITORY, HOMEBREW_SHELLENV_PREFIX
+  # It will add path: $PATH, $MANPATH, $INFOPATH
+  if is_apple_silicon; then
+      eval "$(/opt/homebrew/bin/brew shellenv)"
+  else
+      eval "$(/usr/local/bin/brew shellenv)"
+  fi
 }
 
 # xcode command tool will be installed during homebrew installation
@@ -43,7 +58,20 @@ install_homebrew() {
   echo "==========================================================="
   echo "                     Install Homebrew                      "
   echo "-----------------------------------------------------------"
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  if [ ! -x "$(command -v brew)" ]; then
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+    brew_shellenv
+    if ! ([[ -e ~/.zprofile ]] && grep -q "brew shellenv" ~/.zprofile); then
+        echo "eval \"\$(${HOMEBREW_PREFIX}/bin/brew shellenv)\"" >> "${HOME}/.zprofile"
+    fi
+
+
+    brew analytics off && brew update
+    echo "Homebrew installed."
+  else
+    echo "Homebrew already installed. Skipping..."
+  fi
 }
 
 install_packages() {
