@@ -33,10 +33,9 @@ start() {
   sleep 5
 
   echo -n "Times up! Here we start!"
-  echo "                                                           "
+  echo "-----------------------------------------------------------"
 
   cd $HOME
-  xcode-select --install || true
 }
 
 is_apple_silicon() {
@@ -53,19 +52,22 @@ brew_shellenv() {
   fi
 }
 
-# xcode command tool will be installed during homebrew installation
 install_homebrew() {
   echo "==========================================================="
   echo "                     Install Homebrew                      "
   echo "-----------------------------------------------------------"
+
+  # xcode command tool will be installed during homebrew installation
+  xcode-select --install || true
+
   if [ ! -x "$(command -v brew)" ]; then
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
     brew_shellenv
     if ! ([[ -e ~/.zprofile ]] && grep -q "brew shellenv" ~/.zprofile); then
         echo "eval \"\$(${HOMEBREW_PREFIX}/bin/brew shellenv)\"" >> "${HOME}/.zprofile"
+        echo "typeset -U path" >> "${HOME}/.zprofile"
     fi
-
 
     brew analytics off && brew update
     echo "Homebrew installed."
@@ -74,7 +76,7 @@ install_homebrew() {
   fi
 }
 
-install_packages() {
+install_brew_packages() {
   # Only install required packages for setting up enviroments
   # Later we will call brew bundle
   __pkg_to_be_installed=(
@@ -96,9 +98,20 @@ install_packages() {
 
   brew update
 
-  for __pkg ($__pkg_to_be_installed); do
-    brew install ${__pkg} || true
+  for __pkg in $__pkg_to_be_installed; do
+    if brew list --formula | grep -q "^${__pkg}\$"; then
+      echo "${__pkg} is already installed, skipping..."
+    else
+      brew install ${__pkg} || true
+    fi
   done
+}
+
+brew_bundle() {
+  echo "-----------------------------------------------------------"
+  echo "          * Restore bundles from Homebrew                  "
+  echo "-----------------------------------------------------------"
+  brew bundle
 }
 
 setup_ohmyzsh() {
@@ -122,9 +135,17 @@ setup_ohmyzsh() {
   export ZSH_PLUGINS_PREFIX="$HOME/.zsh/plugins"
   [[ ! -d "$ZSH_PLUGINS_PREFIX" ]] && mkdir -p $ZSH_PLUGINS_PREFIX
 
-  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_PLUGINS_PREFIX}/zsh-autosuggestions
-  git clone https://github.com/zsh-users/zsh-completions ${ZSH_PLUGINS_PREFIX}/zsh-completions
-  git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_PLUGINS_PREFIX}/fast-syntax-highlighting
+  if [[ ! -d "${ZSH_PLUGINS_PREFIX}/zsh-autosuggestions" ]]; then
+    git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_PLUGINS_PREFIX}/zsh-autosuggestions
+  fi
+
+  if [[ ! -d "${ZSH_PLUGINS_PREFIX}/zsh-completions" ]]; then
+    git clone https://github.com/zsh-users/zsh-completions ${ZSH_PLUGINS_PREFIX}/zsh-completions
+  fi
+
+  if [[ ! -d "${ZSH_PLUGINS_PREFIX}/fsh" ]]; then
+    git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_PLUGINS_PREFIX}/fsh
+  fi
 }
 
 install_starship() {
@@ -132,7 +153,11 @@ install_starship() {
   echo "                   Install Starship                        "
   echo "-----------------------------------------------------------"
 
-  curl -sS https://starship.rs/install.sh | sh
+  if command -v starship > /dev/null; then
+    echo "Starship is already installed, skipping..."
+  else
+    curl -sS https://starship.rs/install.sh | sh
+  fi
 }
 
 restore_dotfiles() {
@@ -140,19 +165,28 @@ restore_dotfiles() {
   echo "          * Restore Bryan/dotfiles from GitHub.com         "
   echo "-----------------------------------------------------------"
 
-  git clone --bare git@github.com:liby/dotfiles.git $HOME/.dotfiles
-  alias dot="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
-  dot config --local status.showUntrackedFiles no
-  dot checkout
+  if [[ -d "$HOME/.dotfiles" ]]; then
+    echo "Dotfiles already restored, skipping..."
+  else
+    git clone --bare git@github.com:liby/dotfiles.git $HOME/.dotfiles
+    alias dot="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
+    dot config --local status.showUntrackedFiles no
+    dot checkout --force
+
+    brew_bundle
+  fi
 }
 
-brew_bundle() {
-  brew bundle
-}
 
 install_nodejs() {
   echo "==========================================================="
   echo "              Setting up NodeJS Environment                "
+  echo "==========================================================="
+
+  if command -v n > /dev/null; then
+    echo "tj/n is already installed, skipping..."
+    return
+  fi
 
   export N_PREFIX="$HOME/.n"
   curl -fsSL https://raw.githubusercontent.com/tj/n/master/bin/n | bash -s lts
@@ -172,6 +206,8 @@ install_nodejs() {
   echo -n "                   * Node.js Version:                   "
 
   node -v
+
+  echo "-----------------------------------------------------------"
 
   __npm_global_pkgs=(
     @upimg/cli
@@ -202,7 +238,12 @@ install_rust() {
   echo "                   Install Rust                            "
   echo "-----------------------------------------------------------"
 
-  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+  if command -v rustc > /dev/null; then
+    echo "Rust is already installed, skipping..."
+  else
+    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  fi
 }
 
 install_font() {
@@ -210,7 +251,13 @@ install_font() {
   echo "                 Install Inconsolata LGC                   "
   echo "-----------------------------------------------------------"
 
-  curl -LJO https://github.com/ryanoasis/nerd-fonts/releases/latest/download/InconsolataLGC.zip -o $HOME/Downloads
+  local font_file="$HOME/Downloads/InconsolataLGC.zip"
+  
+  if [[ -e "${font_file}" ]]; then
+    echo "Font already downloaded, skipping..."
+  else
+    curl -LJO https://github.com/ryanoasis/nerd-fonts/releases/latest/download/InconsolataLGC.zip -o $font_file
+  fi
 }
 
 reload_zshrc() {
@@ -218,7 +265,7 @@ reload_zshrc() {
   echo "                  Reload Bryan env zshrc                   "
   echo "-----------------------------------------------------------"
 
-  # exec zsh
+  exec zsh
   rm ~/.zcompdump*; compinit -i
 }
 
@@ -249,11 +296,10 @@ finish() {
 
 start
 install_homebrew
-install_packages
+install_brew_packages
 setup_ohmyzsh
 install_starship
 restore_dotfiles
-brew_bundle
 install_nodejs
 install_rust
 install_font
