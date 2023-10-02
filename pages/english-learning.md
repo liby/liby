@@ -51,6 +51,7 @@ title:: English Learning
 				- 1. 进入大楼需要刷卡。Entry to the building requires a card swipe.
 				  2. 申请这个职位需要具备三年经验。Applying for this position requires three years of experience.
 - joy，entertaining，delightful 和 merry 之间的区别
+  collapsed:: true
 	- **Joy（愉快，快乐）**：这个词通常用来描述一种强烈的快乐或满足感。这种感觉通常源于某种愉快的事件或成就。
 		- 例如，你可能会因为完成一个困难的任务而感到“joy”，或者因为和家人朋友共度佳节而感到“joy”。
 	- **Entertaining（娱乐的，有趣的）**：这个词更多地用于描述某事物或活动引人注意，能够带给人们乐趣的特质。通常用于描述电影、音乐、书籍、游戏或者其他任何能吸引人的观看、听听或参与的事物。
