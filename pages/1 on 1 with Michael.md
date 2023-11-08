@@ -31,6 +31,7 @@
 			- 结构：
 				- Subject（主语） + have/has + been + 动词-ing形式（如 write → writing, go → going）
 - 2023-11-05
+  collapsed:: true
 	- 过去进行时 (Past Continuous Tense)
 	  collapsed:: true
 		- **用途**：
@@ -149,7 +150,40 @@
 		- **get over** - 克服；恢复；忘记
 			- 例句：It took him weeks to get over the flu.（他花了几周时间才从流感中恢复过来。）
 - 2023-10-29
-	- **“used to” 与一般过去时（Past Simple）的区别**
+  collapsed:: true
+	- **"used to" 与一般过去时（Past Simple）的区别**
+		- "used to" 的用法
+		  collapsed:: true
+			- **描述过去常做但现在不再做的事情**：
+				- 用于表达过去的习惯或状态，这些习惯或状态在现在已经不再存在或发生。
+				- 例句：I used to play basketball when I was in high school.（我高中时常打篮球。）
+			- **描述过去的事实但现在已经改变**：
+				- 用于表达过去的事实或情况，这些事实或情况已经不再是真的。
+				- 例句：There used to be a cinema here, but it was demolished.（这里以前有一家电影院，但它已经被拆除了。）
+			- **可以与频率副词连用**：
+				- 表达过去频繁发生的动作或习惯。
+				- 例句：He used to go fishing regularly on weekends.（他过去经常在周末去钓鱼。）
+		- "Past Simple" 的用法
+		  collapsed:: true
+			- **描述单一的过去事件或动作**：
+				- 用于表达过去某一具体时间点或短时间内发生的单一事件或动作。
+				- 例句：I visited the Great Wall last year.（我去年参观了长城。）
+			- **描述持续一段时间的过去事件或动作**：
+				- 用于表达过去持续一段时间的事件或动作。
+				- 例句：She worked in that company for five years.（她在那家公司工作了五年。）
+			- **与特定的时间副词连用**：
+				- 常与表示具体过去时间的副词连用，如：昨天、去年、上个月等。
+				- 例句：They arrived at 6:30 p.m.（他们在下午6点30分到达。）
+			- **描述过去重复发生的动作或事件**：
+				- 用于表达过去重复发生的动作或事件。
+				- 例句：We visited our grandparents every Sunday.（我们每个周日都会去看望我们的祖父母。）
+		- "used to" 和 "Past Simple" 的使用场景
+			- 当我们不提供具体的时间参照时，"used to" 和 "Past Simple" 都可以使用，二者在这种情况下可以互换。
+			- 如果给出了具体的时间参照，我们倾向于使用 "Past Simple"。
+			- "used to" 强调的是与现在对比下的一个过去的状态或习惯的改变。
+			- **例句对比**：
+				- Past Simple: I stayed with my aunt last summer.（去年夏天我和我阿姨住在一起。）
+				- Used to: I used to stay with my aunt when I was younger.（我小时候常和我阿姨住在一起。）
 - 2023-10-27
   collapsed:: true
 	- 介绍个人情况，做了一份分级考试的测试
