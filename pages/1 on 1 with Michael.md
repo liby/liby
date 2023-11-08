@@ -1,0 +1,52 @@
+- 2023-11-07
+  collapsed:: true
+	- 现在完成时 (Present Perfect) vs. 现在完成进行时 (Present Perfect Continuous)
+		- **现在完成时 (Present Perfect)**
+			- 用途：
+				- 表示已经完成的动作，重点在于动作的结果。
+				- 用于持久性或永久性的行为。
+				- 强调到目前为止发生的次数。
+				- 指示完成了多少/多少次（量化结果）。
+			- 结构：
+				- Subject（主语） + have/has + 过去分词（如 write → written, go → gone）
+				- 英语动词有规则变化和不规则变化两种，我们需要分别记忆。
+					- 对于规则动词，现在完成时的构成很简单：只需要在动词原形的末尾加上 "-ed" 来形成过去分词。例如:
+						- "talk" 变为 "talked"（谈论）
+						- "work" 变为 "worked"（工作）
+						- "clean" 变为 "cleaned"（清洁）
+					- 然而，对于不规则动词，过去分词的形式可能会有很大的变化，而且并没有一个统一的规则来决定如何形成过去分词，所以必须单独记忆。例如:
+						- "write" 的过去分词是 "written"（写）
+						- "go" 的过去分词是 "gone"（去）
+						- "be" 的过去分词是 "been"（是）
+					- 有些不规则动词的过去分词和原形相同，比如:
+						- "put" 的过去分词还是 "put"（放置）
+						- "read" 的过去分词还是 "read"（读），尽管它们读音不同，过去分词读作 /rɛd/ 和原形读作 /riːd/。
+						- "set" 的过去分词还是 "set"（设置）
+		- **现在完成进行时 (Present Perfect Continuous)**
+			- 用途：
+				- 描述尚未完成的动作或刚刚完成的动作，重点在于动作的持续时间。
+				- 用于临时性或短期内的行为。
+				- 强调行动持续的时间（而不是完成）。
+				- 指示一个进行中的过程：正在做多少/多少次（强调持续性和过程）。
+			- 结构：
+				- Subject（主语） + have/has + been + 动词-ing形式（如 write → writing, go → going）
+- 2023-10-05
+  collapsed:: true
+	- 过去进行时 (Past Continuous Tense)
+		- **用途**：
+			- 描述在过去某个特定时间点正在进行的动作。
+			- 用来表示两个或更多在过去同时发生的平行动作。
+			- 表达在过去某个动作或事件中断时正在进行的另一个动作。
+			- 描述在过去重复发生的动作，并可用来表达由此引起的烦恼或不满。
+		- **结构**：
+			- 肯定句：S + was/were + V-ing
+			- 单数主语（I, he, she, it）用 "was"。
+				- 复数主语（you, we, they）以及第二人称任何数都用 "were"。
+				- 连接动词 "be" 的适当形式（was/were）和动词的现在分词形式（-ing形式）。
+				- 例如："She was reading a book when I saw her."
+			- 否定句：S + was/were + not + V-ing
+				- 即在肯定句结构后面加上 "not" 来形成否定句。
+				- 例如："We were not (weren't) watching TV at 8 pm."
+			- 疑问句：Was/Were + S + V-ing?
+				- 把 "be" 动词放在主语前面构成一般疑问句。
+				- 例如："Were you sleeping when I called?"
