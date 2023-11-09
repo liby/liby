@@ -1,35 +1,87 @@
-- 2023-11-07
+- 2023-10-27
   collapsed:: true
-	- 现在完成时 (Present Perfect) vs. 现在完成进行时 (Present Perfect Continuous)
-		- **现在完成时 (Present Perfect)**
-			- 用途：
-				- 表示已经完成的动作，重点在于动作的结果。
-				- 用于持久性或永久性的行为。
-				- 强调到目前为止发生的次数。
-				- 指示完成了多少/多少次（量化结果）。
-			- 结构：
-				- Subject（主语） + have/has + 过去分词（如 write → written, go → gone）
-				- 英语动词有规则变化和不规则变化两种，我们需要分别记忆。
-					- 对于规则动词，现在完成时的构成很简单：只需要在动词原形的末尾加上 "-ed" 来形成过去分词。例如:
-						- "talk" 变为 "talked"（谈论）
-						- "work" 变为 "worked"（工作）
-						- "clean" 变为 "cleaned"（清洁）
-					- 然而，对于不规则动词，过去分词的形式可能会有很大的变化，而且并没有一个统一的规则来决定如何形成过去分词，所以必须单独记忆。例如:
-						- "write" 的过去分词是 "written"（写）
-						- "go" 的过去分词是 "gone"（去）
-						- "be" 的过去分词是 "been"（是）
-					- 有些不规则动词的过去分词和原形相同，比如:
-						- "put" 的过去分词还是 "put"（放置）
-						- "read" 的过去分词还是 "read"（读），尽管它们读音不同，过去分词读作 /rɛd/ 和原形读作 /riːd/。
-						- "set" 的过去分词还是 "set"（设置）
-		- **现在完成进行时 (Present Perfect Continuous)**
-			- 用途：
-				- 描述尚未完成的动作或刚刚完成的动作，重点在于动作的持续时间。
-				- 用于临时性或短期内的行为。
-				- 强调行动持续的时间（而不是完成）。
-				- 指示一个进行中的过程：正在做多少/多少次（强调持续性和过程）。
-			- 结构：
-				- Subject（主语） + have/has + been + 动词-ing形式（如 write → writing, go → going）
+	- 介绍个人情况，做了一份分级考试的测试
+- 2023-10-29
+  collapsed:: true
+	- **"used to" 与一般过去时（Past Simple）的区别**
+		- "used to" 的用法
+		  collapsed:: true
+			- **描述过去常做但现在不再做的事情**：
+				- 用于表达过去的习惯或状态，这些习惯或状态在现在已经不再存在或发生。
+				- 例句：I used to play basketball when I was in high school.（我高中时常打篮球。）
+			- **描述过去的事实但现在已经改变**：
+				- 用于表达过去的事实或情况，这些事实或情况已经不再是真的。
+				- 例句：There used to be a cinema here, but it was demolished.（这里以前有一家电影院，但它已经被拆除了。）
+			- **可以与频率副词连用**：
+				- 表达过去频繁发生的动作或习惯。
+				- 例句：He used to go fishing regularly on weekends.（他过去经常在周末去钓鱼。）
+		- "Past Simple" 的用法
+		  collapsed:: true
+			- **描述单一的过去事件或动作**：
+				- 用于表达过去某一具体时间点或短时间内发生的单一事件或动作。
+				- 例句：I visited the Great Wall last year.（我去年参观了长城。）
+			- **描述持续一段时间的过去事件或动作**：
+				- 用于表达过去持续一段时间的事件或动作。
+				- 例句：She worked in that company for five years.（她在那家公司工作了五年。）
+			- **与特定的时间副词连用**：
+				- 常与表示具体过去时间的副词连用，如：昨天、去年、上个月等。
+				- 例句：They arrived at 6:30 p.m.（他们在下午6点30分到达。）
+			- **描述过去重复发生的动作或事件**：
+				- 用于表达过去重复发生的动作或事件。
+				- 例句：We visited our grandparents every Sunday.（我们每个周日都会去看望我们的祖父母。）
+		- "used to" 和 "Past Simple" 的使用场景
+			- 当我们不提供具体的时间参照时，"used to" 和 "Past Simple" 都可以使用，二者在这种情况下可以互换。
+			- 如果给出了具体的时间参照，我们倾向于使用 "Past Simple"。
+			- "used to" 强调的是与现在对比下的一个过去的状态或习惯的改变。
+			- **例句对比**：
+				- Past Simple: I stayed with my aunt last summer.（去年夏天我和我阿姨住在一起。）
+				- Used to: I used to stay with my aunt when I was younger.（我小时候常和我阿姨住在一起。）
+- 2023-11-01
+  collapsed:: true
+	- 关于 "put" 的短语动词（phrasal verbs）的中文解释和使用例句：
+	  collapsed:: true
+		- **put out** - 熄灭，扑灭；使不便
+			- 例句：Please put out your cigarette before entering the building.（请在进入大楼之前熄灭你的香烟。）
+			- 例句：I didn't mean to put you out with my late arrival.（我并不是故意让你因为我迟到而感到不便。）
+		- **put up with** - 忍受，容忍
+			- 例句：I don’t know how she puts up with his bad behavior.（我不知道她是如何忍受他的恶劣行为的。）
+		- **put off** - 推迟，延期
+			- 例句：They decided to put off the meeting until next week.（他们决定将会议推迟到下周。）
+		- **put away** - 放好，收起；储存
+			- 例句：Please put away your toys after playing.（玩完玩具后请收好。）
+			- 例句：She put away her clothes in the closet.（她把衣服收进了衣柜。）
+		- **put through** - 接通电话；使经历（困难或不愉快的事情）
+			- 例句：Could you put me through to the manager, please?（你能帮我接通经理的电话吗？）
+			- 例句：His parents put him through college.（他的父母供他上了大学。）
+		- **put on** - 穿上；上演
+			- 例句：She put on her coat and left the house.（她穿上大衣离开了家。）
+			- 例句：The theatre is putting on a production of Hamlet.（剧院正在上演《哈姆雷特》。）
+	- 关于 "get" 的短语动词（phrasal verbs）的中文解释和使用例句：
+		- **get through** - 完成；通过；接通电话
+			- 例句：I finally got through the paperwork.（我终于完成了那些文书工作。）
+			- 例句：I can't get through to the customer service hotline.（我打不通客服热线。）
+		- **get up** - 起床；站起来
+			- 例句：He gets up at 6 a.m. every morning.（他每天早上六点起床。）
+		- **get across** - 传达；使被理解
+			- 例句：He struggled to get his point across during the meeting.（他在会议上努力表达自己的观点。）
+		- **get along** - 相处融洽；进展
+			- 例句：She gets along well with her colleagues.（她和同事们相处得很好。）
+		- **get away** - 逃脱；离开；度假
+			- 例句：Everyone needs to get away from work and relax sometimes.（每个人都需要从工作中抽身出来，有时放松一下。）
+		- **get by** - 勉强过活；应付过去
+			- 例句：It's hard to get by on a small salary.（靠微薄的薪水生活很困难。）
+		- **get down(to)** - 开始认真处理；专注于
+			- 例句：Let's get down to business.（我们开始认真做生意吧。）
+		- **get in** - 进入；到达
+			- 例句：What time did you get in last night?（你昨晚什么时候到的家？）
+		- **get off** - 下车；开始；摆脱
+			- 例句：You need to get off at the next stop.（你需要在下一站下车。）
+		- **get on** - 上车；继续进行；相处
+			- 例句：I got on the bus just as it was leaving.（公共汽车刚要开，我就上了车。）
+		- **get out** - 出去；逃脱；传开
+			- 例句：Let's get out of the office and go for lunch.（我们离开办公室去吃午饭吧。）
+		- **get over** - 克服；恢复；忘记
+			- 例句：It took him weeks to get over the flu.（他花了几周时间才从流感中恢复过来。）
 - 2023-11-05
   collapsed:: true
 	- 过去进行时 (Past Continuous Tense)
@@ -103,87 +155,83 @@
 				- 实践中注意动词的基本形式结尾声音，应用正确的发音规则。
 			- **例外情况：**
 				- 一些词虽然拼写上以 “-ed” 结尾，但不遵循上述规则，如 “aged” **/ˈeɪ.dʒɪd/** 或 “blessed” **/ˈbles.ɪd/**，这些通常与特定含义或语境有关。
-- 2023-11-01
+- 2023-11-07
   collapsed:: true
-	- 关于 "put" 的短语动词（phrasal verbs）的中文解释和使用例句：
-	  collapsed:: true
-		- **put out** - 熄灭，扑灭；使不便
-			- 例句：Please put out your cigarette before entering the building.（请在进入大楼之前熄灭你的香烟。）
-			- 例句：I didn't mean to put you out with my late arrival.（我并不是故意让你因为我迟到而感到不便。）
-		- **put up with** - 忍受，容忍
-			- 例句：I don’t know how she puts up with his bad behavior.（我不知道她是如何忍受他的恶劣行为的。）
-		- **put off** - 推迟，延期
-			- 例句：They decided to put off the meeting until next week.（他们决定将会议推迟到下周。）
-		- **put away** - 放好，收起；储存
-			- 例句：Please put away your toys after playing.（玩完玩具后请收好。）
-			- 例句：She put away her clothes in the closet.（她把衣服收进了衣柜。）
-		- **put through** - 接通电话；使经历（困难或不愉快的事情）
-			- 例句：Could you put me through to the manager, please?（你能帮我接通经理的电话吗？）
-			- 例句：His parents put him through college.（他的父母供他上了大学。）
-		- **put on** - 穿上；上演
-			- 例句：She put on her coat and left the house.（她穿上大衣离开了家。）
-			- 例句：The theatre is putting on a production of Hamlet.（剧院正在上演《哈姆雷特》。）
-	- 关于 "get" 的短语动词（phrasal verbs）的中文解释和使用例句：
-		- **get through** - 完成；通过；接通电话
-			- 例句：I finally got through the paperwork.（我终于完成了那些文书工作。）
-			- 例句：I can't get through to the customer service hotline.（我打不通客服热线。）
-		- **get up** - 起床；站起来
-			- 例句：He gets up at 6 a.m. every morning.（他每天早上六点起床。）
-		- **get across** - 传达；使被理解
-			- 例句：He struggled to get his point across during the meeting.（他在会议上努力表达自己的观点。）
-		- **get along** - 相处融洽；进展
-			- 例句：She gets along well with her colleagues.（她和同事们相处得很好。）
-		- **get away** - 逃脱；离开；度假
-			- 例句：Everyone needs to get away from work and relax sometimes.（每个人都需要从工作中抽身出来，有时放松一下。）
-		- **get by** - 勉强过活；应付过去
-			- 例句：It's hard to get by on a small salary.（靠微薄的薪水生活很困难。）
-		- **get down(to)** - 开始认真处理；专注于
-			- 例句：Let's get down to business.（我们开始认真做生意吧。）
-		- **get in** - 进入；到达
-			- 例句：What time did you get in last night?（你昨晚什么时候到的家？）
-		- **get off** - 下车；开始；摆脱
-			- 例句：You need to get off at the next stop.（你需要在下一站下车。）
-		- **get on** - 上车；继续进行；相处
-			- 例句：I got on the bus just as it was leaving.（公共汽车刚要开，我就上了车。）
-		- **get out** - 出去；逃脱；传开
-			- 例句：Let's get out of the office and go for lunch.（我们离开办公室去吃午饭吧。）
-		- **get over** - 克服；恢复；忘记
-			- 例句：It took him weeks to get over the flu.（他花了几周时间才从流感中恢复过来。）
-- 2023-10-29
-  collapsed:: true
-	- **"used to" 与一般过去时（Past Simple）的区别**
-		- "used to" 的用法
-		  collapsed:: true
-			- **描述过去常做但现在不再做的事情**：
-				- 用于表达过去的习惯或状态，这些习惯或状态在现在已经不再存在或发生。
-				- 例句：I used to play basketball when I was in high school.（我高中时常打篮球。）
-			- **描述过去的事实但现在已经改变**：
-				- 用于表达过去的事实或情况，这些事实或情况已经不再是真的。
-				- 例句：There used to be a cinema here, but it was demolished.（这里以前有一家电影院，但它已经被拆除了。）
-			- **可以与频率副词连用**：
-				- 表达过去频繁发生的动作或习惯。
-				- 例句：He used to go fishing regularly on weekends.（他过去经常在周末去钓鱼。）
-		- "Past Simple" 的用法
-		  collapsed:: true
-			- **描述单一的过去事件或动作**：
-				- 用于表达过去某一具体时间点或短时间内发生的单一事件或动作。
-				- 例句：I visited the Great Wall last year.（我去年参观了长城。）
-			- **描述持续一段时间的过去事件或动作**：
-				- 用于表达过去持续一段时间的事件或动作。
-				- 例句：She worked in that company for five years.（她在那家公司工作了五年。）
-			- **与特定的时间副词连用**：
-				- 常与表示具体过去时间的副词连用，如：昨天、去年、上个月等。
-				- 例句：They arrived at 6:30 p.m.（他们在下午6点30分到达。）
-			- **描述过去重复发生的动作或事件**：
-				- 用于表达过去重复发生的动作或事件。
-				- 例句：We visited our grandparents every Sunday.（我们每个周日都会去看望我们的祖父母。）
-		- "used to" 和 "Past Simple" 的使用场景
-			- 当我们不提供具体的时间参照时，"used to" 和 "Past Simple" 都可以使用，二者在这种情况下可以互换。
-			- 如果给出了具体的时间参照，我们倾向于使用 "Past Simple"。
-			- "used to" 强调的是与现在对比下的一个过去的状态或习惯的改变。
-			- **例句对比**：
-				- Past Simple: I stayed with my aunt last summer.（去年夏天我和我阿姨住在一起。）
-				- Used to: I used to stay with my aunt when I was younger.（我小时候常和我阿姨住在一起。）
-- 2023-10-27
-  collapsed:: true
-	- 介绍个人情况，做了一份分级考试的测试
+	- 现在完成时 (Present Perfect) vs. 现在完成进行时 (Present Perfect Continuous)
+		- **现在完成时 (Present Perfect)**
+			- 用途：
+				- 表示已经完成的动作，重点在于动作的结果。
+				- 用于持久性或永久性的行为。
+				- 强调到目前为止发生的次数。
+				- 指示完成了多少/多少次（量化结果）。
+			- 结构：
+				- Subject（主语） + have/has + 过去分词（如 write → written, go → gone）
+				- 英语动词有规则变化和不规则变化两种，我们需要分别记忆。
+					- 对于规则动词，现在完成时的构成很简单：只需要在动词原形的末尾加上 "-ed" 来形成过去分词。例如:
+						- "talk" 变为 "talked"（谈论）
+						- "work" 变为 "worked"（工作）
+						- "clean" 变为 "cleaned"（清洁）
+					- 然而，对于不规则动词，过去分词的形式可能会有很大的变化，而且并没有一个统一的规则来决定如何形成过去分词，所以必须单独记忆。例如:
+						- "write" 的过去分词是 "written"（写）
+						- "go" 的过去分词是 "gone"（去）
+						- "be" 的过去分词是 "been"（是）
+					- 有些不规则动词的过去分词和原形相同，比如:
+						- "put" 的过去分词还是 "put"（放置）
+						- "read" 的过去分词还是 "read"（读），尽管它们读音不同，过去分词读作 /rɛd/ 和原形读作 /riːd/。
+						- "set" 的过去分词还是 "set"（设置）
+		- **现在完成进行时 (Present Perfect Continuous)**
+			- 用途：
+				- 描述尚未完成的动作或刚刚完成的动作，重点在于动作的持续时间。
+				- 用于临时性或短期内的行为。
+				- 强调行动持续的时间（而不是完成）。
+				- 指示一个进行中的过程：正在做多少/多少次（强调持续性和过程）。
+			- 结构：
+				- Subject（主语） + have/has + been + 动词-ing形式（如 write → writing, go → going）
+- 2023-11-09
+	- **关系代词（Relative Pronouns）**
+		- **1. WHO**
+			- 指代人，作为主语。
+			  用法类似于 "他" 或 "她"。
+			  例句：The teacher who lives next door is very kind.（住在隔壁的老师非常和善。）
+			- 例句：The woman who called you is my teacher.
+		- **2. WHOM**
+			- 指代人，作为动词的宾语。
+			- 用法类似于 "他/她"，比 WHO 更正式，常用在宾语位置或介词后。
+			- 例句：To whom did you give the book?（你把书给了谁？）
+			- 例句：The man whom you saw yesterday is my uncle.
+		- **3. WHOSE**
+			- 表示所有格，指代人的所有物。
+			- 用法类似于 "他的" 或 "她的"。
+			- 例句：The girl whose phone rang in class was embarrassed.（课上手机响的那个女孩感到很尴尬。）
+			- 例句：That's the boy whose bicycle was stolen.
+		- **4. WHICH**
+			- 用于指物或动物，作主语或宾语。
+			- 指代动物和无生命的物体，作为主语或宾语。
+			- 用法类似于 "它" 或 "它们"。
+			- 例句：That is the car which hit the tree.（那是撞到树的那辆车。）
+			- 例句：The book which you need is out of print.
+		- **5. THAT**
+			- 既可指代人，也可指代物体和动物，作为主语或宾语。
+			- 是一个多功能代词，通常在限定性从句中使用。
+			- 例句：The book that you see on the table is mine.（你在桌子上看到的那本书是我的。）
+			- 例句：She is the one that knows the answer.
+		- **6. WHERE**
+			- 用于指地点。
+			- 例句：We went back to the house where we grew up.（我们回到了我们长大的那所房子。）
+			- 例句：This is the house where I was born.
+		- **7. WHEN**
+			- 用于指时间。
+			- 例句：I remember the day when we first met.（我记得我们第一次见面的那一天。）
+			- 例句：Sunday is the day when I do most of my shopping.
+		- **8. WHY**
+			- 用于指原因。
+			- 例句：I don't understand the reason why he acted like that.（我不明白他为什么那样行事的原因。）
+			- 例句：The reason why he left is unknown.
+		- **9. WHAT**
+			- 用于指物，可以作主语或宾语，还可以引导主语从句或宾语从句。
+			- 例句：What we need is a little more time.（我们需要的是多一点时间。）
+			- 例句：What I need is some good advice.
+		- **注意事项：**
+			- **WHOM** 在日常口语中越来越少使用，常被 **WHO** 替代。
+			- **THAT** 和 **WHICH** 在非限定性从句中不可互换，**THAT** 不能用于非限定性从句。
+			- **WHERE**, **WHEN**, 和 **WHY** 常用于引导特定的状语从句。
