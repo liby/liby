@@ -189,6 +189,7 @@
 				- Subject（主语） + have/has + been + 动词-ing形式（如 write → writing, go → going）
 - 2023-11-09
 	- **关系代词（Relative Pronouns）**
+	  collapsed:: true
 		- **1. WHO**
 			- 指代人，作为主语。
 			  用法类似于 "他" 或 "她"。
@@ -235,3 +236,16 @@
 			- **WHOM** 在日常口语中越来越少使用，常被 **WHO** 替代。
 			- **THAT** 和 **WHICH** 在非限定性从句中不可互换，**THAT** 不能用于非限定性从句。
 			- **WHERE**, **WHEN**, 和 **WHY** 常用于引导特定的状语从句。
+	- **/ɪ/ 和 /iː/**
+		- 在英语发音中，“minimal pairs” 指的是那些只有一个音素不同的单词对，这种差异通常改变了单词的意义。"/ɪ/" 和 "/iː/" 就是这样一对元音音素，它们的发音位置相近，但长度和张力不同。
+		- **/ɪ/**
+			- 这个音称为“短i”，音质较短暂，嘴巴不太张开。
+			- 例如：ship /ʃɪp/
+		- **/iː/**
+			- 这个音称为“长ee”，音质较长，嘴巴张开程度比“短i”要大，舌头位置更靠近硬腭。
+			- 例如：sheep /ʃiːp/
+		- **Minimal Pairs Examples for /ɪ/ and /iː/**
+			- bit /bɪt/ - beet /biːt/
+			- sit /sɪt/ - seat /siːt/
+			- fill /fɪl/ - feel /fiːl/
+			- ship /ʃɪp/ - sheep /ʃiːp/
