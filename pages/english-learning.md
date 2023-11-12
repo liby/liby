@@ -28,4 +28,3 @@ title:: English Learning
 			- **smell**：花儿闻起来很香。 (The flowers smell nice.)
 			- **taste**：这道菜尝起来很辣。 (The dish tastes spicy.)
 		- 系动词主要用于构成句子的谓语部分，连接主语和补足语，形成完整的句子结构。在中文中，我们通常可以用“是”或者相应的感官动词来对应上述英文中的系动词
--
