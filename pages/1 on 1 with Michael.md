@@ -253,7 +253,6 @@
 - 2023-11-12
 	- 动名词（gerund）和动词不定式（infinitive）的用法与区别
 		- 动名词（Gerund）
-		  collapsed:: true
 			- **定义**：动名词是动词的 -ing 形式，它在句中充当名词的角色。
 			- **用法**：
 				- **主语**：动名词可以作为句子的主语。
@@ -266,6 +265,8 @@
 					- 例如：“She is good at dancing.”（她擅长跳舞。）
 				- **某些表达后**：某些固定表达后面要用动名词。
 					- 例如：“I look forward to meeting you.”（我期待见到你。）
+					- 例如：当我们说 "It's worth doing something" 时，我们的意思是做那件事情是有价值的。在这种结构中，"worth" 后面总是跟动名词。因此，正确的表达是 "It isn't worth buying that car."
+						- 这个结构是固定的，可以将它视为一个搭配：worth + doing something
 		- 动词不定式（Infinitive）
 			- **定义**：不定词是动词的原形，前面通常加上 “to”。
 				- 不定式是由“to”加上动词原形构成的，它可以作为名词、形容词或副词使用，在句中可以担任主语、宾语、表语、定语和状语等成分。
