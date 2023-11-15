@@ -37,7 +37,6 @@
 				- Past Simple: I stayed with my aunt last summer.（去年夏天我和我阿姨住在一起。）
 				- Used to: I used to stay with my aunt when I was younger.（我小时候常和我阿姨住在一起。）
 - 2023-11-01
-  collapsed:: true
 	- 关于 "put" 的短语动词（phrasal verbs）的中文解释和使用例句：
 	  collapsed:: true
 		- **put out** - 熄灭，扑灭；使不便
@@ -57,6 +56,7 @@
 			- 例句：She put on her coat and left the house.（她穿上大衣离开了家。）
 			- 例句：The theatre is putting on a production of Hamlet.（剧院正在上演《哈姆雷特》。）
 	- 关于 "get" 的短语动词（phrasal verbs）的中文解释和使用例句：
+	  collapsed:: true
 		- **get through** - 完成；通过；接通电话
 			- 例句：I finally got through the paperwork.（我终于完成了那些文书工作。）
 			- 例句：I can't get through to the customer service hotline.（我打不通客服热线。）
@@ -83,7 +83,6 @@
 		- **get over** - 克服；恢复；忘记
 			- 例句：It took him weeks to get over the flu.（他花了几周时间才从流感中恢复过来。）
 - 2023-11-05
-  collapsed:: true
 	- 过去进行时 (Past Continuous Tense)
 	  collapsed:: true
 		- **用途**：
@@ -285,7 +284,7 @@
 		- 动名词与动词不定式的区别
 			- **作用不同**：动名词强调的是动作本身，作为名词使用；动词不定式强调的是动作的可能性或目的，作为动词或名词使用。
 			- **用法不同**：动名词多用于需要名词的句子位置，如主语、宾语；动词不定式则用于表示目的、意图或某些特定动词后的宾语。
-			- **固定搭配**：有些动词后面固定要用动名词，如 “enjoy”、“avoid”；而有些动词后面固定要用无限动词，如 “decide”、“hope”。
+			- **固定搭配**：有些动词后面固定要用动名词，如 “enjoy”、“avoid”；而有些动词后面固定要用动词不定式，如 “decide”、“hope”。
 			- **介词后**：介词后面通常跟动名词，而不是动词不定式。
 		- 动名词和动词不定式的使用确实挺复杂的，因为它们有时候可以互换，有时候却不能。这取决于动词、介词还是固定短语的搭配习惯。以下是一些建议，可以帮助我们区分何时使用动名词和何时使用动词不定式：
 			- **记忆特定动词的搭配**：
