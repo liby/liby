@@ -37,6 +37,7 @@
 				- Past Simple: I stayed with my aunt last summer.（去年夏天我和我阿姨住在一起。）
 				- Used to: I used to stay with my aunt when I was younger.（我小时候常和我阿姨住在一起。）
 - 2023-11-01
+  collapsed:: true
 	- 关于 "put" 的短语动词（phrasal verbs）的中文解释和使用例句：
 	  collapsed:: true
 		- **put out** - 熄灭，扑灭；使不便
@@ -83,6 +84,7 @@
 		- **get over** - 克服；恢复；忘记
 			- 例句：It took him weeks to get over the flu.（他花了几周时间才从流感中恢复过来。）
 - 2023-11-05
+  collapsed:: true
 	- 过去进行时 (Past Continuous Tense)
 	  collapsed:: true
 		- **用途**：
@@ -250,6 +252,7 @@
 			- fill /fɪl/ - feel /fiːl/
 			- ship /ʃɪp/ - sheep /ʃiːp/
 - 2023-11-12
+  collapsed:: true
 	- 动名词（gerund）和动词不定式（infinitive）的用法与区别
 		- 动名词（Gerund）
 			- **定义**：动名词是动词的 -ing 形式，它在句中充当名词的角色。
@@ -296,3 +299,41 @@
 			- **动词不定式的特定用法**：如果我们要表达目的或意图，通常会使用动词不定式，比如 “I'm calling to ask about...”。
 			- **多做练习**：多做练习题，尤其是填空题和改错题，能帮助我们加强对这些结构的理解。
 			- **阅读和听力练习**：通过大量阅读和听力练习，我们可以对哪些动词后面跟动名词，哪些后面跟不定式有更自然的感觉。
+- 2023-11-16
+	- 条件句（Conditionals）
+		- 条件句用于表示假设和结果之间的关系。英语中主要有四种类型的条件句。
+			- #### 零条件句（Zero Conditional）
+				- **用途**：表示普遍真理或总是如此的情况。
+				- **结构**：If + 现在时态, 现在时态。
+				- **例句**：
+					- If you heat ice, it melts.
+					- If you heat ice, it melts.
+					- When you mix red and blue, you get purple.
+			- #### 第一条件句（First Conditional）
+				- **用途**：表示可能在现在或将来发生的真实情况。
+				- **结构**：If + 现在时态, 将来时态。
+				- **例句**：
+					- If it rains, we will stay at home.
+					- If it rains tomorrow, I will stay home.
+					- If you study hard, you will pass the exam.
+			- #### 第二条件句（Second Conditional）
+				- **用途**：表示不太可能在现在或将来发生的情况。
+				- **结构**：If + 过去时态, would + 动词原形。
+					- （1）第二条件句 用于讨论假设或不太可能发生的未来事件。
+					- （2）要构成否定句，将 “would”、“could” 和 “might” 之后加上 “not”。
+						- 例如：... I might not give it all away.
+				- **例句**：
+					- If I won the lottery, I would travel around the world.
+					- If I won the lottery, I would travel the world.
+					- If she were here, she would know what to do.
+			- #### 第三条件句（Third Conditional）
+				- **用途**：表示过去没有发生的情况及其假想结果。
+				- **结构**：If + 过去完成时, would have + 过去分词。
+				- **例句**：
+					- If I had known about the party, I would have gone.
+					- If I had known about the party, I would have attended.
+					- If they had studied harder, they would have passed the test.
+		- 注意事项：
+			- 第二类条件句中用到的 “would” 可以替换为 “could” 或 “might”，以表示不同程度的可能性。
+			- 在第三类条件句中，if 从句中的动作或状态是假设的，它没有在过去发生。
+			- 零类条件句通常用于科学事实或客观真理
