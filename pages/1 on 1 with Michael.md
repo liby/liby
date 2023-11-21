@@ -344,6 +344,11 @@
 			- 如果 + 过去的假设情况，那么 + 过去的可能后果
 		- 结构是这样的：
 			- If + 过去完成时（had + 过去分词）, would have + 过去分词
+				- "get" 的过去分词有两种形式："gotten" 和 "got"，这取决于我们使用的是美式英语还是英式英语。在美式英语中，"gotten" 是常用的过去分词形式，而在英式英语中，通常使用 "got" 作为过去分词。
+				- 举个例子：
+					- 在美式英语中：“If Sam had gotten up early, he wouldn't have been late for work.”
+					- 在英式英语中：“If Sam had got up early, he wouldn't have been late for work.”
+				- 两者在语法上都是正确的，只是地区用法不同。
 		- 例如：
 			- If I had known you were coming, I would have baked a cake.
 				- 如果我知道你要来，我就会做个蛋糕。（但实际上我不知道你要来，所以没有做蛋糕）
