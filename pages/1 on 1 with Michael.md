@@ -362,24 +362,78 @@
 - 2023-11-26
 	- **关于 "speak", "talk", "say", "tell", "chat", "discuss", 和 "ask" 的用法**
 		- say
-			- 用于表达某人所说的具体话语或信息。
-			- 常见结构包括：say something, say that..., say to someone。
-			- 例句：她说她很惊讶（She said she was surprised）。
+			- 用于表达某人所说的具体话语或信息。常见结构包括：
+				- say something (to somebody)
+				- say to somebody
+				- say that...
+			- 常用场景：
+				- say goodbye
+				- say thank you
+				- nothing to say
+				- say no more
+			- 例句：
+				- She said she was surprised
+				- She said she was tired
 		- tell
-			- 用于直接将信息、故事、秘密等传达给某人。
-			- 例句：他告诉了我真相（He told us the truth）。
+			- 用于向某人传达信息、故事、指令或秘密。常见结构包括：
+				- tell somebody something
+				- tell somebody to do something
+			- 常用场景：
+				- tell a lie
+				- tell the truth
+				- tell the time
+				- tell off
+				- tell a story
+				- tell the future
+				- tell a secret
+				- tell a joke
+			- 例句：
+				- He told us the truth
+				- He told me a secret
 		- speak
-			- 用于谈论或讨论某事，或与某人交谈；也用于指使用语言。
-			- 例句：我可以流利地讲英语（I can speak English fluently）。
+			- 通常指说话的行为或能力，特别是在正式场合或特定主题上。常见结构包括：
+				- speak of/about something
+				- speak to somebody
+				- speak languages
+			- 常用场景：
+				- speak your mind
+				- speak for yourself
+				- **speak up**
+				- speak on the topic
+				- speak ill/highly of
+				- speak volumes
+			- 例句：
+				- I can speak English fluently
+				- She spoke about her experiences
 		- talk
-			- 用于与人讨论某事，通常是比较随意的交流。
-			- 例句：我们有个有趣的谈话（We had an interesting talk）。
+			- 用于与人讨论某事，通常是比较随意的交流。常见结构包括：
+				- talk to/ with somebody (about something)
+				- talk somebody into doing something
+			- 常用场景：
+				- talk on the phone
+				- talk nonsense
+				- talk to myself
+				- talk over
+			- 例句：
+				- There is a problem, we should talk
+				- We had an interesting talk
+				- We talked about the movie
 		- discuss
 			- 用于与某人一起探讨某个话题，往往是更正式或深入的。
-			- 例句：你应该与你的朋友讨论你的问题（You should discuss your problems with your friends）。
+				- discuss something with somebody
+			- 例句：
+				- You should discuss your problems with your friends because they can give you some advice.
 		- chat
 			- 用于非正式的交谈，比如网络聊天或分享段子。
-			- 例句：我喜欢在线聊天和分享梗图（I like chatting and sharing memes online）。
+				- chat (with somebody about something) informally
+			- 例句：
+				- I like chatting and sharing memes online
 		- ask
 			- 用于请求信息或要求某人做某事。
-			- 例句：她请我买些水（She asked me to buy some water）。
+				- ask somebody (about) something
+				- ask somebody to do something
+			- 常用场景：
+				- ask for help
+				- ask a question
+			- 例句：
+				- She asked me to buy some water
