@@ -339,6 +339,7 @@
 			- 在第三类条件句中，if 从句中的动作或状态是假设的，它没有在过去发生。
 			- 零类条件句通常用于科学事实或客观真理
 - 2023-11-21
+  collapsed:: true
 	- **虚拟语气中的 "Third Conditional"（第三条件句）**
 		- 用于表达过去没有发生的事情及其可能的后果。它通常用于表达对过去的假设或想象。这种句型的结构通常是：
 			- 如果 + 过去的假设情况，那么 + 过去的可能后果
@@ -358,3 +359,26 @@
 				- 如果他学习更努力一点，他就能通过考试。（但实际上他没有努力学习，所以没有通过考试）
 			- 这个句子表达的是：他在过去没有努力学习，所以没有通过考试。但如果他努力了，结果会不同。
 		- 总的来说，"Third Conditional" 是**用来表达对过去的假设和后悔**的。
+- 2023-11-26
+	- **关于 "speak", "talk", "say", "tell", "chat", "discuss", 和 "ask" 的用法**
+		- say
+			- 用于向某人直接说话。
+			- 例句：她说她很惊讶（She said she was surprised）。
+		- tell
+			- 用于直接将信息、故事、秘密等传达给某人。
+			- 例句：他告诉了我真相（He told us the truth）。
+		- speak
+			- 用于谈论或讨论某事，或与某人交谈；也用于指使用语言。
+			- 例句：我可以流利地讲英语（I can speak English fluently）。
+		- talk
+			- 用于与人讨论某事，通常是比较随意的交流。
+			- 例句：我们有个有趣的谈话（We had an interesting talk）。
+		- discuss
+			- 用于与某人一起探讨某个话题，往往是更正式或深入的。
+			- 例句：你应该与你的朋友讨论你的问题（You should discuss your problems with your friends）。
+		- chat
+			- 用于非正式的交谈，比如网络聊天或分享段子。
+			- 例句：我喜欢在线聊天和分享梗图（I like chatting and sharing memes online）。
+		- ask
+			- 用于请求信息或要求某人做某事。
+			- 例句：她请我买些水（She asked me to buy some water）。
