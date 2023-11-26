@@ -362,7 +362,8 @@
 - 2023-11-26
 	- **关于 "speak", "talk", "say", "tell", "chat", "discuss", 和 "ask" 的用法**
 		- say
-			- 用于向某人直接说话。
+			- 用于表达某人所说的具体话语或信息。
+			- 常见结构包括：say something, say that..., say to someone。
 			- 例句：她说她很惊讶（She said she was surprised）。
 		- tell
 			- 用于直接将信息、故事、秘密等传达给某人。
