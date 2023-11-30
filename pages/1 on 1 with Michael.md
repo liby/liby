@@ -360,6 +360,7 @@
 			- 这个句子表达的是：他在过去没有努力学习，所以没有通过考试。但如果他努力了，结果会不同。
 		- 总的来说，"Third Conditional" 是**用来表达对过去的假设和后悔**的。
 - 2023-11-26
+  collapsed:: true
 	- **关于 "speak", "talk", "say", "tell", "chat", "discuss", 和 "ask" 的用法**
 		- say
 			- 用于表达某人所说的具体话语或信息。常见结构包括：
@@ -437,3 +438,39 @@
 				- ask a question
 			- 例句：
 				- She asked me to buy some water
+- 2023-11-30
+	- ### Phrasal Verbs with "Look"
+		- **Look up**
+			- **意思**: 查询，查阅。
+			- **例句**: I didn't know the word, so I looked it up in the dictionary.
+		- **Look after**
+			- **意思**: 照顾，照看。
+			- **例句**: Can you look after my cat while I'm away?
+		- **Look forward to**
+			- **意思**: 期待。
+			- **例句**: I'm looking forward to the weekend.
+		- **Look into**
+			- **意思**: 调查。
+			- **例句**: The police are looking into the case.
+		- **Look out**
+			- **意思**: 小心，当心。
+			- **例句**: Look out! There's a car coming.
+		- **Look over**
+			- **意思**: 检查，浏览。
+			- **例句**: Could you look over my report before I submit it?
+		- **Look back**
+			- **意思**: 回顾。
+			- **例句**: When I look back on my childhood, I feel happy.
+		- **Look for**
+			- **意思**: 寻找。
+			- **例句**: I've been looking for my keys for an hour.
+		- **Look down on**
+			- **意思**: 轻视，看不起。
+			- **例句**: He looks down on anyone who hasn't had a college education.
+		- **Look through**
+			- **意思**: 浏览，仔细检查。
+			- **例句**: She looked through the contract to find any discrepancies.
+		- ### 使用技巧
+			- 短语动词的意思通常与原动词有所不同。
+			- 上下文对理解短语动词的意思至关重要。
+			- 一些短语动词可以拆分，例如 "look the word up"。
