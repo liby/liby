@@ -452,6 +452,8 @@
 			- **例句**: Can you look after my cat while I'm away?
 		- **Look ahead**
 			- **意思**: 考虑未来将会发生的事情并制定计划。
+				- 通常用于强调对未来的一般性思考或规划，更多地关注于长远的未来和准备即将来临的事情。
+					- 例如，"look ahead to the next year"（展望明年）或 "look ahead to future developments"（期待未来的发展）。
 			- **例句**: He looks down on anyone who hasn't had a college education.
 		- **Look back**
 			- **意思**: 思考一些过去发生的事情。
@@ -476,14 +478,13 @@
 			- **意思**：四处看，环顾。通常指在一个地方或建筑物内四处查看或探索。
 			- **例句**：We looked round the museum for a couple of hours.（我们在博物馆里逛了几个小时。）
 		- **Look to**
-		- **意思**：依靠，指望；或是考虑、计划做某事。
-			- **例句**（依靠/指望）：She always looks to her parents for advice.（她总是向她的父母寻求建议。）
+			- **意思**：依靠，指望；或是考虑、计划做某事。
+				- 更多地强调对某人或某事的依赖、寻求帮助或指导，或者是对未来计划的考虑。这种表达通常用于指向一个具体的来源或对象
+					- 例如，"look to an expert for advice"（向专家寻求建议）或 "look to the future for opportunities"（寻找未来的机会）。
 			- **例句**（考虑/计划）：The company is looking to expand its operations overseas.（这家公司正在考虑扩大其海外业务。）
-		- ### 使用技巧
-			- 短语动词的意思通常与原动词有所不同。
-			- 上下文对理解短语动词的意思至关重要。
-			- 一些短语动词可以拆分，例如 "look the word up"。
+			- **例句**（依靠/指望）：She always looks to her parents for advice.（她总是向她的父母寻求建议。）
 	- "Look for" 和 "look up"
+	  collapsed:: true
 		- **Look for**
 			- **意思**：寻找。当你在寻找某个物体或人时，你在视觉上或通过其他方式在周围环境中搜索它们。
 			- **例句**：I am looking for my keys. Have you seen them?（我在找我的钥匙。你见到了吗？）
@@ -491,3 +492,9 @@
 			- **意思**：查询或查阅。这通常涉及到查找信息，比如在字典、书籍、数据库或互联网上。
 			- **例句**：I didn't know the meaning of the word, so I looked it up in the dictionary.（我不知道这个单词的意思，所以我在字典里查了它。）
 		- 总结来说，"look for" 是在物理上或空间上寻找某物，而 "look up" 是指查找信息或数据。两者都涉及到“寻找”的动作，但上下文和目的不同。
+	- 关于短语动词拆分使用的指导原则
+		- **可拆分短语动词**：
+			- 有些短语动词可以在其动词和介词/副词之间插入宾语，特别是当宾语是代词时。例如，“look up”就是一个可拆分的短语动词。因此，“look them up” 是正确的。
+			- 如果宾语是名词，通常也可以选择不拆分短语动词。例如，可以说 “look up the word” 或 “look the word up”。
+		- **不可拆分短语动词**：
+			- 有些短语动词不能被拆分，它们的动词和介词/副词必须保持在一起。例如，“look forward to” 是不可拆分的，因此必须总是说 “look forward to something”
