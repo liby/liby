@@ -440,37 +440,54 @@
 				- She asked me to buy some water
 - 2023-11-30
 	- ### Phrasal Verbs with "Look"
+		- **Look through**
+		  collapsed:: true
+			- **意思**: 快速浏览并简要阅读。
+			- **例句**: She looked through the contract to find any discrepancies.
 		- **Look up**
-			- **意思**: 查询，查阅。
+			- **意思**: 在书本、地图或时间表上查找信息。
 			- **例句**: I didn't know the word, so I looked it up in the dictionary.
 		- **Look after**
-			- **意思**: 照顾，照看。
+			- **意思**: 照顾某事或某人。
 			- **例句**: Can you look after my cat while I'm away?
-		- **Look forward to**
-			- **意思**: 期待。
-			- **例句**: I'm looking forward to the weekend.
-		- **Look into**
-			- **意思**: 调查。
-			- **例句**: The police are looking into the case.
-		- **Look out**
-			- **意思**: 小心，当心。
-			- **例句**: Look out! There's a car coming.
-		- **Look over**
-			- **意思**: 检查，浏览。
-			- **例句**: Could you look over my report before I submit it?
+		- **Look ahead**
+			- **意思**: 考虑未来将会发生的事情并制定计划。
+			- **例句**: He looks down on anyone who hasn't had a college education.
 		- **Look back**
-			- **意思**: 回顾。
+			- **意思**: 思考一些过去发生的事情。
 			- **例句**: When I look back on my childhood, I feel happy.
 		- **Look for**
-			- **意思**: 寻找。
+			- **意思**: 尝试找到一些东西。
 			- **例句**: I've been looking for my keys for an hour.
-		- **Look down on**
-			- **意思**: 轻视，看不起。
-			- **例句**: He looks down on anyone who hasn't had a college education.
-		- **Look through**
-			- **意思**: 浏览，仔细检查。
-			- **例句**: She looked through the contract to find any discrepancies.
+		- **Look forward to**
+			- **意思**: 感到高兴和激动，期待即将发生的事情。
+			- **例句**: I'm looking forward to the weekend.
+		- **Look in**
+			- **意思**: 访问一个人或地方，停留一小段时间。
+				- "Look in" 通常指在某地短暂停留，检查某事或看望某人。这个短语动词可以用于描述临时的、非正式的访问或检查。
+			- **例句**：I'll look in on my way home to see if you need anything.
+		- **Look on**
+			- **意思**：旁观，观看。这个短语通常用于描述从旁观看某个事件或情景，而不直接参与其中。
+			- **例句**：The crowd looked on in silence as the ceremony took place.（人群静静地旁观着仪式的进行。）
+		- **Look out**
+			- **意思**: 观察发生的事情并小心。
+			- **例句**: Look out! There's a car coming.
+		- **Look round**
+			- **意思**：四处看，环顾。通常指在一个地方或建筑物内四处查看或探索。
+			- **例句**：We looked round the museum for a couple of hours.（我们在博物馆里逛了几个小时。）
+		- **Look to**
+		- **意思**：依靠，指望；或是考虑、计划做某事。
+			- **例句**（依靠/指望）：She always looks to her parents for advice.（她总是向她的父母寻求建议。）
+			- **例句**（考虑/计划）：The company is looking to expand its operations overseas.（这家公司正在考虑扩大其海外业务。）
 		- ### 使用技巧
 			- 短语动词的意思通常与原动词有所不同。
 			- 上下文对理解短语动词的意思至关重要。
 			- 一些短语动词可以拆分，例如 "look the word up"。
+	- "Look for" 和 "look up"
+		- **Look for**
+			- **意思**：寻找。当你在寻找某个物体或人时，你在视觉上或通过其他方式在周围环境中搜索它们。
+			- **例句**：I am looking for my keys. Have you seen them?（我在找我的钥匙。你见到了吗？）
+		- **Look up**
+			- **意思**：查询或查阅。这通常涉及到查找信息，比如在字典、书籍、数据库或互联网上。
+			- **例句**：I didn't know the meaning of the word, so I looked it up in the dictionary.（我不知道这个单词的意思，所以我在字典里查了它。）
+		- 总结来说，"look for" 是在物理上或空间上寻找某物，而 "look up" 是指查找信息或数据。两者都涉及到“寻找”的动作，但上下文和目的不同。
