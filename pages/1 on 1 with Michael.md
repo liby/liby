@@ -441,7 +441,6 @@
 - 2023-11-30
 	- ### Phrasal Verbs with "Look"
 		- **Look through**
-		  collapsed:: true
 			- **意思**: 快速浏览并简要阅读。
 			- **例句**: She looked through the contract to find any discrepancies.
 		- **Look up**
@@ -451,6 +450,7 @@
 			- **意思**: 照顾某事或某人。
 			- **例句**: Can you look after my cat while I'm away?
 		- **Look ahead**
+		  collapsed:: true
 			- **意思**: 考虑未来将会发生的事情并制定计划。
 				- 通常用于强调对未来的一般性思考或规划，更多地关注于长远的未来和准备即将来临的事情。
 					- 例如，"look ahead to the next year"（展望明年）或 "look ahead to future developments"（期待未来的发展）。
