@@ -439,6 +439,7 @@
 			- 例句：
 				- She asked me to buy some water
 - 2023-11-30
+  collapsed:: true
 	- ### Phrasal Verbs with "Look"
 		- **Look through**
 			- **意思**: 快速浏览并简要阅读。
@@ -498,3 +499,6 @@
 			- 如果宾语是名词，通常也可以选择不拆分短语动词。例如，可以说 “look up the word” 或 “look the word up”。
 		- **不可拆分短语动词**：
 			- 有些短语动词不能被拆分，它们的动词和介词/副词必须保持在一起。例如，“look forward to” 是不可拆分的，因此必须总是说 “look forward to something”
+- 2023-12-05
+	- [阅读技能练习：餐厅菜单 - 练习](https://learnenglishteens.britishcouncil.org/sites/teens/files/a_restaurant_menu_-_exercises_2.pdf)
+	- [阅读技能练习：食物和餐厅-练习](https://learnenglishteens.britishcouncil.org/sites/teens/files/food_and_restaurants_-_exercises_0.pdf)
