@@ -500,5 +500,9 @@
 		- **不可拆分短语动词**：
 			- 有些短语动词不能被拆分，它们的动词和介词/副词必须保持在一起。例如，“look forward to” 是不可拆分的，因此必须总是说 “look forward to something”
 - 2023-12-05
+  collapsed:: true
 	- [阅读技能练习：餐厅菜单 - 练习](https://learnenglishteens.britishcouncil.org/sites/teens/files/a_restaurant_menu_-_exercises_2.pdf)
 	- [阅读技能练习：食物和餐厅-练习](https://learnenglishteens.britishcouncil.org/sites/teens/files/food_and_restaurants_-_exercises_0.pdf)
+- 2023-12-10
+	- [**时间和地点介词：IN、ON、AT**](https://www.liveworksheets.com/sites/default/files/styles/worksheet/public/def_files/2022/2/27/202270803542790941/202270803542790941001.jpg?itok=UN64Uy7D)
+		-
