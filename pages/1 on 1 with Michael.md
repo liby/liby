@@ -505,4 +505,31 @@
 	- [阅读技能练习：食物和餐厅-练习](https://learnenglishteens.britishcouncil.org/sites/teens/files/food_and_restaurants_-_exercises_0.pdf)
 - 2023-12-10
 	- [**时间和地点介词：IN、ON、AT**](https://www.liveworksheets.com/sites/default/files/styles/worksheet/public/def_files/2022/2/27/202270803542790941/202270803542790941001.jpg?itok=UN64Uy7D)
-		-
+		- #### 地点：
+			- **In**
+				- 用于较大的地理位置或空间，如国家、城市、街区。
+					- 例如：in France, in Paris, in Manhattan, in a car.
+					- 当我们谈论较小的封闭型车辆，像私家车，我们说 "in"，因为我们通常是在车辆的内部空间里。
+				- 也可以用于抽象或具象的空间内
+					- 如 in a box, in a room, in an organization.
+			- **On**
+				- 用于具体的街道、路、表面或交通工具。
+					- 例如：on Columbus Street, on Seventh Avenue, on the floor, on a bus.
+					- 对于大型的、开放型的或者有多个乘客的交通工具，如公交车、火车、飞机、船只等，我们通常使用 "on"，因为这些交通工具像平台一样承载乘客，我们通常会说我们在这些交通工具“上”。
+				- 还可以用于指设备或技术平台
+					- 如 on the radio, on TV, on the internet.
+			- **At**
+				- 用于具体的位置或点，如某个地址或特定地点。
+					- 例如：at 456 State Street, at the station.
+				- 在描述活动时也常用
+					- 如 at a concert, at a meeting, at a party.
+		- #### 时间：
+			- **In**
+				- 用于较长的时间段，如世纪、年代、年、月、季节。
+					- 例如：in the 1900's, in the 90's, in 1990, in March, in spring.
+			- **On**
+				- 用于具体的日子或日期，如节日或星期几。
+					- 例如：on Easter Day, on Monday, on April 3rd.
+			- **At**
+				- 用于一天中的具体时间，如小时或特定时刻。
+					- 例如：at 8 a.m., at midnight, at the moment.
