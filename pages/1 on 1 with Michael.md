@@ -442,6 +442,7 @@
   collapsed:: true
 	- ### Phrasal Verbs with "Look"
 		- **Look through**
+		  collapsed:: true
 			- **意思**: 快速浏览并简要阅读。
 			- **例句**: She looked through the contract to find any discrepancies.
 		- **Look up**
@@ -504,6 +505,7 @@
 	- [阅读技能练习：餐厅菜单 - 练习](https://learnenglishteens.britishcouncil.org/sites/teens/files/a_restaurant_menu_-_exercises_2.pdf)
 	- [阅读技能练习：食物和餐厅-练习](https://learnenglishteens.britishcouncil.org/sites/teens/files/food_and_restaurants_-_exercises_0.pdf)
 - 2023-12-10
+  collapsed:: true
 	- [**时间和地点介词：IN、ON、AT**](https://www.liveworksheets.com/sites/default/files/styles/worksheet/public/def_files/2022/2/27/202270803542790941/202270803542790941001.jpg?itok=UN64Uy7D)
 		- #### 地点：
 			- **In**
