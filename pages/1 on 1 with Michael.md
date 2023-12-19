@@ -545,5 +545,84 @@
 						- "at Easter" 可以被理解为复活节这个特定时期的一个总称，包括复活节前后的活动和庆祝
 					- **At** 在指假日时，通常表示的是与该假日相关的时期或场合，而不是一个具体的时间点。比如，"at Easter" 或 "at Christmas" 可以指整个假期，包括节日前后的活动和庆祝。
 - 2023-12-15
-	-
+  collapsed:: true
+	- #### 时间介词的用法
+		- **During**
+			- 用于描述某事发生在另一件事正在进行的同一时间段内。
+			- **例子**: We stayed at a student hostel during the conference.
+		- **For**
+			- 与一段时间一起使用。
+			- **例子**: I’m just going to bed for two hours or so.
+		- **Until/Till**
+			- 直到某个特定时间为止。
+			- **例子**: We'll wait till/until half past six for you.
+		- **Since**
+			- 从某个时间点开始直到现在。
+			- **例子**: Forty years have passed away since they met.
+		- **From...to**
+			- 表示一段时间的开始和结束。
+			- **例子**: Her visit will extend from Monday to Thursday.
+		- **Ago**
+			- 指从现在算起的过去某个时间点。
+			- **例子**: He left the house over an hour ago.
+		- **Before**
+			- 在某个时间点之前。
+			- **例子**: She’s always up before dawn.
+		- **By**
+			- 不晚于某个时间点。
+			- **例子**: He had promised to be back by five o’clock.
+		- **After**
+			- 在某个时间点之后。
+			- **例子**: I felt fairly relaxed after taking the medicine.
+		- **To**
+			- 用于告知小时之前的分钟数。
+			- **例子**: It’s a quarter to two.
+		- **Past**
+			- 用于告知小时之后的分钟数。
+			- **例子**: It’s five past ten.
+		- **Between...and**
+			- 用于描述分隔两个时间点的时段。
+			- **例子**: They lived in New York between 1998 and 2004.
+		- **Within**
+			- 在某个时间段内，通常用于表示期限。
+			- **例子**: You should receive a reply within seven days.
 - 2023-12-19
+	- 电子邮件风格：**正式语言与非正式语言**
+	  collapsed:: true
+		- **Could 和 Can 的使用**
+			- 在正式语言中，"could" 使用得更频繁。
+			- 在非正式语言中，"can" 使用更常见。
+		- **正式同义词的使用**
+			- 正式语言中倾向于使用更正式的词汇，如 "require"（需要）、"receive"（接收）、"assure"（保证）、"contact"（联系）和 "further"（更多）。
+			- 非正式语言中，更倾向于使用 "need"、"get"、"promise"、"get in touch" 和 "more"。
+		- **短语动词的使用**
+			- 短语动词（如 "put off"、"think about" 等）在非正式和中性的电子邮件语言中更常见。
+		- **缩写词的使用**
+			- 正式语言中，缩写词（如 "I'm"、"you're"、"won't" 等）使用得较少，更多使用完整形式（如 "I am"、"you are"、"will not" 等）。
+			- 非正式语言中，缩写词的使用更为普遍。
+		- **缩略语的使用**
+			- 非正式语言中，使用缩略语（如 "info"、"ad" 等）是合适的。
+			- 正式语言中，则使用完整的单词（如 "information"、"advertisement" 等）。
+		- **称呼的使用**
+			- 在正式语言中，使用更正式的称呼形式，如 "Dear sir or madam"、"Dear Mr Smith" 等。
+	- | 非正式用语 | 正式用语 |
+	  | ---- | ---- | ---- |
+	  | fix | repair |
+	  | book | reserve |
+	  | ask | enquire |
+	  | ask for | request |
+	  | give | provide |
+	  | changes | amendments |
+	- **例子：**
+		- 非正式：Hey, can you fix my bike?
+		  正式：Could you please repair my bicycle?
+		- 非正式：I need to book a table for dinner.
+		  正式：I would like to reserve a table for dinner.
+		- 非正式：Can I ask you something?
+		  正式：May I enquire about something?
+		- 非正式：Can I ask for a coffee?
+		  正式：May I request a coffee?
+		- 非正式：Give me a call when you're free.
+		  正式：Please provide me with a call at your earliest convenience.
+		- 非正式：We need to make some changes to the plan.
+		  正式：We need to make some amendments to the plan.
