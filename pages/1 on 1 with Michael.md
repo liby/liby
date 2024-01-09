@@ -24,5 +24,112 @@
 			- 英文释义：To start from the beginning without any advantage or prior preparation.
 			- 中文释义：从零开始，白手起家。
 - 2024-01-09
-	-
--
+	- 今天是学习与天气有关的内容
+		- Foggy - 雾蒙蒙的
+			- **English**: Characterized by a thick mist or low visibility due to fog.
+			- **中文**: 因雾而能见度低，雾重的。
+		- Freezing - 冰冻的
+			- **English**: Extremely cold, below the freezing point of water.
+			- **中文**: 极冷的，低于水的冰点。
+		- Hail - 冰雹
+			- **English**: Pellets of frozen rain that fall in showers.
+			- **中文**: 降落的冻雨颗粒。
+		- Hurricane - 飓风
+			- **English**: A violent tropical storm with powerful winds.
+			- **中文**: 一种带有强风的猛烈热带风暴。
+		- Lightning - 闪电
+			- **English**: A sudden electrical discharge in the atmosphere.
+			- **中文**: 大气中的突然电放电。
+		- Thunder - 雷声
+			- **English**: The sound caused by lightning.
+			- **中文**: 由闪电引起的声音。
+		- Umbrella - 雨伞
+			- **English**: A device used for protection against rain or sunlight.
+			- **中文**: 用于防雨或遮阳的装置。
+		- Electricity - 电力
+			- **English**: A form of energy resulting from charged particles.
+			- **中文**: 由带电粒子产生的能量形式。
+		- Sweat - 汗水
+			- **English**: Perspiration excreted by sweat glands in the skin.
+			- **中文**: 皮肤汗腺排泄的汗液。
+		- Suntan - 晒黑
+			- **English**: Darkening of the skin due to exposure to the sun.
+			- **中文**: 由于阳光照射而导致的皮肤变黑。
+		- Celsius - 摄氏度
+			- **English**: A scale for measuring temperature, where water freezes at 0 degrees and boils at 100 degrees.
+			- **中文**: 测量温度的刻度，水的冰点为0度，沸点为100度。
+		- Centigrade - 摄氏度
+			- **English**: Another term for Celsius.
+			- **中文**: 摄氏度的另一种说法。
+		- Cyclone - 气旋
+			- **English**: A large-scale air mass that rotates around a strong center of low atmospheric pressure.
+			- **中文**: 围绕低气压强中心旋转的大规模气团。
+		- Fahrenheit - 华氏度
+			- **English**: A scale for measuring temperature, where water freezes at 32 degrees and boils at 212 degrees.
+			- **中文**: 测量温度的刻度，水的冰点为32度，沸点为212度。
+		- Drought - 干旱
+			- **English**: A prolonged period of abnormally low rainfall, leading to a shortage of water.
+			- **中文**: 异常少雨的长时间期间，导致水资源短缺。
+		- Opposite - 相反的
+			- **English**: Totally different or contrary.
+			- **中文**: 完全不同或相反。
+		- Tornado - 龙卷风
+			- **English**: A violently rotating column of air extending from a thunderstorm to the ground.
+			- **中文**: 从雷暴延伸到地面的剧烈旋转的空气柱。
+		- Flood - 洪水
+			- **English**: An overflow of a large amount of water beyond its normal limits.
+			- **中文**: 大量水溢出其正常界限。
+		- Fog - 雾
+			- **English**: A thick cloud of tiny water droplets suspended in the atmosphere, reducing visibility.
+			- **中文**: 大气中悬浮的微小水滴组成的浓云，降低能见度。
+		- Climate - 气候
+			- **English**: The weather conditions prevailing in an area over a long period.
+			- **中文**: 长期盛行于某一地区的天气条件。
+		- Shade - 阴凉处
+			- **English**: An area where direct sunlight is blocked.
+			- **中文**: 直射阳光被挡住的区域。
+		- Frostbite - 冻伤
+			- **English**: Injury to body tissues caused by extreme cold.
+			- **中文**: 由极端寒冷引起的身体组织损伤。
+		- Icicle - 冰柱
+			- **English**: A hanging spike of ice formed by freezing dripping water.
+			- **中文**: 由冻结的滴水形成的悬挂冰锥。
+		- Rainbow - 彩虹
+			- **English**: An arc of colors visible in the sky, caused by the refraction of the sun's rays by rain.
+			- **中文**: 天空中可见的颜色弧，由雨水对太阳光线的折射引起。
+		- Shiver - 发抖
+			- **English**: To shake slightly, typically as a result of cold, fear, or excitement.
+			- **中文**: 轻微地颤抖，通常是由于寒冷、恐惧或激动引起的。
+		- Thermometer - 温度计
+			- **English**: An instrument for measuring and indicating temperature.
+			- **中文**: 用于测量和指示温度的仪器。
+		- Sunglasses - 太阳镜
+			- **English**: Glasses tinted to protect the eyes from sunlight.
+			- **中文**: 用于保护眼睛免受阳光照射的着色眼镜。
+		- Magazine - 杂志
+			- **English**: A periodical publication containing articles and illustrations.
+			- **中文**: 包含文章和插图的定期出版物。
+		- Chill - 寒冷
+			- **English**: An unpleasant feeling of coldness in the atmosphere, one's surroundings, or the body.
+			- **中文**: 在大气中、周围环境或身体上感到的不愉快的寒冷感。
+		- Partly - 部分地
+			- **English**: To some extent, but not completely.
+			- **中文**: 在某种程度上，但不完全。
+		- Minus - 负的
+			- **English**: Below zero in temperature; negative in value.
+			- **中文**: 温度低于零；价值为负。
+		- Europe - 欧洲
+			- **English**: A continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere.
+			- **中文**: 位于北半球完全和东半球大部分的一个大陆。
+		- Africa - 非洲
+			- **English**: The world's second-largest and second-most populous continent, located south of Europe.
+			- **中文**: 位于欧洲南部的世界第二大、第二人口最多的大陆。
+		- Asia - 亚洲
+			- **English**: The Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres.
+			- **中文**: 地球上最大、人口最多的大陆，主要位于东半球和北半球。
+		- Lowest - 最低的
+			- **English**: The smallest or least amount possible.
+			- **中文**: 可能的最小或最少量。
+		- Highest - 最高的
+			- **English**: The greatest or most amount possible.
+			- **中文**: 可能的最大或最多量。
