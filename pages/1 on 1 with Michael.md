@@ -1,5 +1,6 @@
 - [[italki - 2023]]
 - 2024-01-05
+  collapsed:: true
 	- New Year's Resolutions
 		- **Kick the habit**
 			- 英文释义：To stop doing something that is a habit, especially something bad or harmful.
@@ -22,3 +23,6 @@
 		- **Start from scratch/zero**
 			- 英文释义：To start from the beginning without any advantage or prior preparation.
 			- 中文释义：从零开始，白手起家。
+- 2024-01-09
+	-
+-
