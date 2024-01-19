@@ -24,6 +24,7 @@
 			- 英文释义：To start from the beginning without any advantage or prior preparation.
 			- 中文释义：从零开始，白手起家。
 - 2024-01-09
+  collapsed:: true
 	- 今天是学习与天气有关的内容
 		- Foggy - 雾蒙蒙的
 			- **English**: Characterized by a thick mist or low visibility due to fog.
@@ -133,3 +134,5 @@
 		- Highest - 最高的
 			- **English**: The greatest or most amount possible.
 			- **中文**: 可能的最大或最多量。
+- 2024-01-19
+	-
