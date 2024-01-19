@@ -135,4 +135,50 @@
 			- **English**: The greatest or most amount possible.
 			- **中文**: 可能的最大或最多量。
 - 2024-01-19
-	-
+	- 今天学习城镇相关的内容
+		- **Bakery** (面包店): A place where bread, cakes, and pastries are made or sold.
+			- 例句：I bought some fresh bread at the bakery this morning.
+		- **Barbershop** (理发店): A place where men can get their hair cut.
+			- 例句：He goes to the barbershop once a month for a haircut.
+		- **Clinic** (诊所): A healthcare facility for outpatient care.
+			- 例句：She visited the clinic for a medical check-up.
+		- **Crosswalk** (人行横道): A marked part of a road where pedestrians have the right of way to cross.
+			- 例句：Always look both ways when crossing the street at a crosswalk.
+		- **Laundromat** (自助洗衣店): A place where you can wash and dry your clothes in coin-operated machines.
+			- 例句：I took my laundry to the laundromat on Third Street.
+		- **Pharmacy** (药店): A shop where medicinal drugs are dispensed and sold.
+			- 例句：I need to pick up my prescription from the pharmacy.
+		- **Sidewalk** (人行道): A path along the side of a street for people to walk on.
+			- 例句：The children were playing on the sidewalk.
+		- **Preparation** (准备): The action or process of making something ready.
+			- 例句：Proper preparation is key to success in exams.
+		- **Turn left** (向左转): To change direction to the left.
+			- 例句：Turn left at the next intersection to reach the library.
+		- **Roundabout** (环形交叉路口): A circular area of a road where traffic moves in one direction around a central island.
+			- 例句：At the roundabout, take the third exit.
+		- **Next to** (紧挨着): At the side of; immediately adjacent to.
+			- 例句：The bank is next to the post office.
+		- **Go past** (经过): To move beyond; to pass by.
+			- 例句：Go past the park, and you'll see the museum on your right.
+		- **Take the second left** (在第二个左转弯): To turn left at the second opportunity.
+			- 例句：After the grocery store, take the second left.
+		- **Turn right** (向右转): To change direction to the right.
+			- 例句：Turn right at the traffic lights to go to the station.
+		- **Opposite** (对面的): Situated across from or facing something else.
+			- 例句：The supermarket is opposite the library.
+		- **Take the second right** (在第二个右转弯): To turn right at the second opportunity.
+			- 例句：Take the second right after the church.
+		- **Traffic lights** (交通灯): A set of automatically operated colored lights, typically red, amber, and green, for controlling traffic at road intersections and pedestrian crossings.
+			- 例句：Stop at the traffic lights when they are red.
+		- **Go straight on** (直走): To continue moving forward.
+			- 例句：Go straight on until you reach the roundabout.
+		- **Suburbs** (郊区): Residential areas on the outskirts of a city or large town.
+			- 例句：They live in the suburbs, about 20 minutes from downtown.
+		- **Transportation** (交通): The action of transporting someone or something or the process of being transported.
+			- 例句：Public transportation in the city is efficient and reliable.
+		- **Intersection** (十字路口): A place where two or more roads meet or cross.
+			- 例句：The accident happened at a busy intersection.
+		- **Garage** (车库): A building for housing a motor vehicle or vehicles.
+			- 例句：He parked his car in the garage.
+		- **Stadium** (体育场): A large, usually open structure for sports events with tiered seating for spectators.
+			- 例句：The football match will be held at the national stadium.
