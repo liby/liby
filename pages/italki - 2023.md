@@ -439,7 +439,6 @@
 			- 例句：
 				- She asked me to buy some water
 - 2023-11-30
-  collapsed:: true
 	- ### Phrasal Verbs with "Look"
 		- **Look through**
 		  collapsed:: true

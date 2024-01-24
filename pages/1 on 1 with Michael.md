@@ -1,4 +1,5 @@
 - [[italki - 2023]]
+  collapsed:: true
 - 2024-01-05
   collapsed:: true
 	- New Year's Resolutions
@@ -135,6 +136,7 @@
 			- **English**: The greatest or most amount possible.
 			- **中文**: 可能的最大或最多量。
 - 2024-01-19
+  collapsed:: true
 	- 今天学习城镇相关的内容
 		- **Bakery** (面包店): A place where bread, cakes, and pastries are made or sold.
 			- 例句：I bought some fresh bread at the bakery this morning.
