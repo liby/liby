@@ -185,4 +185,56 @@
 		- **Stadium** (体育场): A large, usually open structure for sports events with tiered seating for spectators.
 			- 例句：The football match will be held at the national stadium.
 - 2024-01-25
-	-
+	- 今天学习的是与家庭有关的内容
+		- **Cousin** (堂(表)兄弟姐妹): My cousin is coming to stay with us for the weekend. (我表姐这周末要来和我们一起住。)
+		- **Nephew** (侄子、外甥): My sister's son, my nephew, just started school. (我姐姐的儿子，我的外甥，刚开始上学。)
+		- **Niece** (侄女、外甥女): I bought a doll for my niece's birthday. (我给我外甥女的生日买了一个娃娃。)
+		- **Gathering** (聚会): We're having a family gathering this Sunday. (这个周日我们有一个家庭聚会。)
+		- **Pandemic** (大流行病): The pandemic has changed the way we work and live. (大流行病改变了我们的工作和生活方式。)
+		- **Indonesian** (印度尼西亚的): I am learning Indonesian because I plan to travel there. (因为计划去那里旅游，我在学印尼语。)
+		- **Especially** (尤其是): I love fruits, especially mangoes. (我喜欢水果，尤其是芒果。)
+		- **Sundanese** (巽他族的): Sundanese music has a unique sound that is popular in Indonesia. (巽他族的音乐在印度尼西亚很受欢迎，有着独特的声音。)
+		- **Squid** (鱿鱼): We ordered grilled squid at the seafood restaurant. (我们在海鲜餐厅点了烤鱿鱼。)
+		- **Accepted** (被接受的): His apology was finally accepted by his friend. (他的道歉最终被他的朋友接受了。)
+		- **Diapers** (尿布): New parents often have to change diapers several times a day. (新手父母通常一天要换好几次尿布。)
+		- **Flavor** (味道): This cake has a very rich chocolate flavor. (这蛋糕有很浓的巧克力味。)
+		- **Fries** (炸薯条): Would you like some fries with your burger? (你的汉堡要来点炸薯条吗？)
+		- **Seasoned** (调味的): The chicken was well seasoned and tasted delicious. (鸡肉调味得很好，味道很美。)
+		- **Powder** (粉末): She added a spoonful of cocoa powder to the recipe. (她在食谱中加了一勺可可粉。)
+		- **Choco Waffle** (巧克力华夫饼): I ordered a choco waffle for dessert. (我点了一个巧克力华夫饼作为甜点。)
+		- **Average** (平均): The average temperature in July is 30 degrees Celsius. (七月份的平均温度是30摄氏度。)
+		- **Culture** (文化): Japanese tea ceremony is a significant part of their culture. (日本茶道是他们文化的重要组成部分。)
+		- **Siblings** (兄弟姐妹): My siblings and I are planning a surprise party for our parents. (我和我的兄弟姐妹们正在为我们的父母策划一个惊喜派对。)
+		- **Blood is thicker than water** (血浓于水): They say that blood is thicker than water, meaning family relationships are stronger than others. (人们说血浓于水，意味着家庭关系比其他关系更牢固。)
+		- **Obligation** (义务): 表示一个人由法律或道德所承担的责任或职责。
+			- 例句：It is your obligation to pay taxes.
+		- **To fly the nest** (离开家): 形容年轻人长大后离开父母独立生活。
+			- 例句：When children fly the nest, it can be a very emotional time for parents.
+		- **To take after (someone)** (与某人相像): 表示一个人在外貌或性格上与家中的长辈相似。
+			- 例句：He takes after his mother with his musical talent.
+		- **Similarities** (相似之处): 指两个或多个事物之间的共同特点或性质。
+			- 例句：There are many similarities between the two cultures.
+		- **Either** (两者之一): 表示两个选项中的任一个。
+			- 例句：You can choose either the chocolate cake or the apple pie.
+		- **Physical** (身体的): 与身体或物理状态有关的。
+			- 例句：Regular physical activity is important for good health.
+		- **Black sheep** (害群之马): 指家庭或群体中行为不端的成员。
+			- 例句：He's the black sheep of the family, always getting into trouble.
+		- **Embarrassment** (尴尬): 一种因为某些社交行为可能造成的不舒服或羞耻的感觉。
+			- 例句：He felt a deep embarrassment after forgetting his lines on stage.
+		- **Outcast** (被排斥的人): 被社会或群体排斥的人。
+			- 例句：The old man lived like an outcast, isolated from the rest of the village.
+		- **Shunned** (避开): 故意避开或不与某人交往。
+			- 例句：She was shunned by her colleagues after the scandal.
+		- **To raise / to bring up** (养育): 指抚养和教育孩子至成年。
+			- 例句：They raised four children in a small countryside house.
+			  **Upbringing** (教养): 一个人在成长过程中所受的教育和培养。
+			- 例句：His strict upbringing was evident in his disciplined behavior.
+		- **Adulthood** (成年): 一个人达到成熟阶段，具有法律和社会上的完全责任和权利。
+			- 例句：She faced many challenges on her transition to adulthood.
+		- **Extended family** (大家庭): 包括除了核心家庭成员之外的亲戚，如祖父母、叔叔、阿姨等。
+			- 例句：During the holidays, we always have a large gathering with our extended family.
+		- **Neglected** (被忽视的): 没有得到足够关心或考虑的。
+			- 例句：The neglected park was overgrown and littered with trash.
+		- **Robbery** (抢劫): 指使用暴力或威胁手段从个人或组织手中非法夺取财物的犯罪行为。
+			- 例句：The police are investigating a robbery that occurred downtown last night.
