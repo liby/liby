@@ -185,6 +185,7 @@
 		- **Stadium** (体育场): A large, usually open structure for sports events with tiered seating for spectators.
 			- 例句：The football match will be held at the national stadium.
 - 2024-01-25
+  collapsed:: true
 	- 今天学习的是与家庭有关的内容
 		- **Cousin** (堂(表)兄弟姐妹): My cousin is coming to stay with us for the weekend. (我表姐这周末要来和我们一起住。)
 		- **Nephew** (侄子、外甥): My sister's son, my nephew, just started school. (我姐姐的儿子，我的外甥，刚开始上学。)
@@ -238,3 +239,30 @@
 			- 例句：The neglected park was overgrown and littered with trash.
 		- **Robbery** (抢劫): 指使用暴力或威胁手段从个人或组织手中非法夺取财物的犯罪行为。
 			- 例句：The police are investigating a robbery that occurred downtown last night.
+- 2024-01-28
+	- **Documentaries** (纪录片): 以记录事实为目的的影视作品。
+		- 例句：I learned a lot about ocean life from watching documentaries.
+	- **Reality** (现实): 真实发生或存在的事物。
+		- 例句：Sometimes reality is more surprising than fiction.
+	- **Applies** (适用): 有关或有效的。
+		- 例句：This rule applies to everyone in the class.
+	- **Binge** (狂追剧): 连续观看电视节目或系列视频，通常是在很短的时间内。
+		- 例句：I spent the whole weekend binge-watching the latest season of my favorite show.
+	- **Episodes** (集): 电视连续剧中的单个节目。
+		- 例句：The final episode of the series airs tonight.
+	- **Telly** (电视，英国俚语): 电视的非正式说法。
+		- 例句：I'm going to stay in tonight and watch some telly.
+	- **Gogglebox** (电视，英国俚语): 另一个电视的非正式说法，有时也指一个电视节目的名字。
+		- 例句：Every Friday night, my family gathers to watch 'Gogglebox'.
+	- **Idiot** (白痴): 一个侮辱性的词，用来描述一个人非常愚蠢或行为愚笨。
+		- 例句：He felt like an idiot after making a mistake in his presentation.
+	- **Slang** (俚语): 非正式或非标准的语言。
+		- 例句：Teenagers often use slang that adults find difficult to understand.
+	- **Soap** (肥皂剧): 一种连续剧，通常是指情节复杂、感情丰富的日常生活剧。
+		- 例句：My grandmother has been watching the same soap opera for 20 years.
+	- **Sitcom** (情景喜剧): 一种以固定的场景和角色为基础，通常以幽默为特点的电视连续剧。
+		- 例句：'Friends' is one of the most popular sitcoms of all time.
+	- **Comedy** (喜剧): 旨在娱乐和引起笑声的戏剧、电影、电视节目等。
+		- 例句：I love watching comedy shows because they cheer me up.
+	- **Spinoff** (衍生剧): 原有电视节目或系列的一个新节目，通常关注某个特定的角色或主题。
+		- 例句：The spinoff focuses on the life of a supporting character from the original series.
