@@ -266,3 +266,27 @@
 		- 例句：I love watching comedy shows because they cheer me up.
 	- **Spinoff** (衍生剧): 原有电视节目或系列的一个新节目，通常关注某个特定的角色或主题。
 		- 例句：The spinoff focuses on the life of a supporting character from the original series.
+	- **Fictional** (虚构的): 源于想象而不是基于事实的。
+		- 例句：Harry Potter is a fictional character created by J.K. Rowling.
+	- **Humorous** (幽默的): 富有幽默感，能够引起笑声的。
+		- 例句：The speaker gave a humorous talk that had the entire audience laughing.
+	- **Interactions** (互动): 两个或多个人或事物之间的相互作用。
+		- 例句：The interactions between the cast members make the show very entertaining.
+	- **Thrones** (宝座): 通常指君主或特殊人物的宝座，也常用来指代权力的象征，如电视剧《权力的游戏》（Game of Thrones）。
+		- 例句：The battle for the Iron Throne is a central plot in 'Game of Thrones'.
+	- **Emmerdale** (艾默戴尔): 英国的一部长寿肥皂剧，故事发生在虚构的约克郡村庄艾默戴尔。
+		- 例句：Emmerdale has been on British television since 1972.
+	- **Yorkshire** (约克郡): 英格兰北部的一个历史郡，也是一些电视剧的拍摄地。
+		- 例句：Yorkshire is known for its beautiful countryside and historic towns.
+	- **Peaks** (山峰): 山的最高点。
+		- 例句：We could see the snow-covered peaks from our hotel room.
+	- **Mandalorian** (曼达洛人): 是星球大战系列中的一个虚构种族，也是迪士尼+上的一部电视剧的名字。
+		- 例句：The Mandalorian is a popular show set in the Star Wars universe.
+	- **Bounty** (赏金): 为捕获或杀死某人而提供的钱。
+		- 例句：The government offered a bounty for the capture of the outlaw.
+	- **Hunter** (猎人): 追踪和捕猎动物的人，也可以指追捕罪犯的赏金猎人。
+		- 例句：The bounty hunter was known for never failing to catch his target.
+	- **Glamorous** (迷人的): 充满魅力的，令人羡慕的。
+		- 例句：The actress led a glamorous life full of parties and premieres.
+	- **Disappointed** (失望的): 当事情没有达到期望时感到的不满或沮丧。
+		- 例句：She was disappointed to find out that her favorite band had canceled their concert.
