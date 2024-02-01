@@ -240,6 +240,7 @@
 		- **Robbery** (抢劫): 指使用暴力或威胁手段从个人或组织手中非法夺取财物的犯罪行为。
 			- 例句：The police are investigating a robbery that occurred downtown last night.
 - 2024-01-28
+  collapsed:: true
 	- **Documentaries** (纪录片): 以记录事实为目的的影视作品。
 		- 例句：I learned a lot about ocean life from watching documentaries.
 	- **Reality** (现实): 真实发生或存在的事物。
@@ -290,3 +291,53 @@
 		- 例句：The actress led a glamorous life full of parties and premieres.
 	- **Disappointed** (失望的): 当事情没有达到期望时感到的不满或沮丧。
 		- 例句：She was disappointed to find out that her favorite band had canceled their concert.
+- 2024-02-01
+	- 关于办公室用品的讨论
+		- **Corrector** (涂改液): 用来覆盖书写或打印错误的白色液体。
+			- 例句：I used the corrector to hide the mistake in the report.
+		- **Kettle** (水壶): 用来加热水的容器，通常有个把手和倾口。
+			- 例句：I put the kettle on to boil for tea.
+		- **Teapot** (茶壶): 用来泡茶的容器，有盖子、把手和倾口。
+			- 例句：She filled the teapot with hot water and added some tea leaves.
+		- **Diary** (日记本): 用来记录每日个人经历、感想的本子。
+			- 例句：I write in my diary every night before bed.
+		- **Cork** (软木塞): 一种轻质的防水材料，通常用作瓶塞。
+			- 例句：He pulled the cork out of the wine bottle.
+		- **Cabinet** (柜子): 用来存放物品的封闭式容器，有门和架子。
+			- 例句：She searched the cabinet for her favorite mug.
+		- **Stapler** (订书机): 用来将纸张订在一起的办公用品。
+			- 例句：I need a stapler to bind these documents together.
+		- **Stamp** (邮票): 粘贴在信件上以支付邮资的小纸片。
+			- 例句：She put a stamp on the envelope before mailing it.
+		- **Hole punch** (打孔器): 用来在纸张上打孔的工具。
+			- 例句：Use the hole punch to prepare the papers for the binder.
+		- **Closet** (壁橱): 房间内用来存放衣物等物品的小储藏室。
+			- 例句：She hung her coat in the closet as she entered the house.
+		- **Cupboard** (橱柜): 厨房或餐厅用来存放器皿或食物的柜子。
+			- 例句：The cups and plates are kept in the cupboard above the sink.
+		- **Shredder** (碎纸机): 用来将纸张切成细条的机器。
+			- 例句：We use a shredder to destroy confidential documents.
+		- **Photocopier** (复印机): 用来制作文件或图片快速复制的电子设备。
+			- 例句：Can you make ten copies of this report using the photocopier?
+		- **Expose** (暴露): 揭露或使之显露。
+			- 例句：Do not expose the film to light.
+		- **Presentation** (演示): 为了提供信息或解释而进行的展示或讲话。
+			- 例句：He's nervous about giving a presentation in class tomorrow.
+		- **Scanner** (扫描仪): 用来扫描文档或图片，转化为电子格式的设备。
+			- 例句：I scanned the photograph using a high-resolution scanner.
+		- **Eraser** (橡皮擦): 用来擦除铅笔等书写工具痕迹的工具。
+			- 例句：I made a mistake in my drawing and used an eraser to correct it.
+		- **Rubber** (橡皮擦，英式英语): 另一个词语，意思同Eraser。
+			- 例句：Could you pass me the rubber? I need to erase this mark.
+		- **Shelf** (架子): 用来放置物品的平台。
+			- 例句：She placed her books neatly on the shelf.
+		- **Binder** (活页夹): 用来将纸张整理在一起的封面和环。
+			- 例句：I organized my notes in a binder for the exam.
+		- **Vending** (自动售货): 通过自动售货机销售商品的行为。
+			- 例句：There's a vending machine in the hallway that sells snacks and drinks.
+		- **Puncher** (打孔机): 另一个词语，意思同Hole punch。
+			- 例句：The puncher on my desk is broken; I can't use it to punch holes in these papers.
+		- **Tape** (胶带): 一种粘性的条状物，用于粘贴或固定物品。
+			- 例句：Use some tape to seal the box.
+		- **Stick** (棍; 粘贴): 一根细长的木材或其他材料；或者作为动词，表示使物体附着在另一物体上。
+			- 例句：She used a stick to stir the paint. / Stick the note to the fridge so everyone can see it.
