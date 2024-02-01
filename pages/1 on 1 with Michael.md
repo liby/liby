@@ -341,3 +341,29 @@
 			- 例句：Use some tape to seal the box.
 		- **Stick** (棍; 粘贴): 一根细长的木材或其他材料；或者作为动词，表示使物体附着在另一物体上。
 			- 例句：She used a stick to stir the paint. / Stick the note to the fridge so everyone can see it.
+		- **Briefcase** (公文包): 一个扁平的箱子用于携带文件和其他办公用品。
+			- 例句：He carried all his important documents in his briefcase.
+		- **Cubicle** (小隔间): 办公室里用来为员工提供独立工作空间的隔断。
+			- 例句：She decorated her cubicle with photos and a small plant.
+		- **Correction fluid** (涂改液): 一种液体用来覆盖文件上的错误。
+			- 例句：Use the correction fluid to cover the typo on the form.
+		- **Envelope** (信封): 一个薄纸制成的容器，用来封装信件。
+			- 例句：He sealed the envelope and put a stamp on it.
+		- **Furniture** (家具): 房间里的大型设备，如桌子、椅子和床。
+			- 例句：We need to buy some new furniture for the living room.
+		- **Lobby** (大堂): 一个建筑入口处的大厅，通常用于接待来访者。
+			- 例句：Please wait for me in the hotel lobby.
+		- **Glue** (胶水): 一种粘合剂，用于将两个表面粘合在一起。
+			- 例句：I used glue to stick the two pieces of paper together.
+		- **Bulletin** (公告): 一个正式的声明或公告。
+			- 例句：The latest bulletin was posted on the notice board in the hallway.
+		- **Fountains** (喷泉): 通过喷射水流来装饰的装置。
+			- 例句：The city square has a beautiful fountain in the center.
+		- **Sharpeners** (卷笔刀): 一个工具用来削尖铅笔。
+			- 例句：My pencil is blunt; I need to use the sharpener.
+		- **Scissors** (剪刀): 一种工具，由两个刀片组成，用来剪切物品。
+			- 例句：She used scissors to cut the fabric.
+		- **Basket** (篮子): 用来容纳或携带物品的容器。
+			- 例句：She carried her groceries home in a basket.
+		- **Garbage** (垃圾): 废弃物或不再需要的物品。
+			- 例句：Please take out the garbage; the bin is full.
