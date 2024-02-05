@@ -292,6 +292,7 @@
 	- **Disappointed** (失望的): 当事情没有达到期望时感到的不满或沮丧。
 		- 例句：She was disappointed to find out that her favorite band had canceled their concert.
 - 2024-02-01
+  collapsed:: true
 	- 关于办公室用品的讨论
 		- **Corrector** (涂改液): 用来覆盖书写或打印错误的白色液体。
 			- 例句：I used the corrector to hide the mistake in the report.
@@ -367,3 +368,29 @@
 			- 例句：She carried her groceries home in a basket.
 		- **Garbage** (垃圾): 废弃物或不再需要的物品。
 			- 例句：Please take out the garbage; the bin is full.
+- 2024-02-05
+	- 今天学习情绪与感受相关的词语
+		- **Bored** - 感到无聊的。当一个人没有兴趣做他们正在做的事情时的感觉。
+			- I feel bored when I have nothing to do.
+		- **Confused** - 感到困惑的。当某人不明白某事或无法清楚地思考时的状态。
+			- This puzzle makes me confused.
+		- **Disappointed** - 感到失望的。当事情没有达到某人的期望时的感觉。
+			- I was disappointed with the movie; it wasn't as good as I hoped.
+		- **Embarrassed** - 感到尴尬的。在社交场合因为某事感到不自在或羞耻。
+			- I was embarrassed when I tripped in front of everyone.
+		- **Jealous** - 感到嫉妒的。当某人拥有你想要的东西时产生的感觉。
+			- He was jealous of his brother's new bicycle.
+		- **Nervous** - 感到紧张的。面对可能的挑战或不确定的结果时的感觉。
+			- I always feel nervous before taking an exam.
+		- **Stressed** - 感到有压力的。当感到压力过大，难以处理时的状态。
+			- Work has been really busy lately, and I'm feeling stressed.
+		- **Spider** - 蜘蛛。一种有八条腿的小动物，通常被认为是昆虫，实际上属于蛛形纲。
+			- There's a big spider in the corner of the room!
+		- **Calm** - 平静的。没有紧张、愤怒或其他强烈情绪的状态。
+			- After the storm passed, the sea was calm again.
+		- **Curious** - 好奇的。对学习新事物或了解更多信息感兴趣。
+			- I'm curious about how airplanes fly.
+		- **Laughter** - 笑声。笑的行为或声音。
+			- The room was filled with laughter during the comedy show.
+		- **Horrible** - 可怕的。非常不愉快或令人不舒服的。
+			- The news about the accident was horrible.
