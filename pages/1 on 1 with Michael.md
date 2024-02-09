@@ -369,6 +369,7 @@
 		- **Garbage** (垃圾): 废弃物或不再需要的物品。
 			- 例句：Please take out the garbage; the bin is full.
 - 2024-02-05
+  collapsed:: true
 	- 今天学习情绪与感受相关的词语
 		- **Bored** - 感到无聊的。当一个人没有兴趣做他们正在做的事情时的感觉。
 			- I feel bored when I have nothing to do.
@@ -394,3 +395,25 @@
 			- The room was filled with laughter during the comedy show.
 		- **Horrible** - 可怕的。非常不愉快或令人不舒服的。
 			- The news about the accident was horrible.
+- 2024-02-08
+	- 今天学的是关于公交车相关的内容
+		- **Fare** - 票价
+			- 英文例句：The bus fare has increased to $2.50.
+		- **Shelter** - 避难所，庇护
+			- 英文例句：The bus stop has a small shelter to protect passengers from the rain.
+		- **Buzzer** - 蜂鸣器
+			- 英文例句：Press the buzzer to alert the driver that you want to get off at the next stop.
+		- **Eastbound** - 向东的
+			- 英文例句：Take the eastbound train to reach the city center.
+		- **Strap** - 带子
+			- 英文例句：Hold onto the strap while the bus is moving to keep your balance.
+		- **Passengers** - 乘客
+			- 英文例句：The flight attendants are checking if all passengers have fastened their seatbelts.
+		- **Motorized** - 机动的
+			- 英文例句：Motorized scooters have become a popular mode of transportation in the city.
+		- **Aircraft** - 飞机
+			- 英文例句：The new aircraft features more comfortable seats and better fuel efficiency.
+		- **Advice** - 建议
+			- 英文例句：The travel guide offers excellent advice on the best places to visit in the city.
+		- **Invented** - 发明
+			- 英文例句：Alexander Graham Bell is credited with having invented the telephone.
