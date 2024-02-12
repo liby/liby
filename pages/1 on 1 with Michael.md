@@ -396,6 +396,7 @@
 		- **Horrible** - 可怕的。非常不愉快或令人不舒服的。
 			- The news about the accident was horrible.
 - 2024-02-08
+  collapsed:: true
 	- 今天学的是关于公交车相关的内容
 		- **Fare** - 票价
 			- 英文例句：The bus fare has increased to $2.50.
@@ -417,3 +418,182 @@
 			- 英文例句：The travel guide offers excellent advice on the best places to visit in the city.
 		- **Invented** - 发明
 			- 英文例句：Alexander Graham Bell is credited with having invented the telephone.
+- 2024-02-12
+	- 今天是关于工作和钱相关的内容
+		- Unemployed - 失业的
+			- **Example:** He has been unemployed for six months now.
+			- **例句:** 他现在已经失业六个月了。
+		- Qualifications - 资格，条件
+			- **Example:** The job requires specific qualifications and experience.
+			- **例句:** 这份工作需要特定的资格和经验。
+		- Commission - 佣金
+			- **Example:** The salesperson earns a 10% commission on every sale.
+			- **例句:** 销售员每销售一件商品就能获得10%的佣金。
+		- Salary - 薪水
+			- **Example:** My salary is paid into my bank account at the end of each month.
+			- **例句:** 我的薪水在每个月底存入我的银行账户。
+		- Strike - 罢工
+			- **Example:** The workers went on strike to demand better pay.
+			- **例句:** 工人们罢工以要求更高的薪酬。
+		- Resign - 辞职
+			- **Example:** She decided to resign from her position due to personal reasons.
+			- **例句:** 由于个人原因，她决定辞去她的职位。
+		- Retire - 退休
+			- **Example:** He plans to retire next year after 30 years of service.
+			- **例句:** 经过30年的服务，他计划明年退休。
+		- Wage - 工资（通常指小时工或日薪工的薪水）
+			- **Example:** The minimum wage in the country was raised to $15 per hour.
+			- **例句:** 该国的最低工资提高到每小时15美元。
+		- Pension - 养老金
+			- **Example:** My grandfather receives a pension from the government.
+			- **例句:** 我的祖父从政府那里领取养老金。
+		- Bonus - 奖金
+			- **Example:** All employees will receive a year-end bonus.
+			- **例句:** 所有员工将获得年终奖金。
+		- Sacked - 解雇
+			- **Example:** He was sacked for being late too often.
+			- **例句:** 他因为经常迟到被解雇。
+		- Redundant - 裁员，多余的
+			- **Example:** Due to budget cuts, several positions have become redundant.
+			- **例句:** 由于预算削减，几个职位变得多余了。
+		- Especially - 特别是
+			- **Example:** I love all kinds of fruits, especially strawberries.
+			- **例句:** 我喜欢所有种类的水果，特别是草莓。
+		- Impression - 印象
+			- **Example:** She made a good impression on her first day at work.
+			- **例句:** 她在工作的第一天给人留下了好印象。
+		- Cashmere - 羊绒
+			- **Example:** She wrapped herself in a soft cashmere scarf to stay warm.
+			- **例句:** 她用一条柔软的羊绒围巾包裹自己以保暖。
+		- Cashier - 出纳员
+			- **Example:** The cashier gave me the wrong change.
+			- **例句:** 出纳员给了我错误的找零。
+		- Voucher - 代金券
+			- **Example:** I used a voucher to get a discount on my meal.
+			- **例句:** 我用了一张代金券来抵扣我的餐费。
+		- Veal - 小牛肉
+			- **Example:** I ordered veal for dinner at the restaurant.
+			- **例句:** 我在餐厅点了小牛肉作为晚餐。
+		- Legal - 法律的
+			- **Example:** She sought legal advice before signing the contract.
+			- **例句:** 她在签署合同前寻求了法律咨询。
+		- Agreement - 协议
+			- **Example:** The two parties reached an agreement after long negotiations.
+			- **例句:** 经过长时间的谈判，双方达成了协议。
+		- Mortgage - 抵押贷款
+			- **Example:** They took out a mortgage to buy their first home.
+			- **例句:** 他们办理了抵押贷款来购买他们的第一个家。
+		- Dealing - 交易
+			- **Example:** He's known for his fair dealing in business.
+			- **例句:** 他以公平的商业交易而闻名。
+		- Clerk - 职员
+			- **Example:** The clerk filed the documents in the cabinet.
+			- **例句:** 职员将文件归档到了文件柜里。
+		- Banquet - 宴会
+			- **Example:** They hosted a banquet in honor of the visiting dignitaries.
+			- **例句:** 他们为了庆祝来访的贵宾举办了一个宴会。
+		- Banister - 扶手
+			- **Example:** She held onto the banister as she walked down the stairs.
+			- **例句:** 她下楼时抓着扶手。
+		- Recipe - 食谱
+			- **Example:** This cake recipe has been in my family for generations.
+			- **例句:** 这个蛋糕食谱在我家世代相传。
+		- Receipt - 收据
+			- **Example:** Keep your receipt in case you need to return the item.
+			- **例句:** 保留你的收据，以防你需要退货。
+		- Recite - 背诵
+			- **Example:** The student recited the poem perfectly in class.
+			- **例句:** 学生在课上完美地背诵了这首诗。
+		- Affirm - 确认
+			- **Example:** The court affirmed the decision of the lower court.
+			- **例句:** 法院确认了下级法院的决定。
+		- Afford - 负担得起
+			- **Example:** We can't afford to go on vacation this year.
+			- **例句:** 我们今年负担不起去度假。
+		- Affair - 事务
+			- **Example:** He is very discreet about his private affairs.
+			- **例句:** 他对自己的私事非常谨慎。
+		- Folding - 可折叠的
+			- **Example:** We bought a folding table for the picnic.
+			- **例句:** 我们为野餐买了一张可折叠的桌子。
+		- Exempli gratia (e.g.) - 例如
+			- **Example:** You should eat more fruits, e.g., apples, bananas, and oranges.
+			- **例句:** 你应该吃更多的水果，例如苹果、香蕉和橘子。
+		- Wally - 呆子（非正式用语，主要在英国英语中使用）
+			- **Example:** Don't be such a wally, pay attention!
+			- **例句:** 别这么呆，注意点！
+		- Beggar - 乞丐
+			- **Example:** A beggar asked me for some change on the street.
+			- **例句:** 一位乞丐在街上向我要了些零钱。
+		- Burglar - 盗贼
+			- **Example:** The burglar was caught breaking into the house.
+			- **例句:** 盗贼被抓到正试图闯入这所房子。
+		- Inhibit - 抑制
+			- **Example:** The drug is known to inhibit the spread of the virus.
+			- **例句:** 众所周知，这种药物可以抑制病毒的传播。
+		- Inherit - 继承
+			- **Example:** She inherited a fortune from her late aunt.
+			- **例句:** 她从已故的姑妈那里继承了一笔财富。
+		- Inhabit - 居住
+			- **Example:** Several species of birds inhabit the island.
+			- **例句:** 几种鸟类居住在这个岛上。
+		- Possessions - 财产
+			- **Example:** He lost all his possessions in the fire.
+			- **例句:** 他在火灾中失去了所有的财产。
+		- Wealthy - 富有的
+			- **Example:** She comes from a wealthy family.
+			- **例句:** 她出生于一个富有的家庭。
+		- Healthy - 健康的
+			- **Example:** Eating vegetables is part of a healthy diet.
+			- **例句:** 吃蔬菜是健康饮食的一部分。
+		- Filthy - 非常脏的
+			- **Example:** His clothes were filthy after working in the garden all day.
+			- **例句:** 他整天在花园干活后，衣服变得非常脏。
+		- Regularly - 定期地
+			- **Example:** She exercises regularly to stay fit.
+			- **例句:** 她定期锻炼以保持健康。
+		- Loaf - 一条（面包）
+			- **Example:** I bought a loaf of bread for breakfast.
+			- **例句:** 我买了一条面包当早餐。
+		- Metal - 金属
+			- **Example:** This ring is made of precious metal.
+			- **例句:** 这枚戒指是由贵重金属制成的。
+		- Monetarist - 货币主义者
+			- **Example:** The government's policy was influenced by monetarist theories.
+			- **例句:** 政府的政策受到了货币主义理论的影响。
+		- Copper - 铜
+			- **Example:** Copper is used in electrical wiring because of its conductivity.
+			- **例句:** 由于铜的导电性，它被用于电线。
+		- Jewellery - 珠宝
+			- **Example:** She loves wearing jewellery, especially necklaces and earrings.
+			- **例句:** 她喜欢戴珠宝，特别是项链和耳环。
+		- Shape - 形状
+			- **Example:** The clouds had the shape of animals.
+			- **例句:** 云朵有着动物的形状。
+		- Shade - 阴凉处，色调
+			- **Example:** We sat in the shade of the tree to avoid the sun.
+			- **例句:** 我们坐在树荫下避阳。
+		- Cheque - 支票
+			- **Example:** He paid for the car by cheque.
+			- **例句:** 他用支票支付了汽车。
+		- Chess - 国际象棋
+			- **Example:** He enjoys playing chess in his free time.
+			- **例句:** 他在空闲时间喜欢下国际象棋。
+		- Nought - 零
+			- **Example:** The final score was two nought.
+			- **例句:** 最终比分是二比零。
+		- Advertise - 广告
+			- **Example:** They decided to advertise their new product on social media.
+			- **例句:** 他们决定在社交媒体上为他们的新产品做广告。
+		- Headquarters - 总部
+			- **Example:** The company's headquarters are located in New York.
+			- **例句:** 该公司的总部位于纽约。
+		- Secretary - 秘书
+			- **Example:** The secretary scheduled a meeting for the manager.
+			- **例句:** 秘书为经理安排了一个会议。
+		- Merchandise - 商品
+			- **Example:** The store offers a wide range of merchandise at competitive prices.
+			- **例句:** 这家商店提供了广泛的商品，价格有竞争力。
+		- Bankrupt - 破产
+			- **Example:** The company went bankrupt after losing a major lawsuit.
+			- **例句:** 在输掉一场重大诉讼后，公司宣告破产。
