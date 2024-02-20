@@ -309,6 +309,7 @@
 			- **Example:** The company went bankrupt after losing a major lawsuit.
 			- **例句:** 在输掉一场重大诉讼后，公司宣告破产。
 - 2024-02-16
+  collapsed:: true
 	- 今天是关于饮食的内容
 		- **Ingredient** - 食材
 			- 英文例句：The main ingredient in this dish is coconut milk.
@@ -379,3 +380,5 @@
 		- **Leather** - 皮革
 			- 英文例句：Leather is commonly used in the making of shoes, jackets, and bags.
 			- 中文例句：皮革通常用于制作鞋子、夹克和包。
+- 2024-02-20
+	- 今天是科学 Science 相关的内容
