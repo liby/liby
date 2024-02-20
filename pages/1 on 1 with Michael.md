@@ -381,6 +381,7 @@
 			- 英文例句：Leather is commonly used in the making of shoes, jackets, and bags.
 			- 中文例句：皮革通常用于制作鞋子、夹克和包。
 - 2024-02-20
+  collapsed:: true
 	- 今天是科学 Science 相关的内容
 		- 在给出的科学领域名称后面加上后缀 "-ist"、"-ian" 或 "-er"。这些后缀通常用于形成表示专业从事某一领域的科学家或专家的名词
 			- **Physics - Physicist**
@@ -481,3 +482,72 @@
 			- **Dissolve (v. 溶解)**
 				- **中文释义**：使固体物质与液体混合，形成溶液。
 				- **英文例句**：Sugar dissolves in water.
+			- **Oxidise (v.) 氧化**
+				- 中文释义：一种化学反应，物质与氧气反应。
+				- 英文例句：Iron oxidises to form rust when exposed to air and moisture.
+			- **Melt (v.) 融化**
+				- 中文释义：固体因热而变成液体。
+				- 英文例句：The snow will melt when the temperature rises.
+			- **Estimate (v.) 估计**
+				- 中文释义：大致判断某事的数量、程度、价值。
+				- 英文例句：I estimate the project will take about three months to complete.
+			- **Contaminate (v.) 污染**
+				- 中文释义：使（物质、地方等）不纯净，特别是由于有害物质的存在。
+				- 英文例句：The water supply has been contaminated with chemicals.
+			- **Asteroid (小行星)**
+				- 中文释义：太阳系中绕太阳运行的小型天体，主要位于火星和木星之间的小行星带。
+				- 英文例句：Scientists are studying the asteroid to learn more about the early solar system.
+			- **Magazine (杂志)**
+				- 中文释义：定期出版的刊物，包含文章、照片和广告。
+				- 英文例句：I read an interesting article about climate change in a science magazine.
+			- **Extinct (灭绝的)**
+				- 中文释义：一个物种完全消失，不再存在。
+				- 英文例句：Dinosaurs became extinct millions of years ago.
+			- **Mice (老鼠，复数形式)**
+				- 中文释义：小型啮齿动物的通称，是许多生态系统中的重要组成部分。
+				- 英文例句：Mice are often used in scientific research because of their genetic similarities to humans.
+			- **Bats (蝙蝠，复数形式)**
+				- 中文释义：唯一能够飞行的哺乳动物，以夜行性和回声定位捕食而知名。
+				- 英文例句：Bats play a crucial role in controlling insect populations.
+			- **Adjectives (形容词)**
+				- 中文释义：用来描述或修饰名词的词。
+				- 英文例句：Colorful, bright, and cold are all examples of adjectives.
+			- **Fossil (化石)**
+				- 中文释义：古生物的遗骸或印迹，经过长时间的矿化过程保存在岩石中。
+				- 英文例句：Fossils provide important clues about life on Earth millions of years ago.
+			- **Intelligent (聪明的)**
+				- 中文释义：具有高度智力或理解能力。
+				- 英文例句：Dolphins are considered to be highly intelligent animals.
+			- **Electric (电的)**
+				- 中文释义：与电有关的，特指由电力驱动的。
+				- 英文例句：We are seeing more electric cars on the roads as technology improves.
+			- **Telescopes (望远镜，复数形式)**
+				- 中文释义：一种光学仪器，用于观察远处的物体，特别是天体。
+				- 英文例句：Astronomers use telescopes to study stars and galaxies far beyond our solar system.
+			- **Geology (地质学)**
+				- 中文释义：研究地球的物质构成、结构、过程以及历史的科学。
+				- 英文例句：Geology helps us understand Earth's past and predict future changes.
+			- **Gravity (重力)**
+				- 中文释义：物体之间因其质量而相互吸引的力。
+				- 英文例句：Gravity keeps the planets in orbit around the sun.
+			- **Microscope (显微镜)**
+				- 中文释义：一种放大小物体以便于观察的仪器。
+				- 英文例句：Scientists use microscopes to observe cells and bacteria that cannot be seen with the naked eye.
+			- **Planet (行星)**
+				- 中文释义：围绕恒星运行的大型天体，具有足够的质量以自身重力克服刚体力而呈近似圆球形。
+				- 英文例句：Earth is the third planet from the sun in our solar system.
+			- **Satellite (卫星)**
+				- 中文释义：围绕行星运行的较小天体；或人造的环绕地球的设备，用于通信、天气监测等。
+				- 英文例句：The moon is Earth's natural satellite, while GPS satellites are examples of artificial satellites.
+			- **Solar (太阳的)**
+				- 中文释义：与太阳相关的。
+				- 英文例句：Solar panels convert solar energy into electricity.
+			- **Submarine (潜艇)**
+				- 中文释义：一种能在水下航行的船只。
+				- 英文例句：Submarines are used for research and military purposes.
+			- **Ocean (海洋)**
+				- 中文释义：地球表面大部分被盐水覆盖的巨大区域。
+				- 英文例句：The Pacific Ocean is the largest ocean on Earth.
+			- **Volcano (火山)**
+				- 中文释义：地球表面的一个开口，通过它将熔岩、火山灰和气体从地下释放到外部。
+				- 英文例句：Mount Fuji is a dormant volcano in Japan.
