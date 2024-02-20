@@ -382,3 +382,102 @@
 			- 中文例句：皮革通常用于制作鞋子、夹克和包。
 - 2024-02-20
 	- 今天是科学 Science 相关的内容
+		- 在给出的科学领域名称后面加上后缀 "-ist"、"-ian" 或 "-er"。这些后缀通常用于形成表示专业从事某一领域的科学家或专家的名词
+			- **Physics - Physicist**
+			- **Mathematics - Mathematician**
+			- **Chemistry - Chemist**
+			- **Biology - Biologist**
+			- **Botany - Botanist**
+			- **Archaeology - Archaeologist**
+			- **Geology - Geologist**
+			- **Psychology - Psychologist**
+			- **Astronomy - Astronomer**
+			- **Meteorology - Meteorologist**
+		- 生词表
+			- **Acid (酸)**
+				- **中文释义**：一种通常具有酸味，能与碱反应生成盐和水的化学物质。
+				- **英文例句**：The scientist carefully measured the acid before adding it to the solution.
+			- **Poured (倒，灌)**
+				- **中文释义**：将液体从容器中倒出。
+				- **英文例句**：She poured water into the glass.
+			- **Sink (水槽，下沉)**
+				- **中文释义**：厨房或实验室中用于洗涤的容器；或指物体下沉到水或其他液体底部。
+				- **英文例句**：He washed the beaker in the sink after the experiment.
+			- **Vial (小瓶)**
+				- **中文释义**：小玻璃瓶，通常用于储存药液或其他化学物质。
+				- **英文例句**：The vaccine was stored in a small vial.
+			- **Greenish (略呈绿色的)**
+				- **中文释义**：带有轻微绿色的。
+				- **英文例句**：The solution turned a greenish hue after the reaction.
+			- **Rubbing (擦，摩擦)**
+				- **中文释义**：用力擦或摩擦某物。
+				- **英文例句**：Rubbing alcohol is commonly used for sanitizing surfaces.
+			- **Sanitize (消毒，清洁)**
+				- **中文释义**：使成为干净，消除细菌。
+				- **英文例句**：Make sure to sanitize your hands before eating.
+			- **Chemistry (化学)**
+				- **中文释义**：科学的一个分支，研究物质的组成、结构、性质和变化。
+				- **英文例句**：He has always been fascinated by chemistry and its experiments.
+			- **Conducted (进行)**
+				- **中文释义**：执行或完成某项行动或实验。
+				- **英文例句**：The study was conducted over a period of two years.
+			- **Questionnaire (问卷)**
+				- **中文释义**：一系列问题，用于收集信息或意见。
+				- **英文例句**：Participants were asked to fill out a questionnaire about their habits.
+			- **Introduce (介绍)**
+				- **中文释义**：使某人了解新事物或新概念。
+				- **英文例句**：The teacher will introduce the topic of renewable energy tomorrow.
+			- **Essay (论文)**
+				- **中文释义**：一种文学形式，通常是对某一主题的短文分析或解释。
+				- **英文例句**：She wrote an essay on the effects of global warming.
+			- **Beaker (烧杯)**
+				- **中文释义**：实验室使用的一个开口圆筒形玻璃或塑料容器。
+				- **英文例句**：Measure 100ml of water in the beaker.
+			- **Vapour (蒸气)**
+				- **中文释义**：变成气态的液体或固体。
+				- **英文例句**：Water turns into vapour when it boils.
+			- **Conclusion (结论)**
+				- **中文释义**：一项研究或论证的最后部分，总结主要发现或意见。
+				- **英文例句**：The conclusion of the report emphasized the need for further research.
+			- **Germs (细菌)**
+				- **中文释义**：微小的生物，特别是那些能引起疾病的。
+				- **英文例句**：Washing your hands regularly can help prevent the spread of germs.
+			- **Prolonged (adj. 延长的，持久的)**
+				- **中文释义**：持续了很长时间的。
+				- **英文例句**：Prolonged use of the computer can lead to eye strain.
+			- **Examinations (n. 考试，检查)**
+				- **中文释义**：对知识或技能的测试；或对身体的医疗检查。
+				- **英文例句**：Final examinations are scheduled for the next week.
+			- **Examine (v. 检查，考察)**
+				- **中文释义**：仔细查看或调查。
+				- **英文例句**：The doctor will examine the patient for any signs of disease.
+			- **Bacteria (n. 细菌)**
+				- **中文释义**：一种单细胞微生物，有些能引起疾病。
+				- **英文例句**：Some bacteria are beneficial to our digestive system.
+			- **Minerals (n. 矿物质)**
+				- **中文释义**：自然界中固态无机物，构成地球岩石和土壤的基本成分之一。
+				- **英文例句**：Calcium and magnesium are minerals essential for bone health.
+			- **Copernicus (n. 哥白尼)**
+				- **中文释义**：波兰天文学家，提出日心说。
+				- **英文例句**：Copernicus is known for his theory that the sun is at the center of the universe.
+			- **Orbits (n. 轨道)**
+				- **中文释义**：物体围绕另一物体运行的路径。
+				- **英文例句**：The Earth completes one orbit around the sun every year.
+			- **Specialised (adj. 专门的，特殊化的)**
+				- **中文释义**：专注于特定领域或任务的。
+				- **英文例句**：She is a nurse specialised in pediatric care.
+			- **Quantum (n. 量子)**
+				- **中文释义**：量子理论中，能量的最小量单位。
+				- **英文例句**：Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles.
+			- **Electrodynamics (n. 电动力学)**
+				- **中文释义**：研究电荷和电流与磁场和电场之间相互作用的物理学分支。
+				- **英文例句**：Quantum electrodynamics is a part of quantum physics that deals with the interactions between light and matter.
+			- **Specialists (n. 专家)**
+				- **中文释义**：在某个学科或领域有深入知识或技能的人。
+				- **英文例句**：A cardiologist is a specialist who treats diseases of the heart.
+			- **Narrow (adj. 狭窄的)**
+				- **中文释义**：宽度小的；限制在很小范围内的。
+				- **英文例句**：The bridge was too narrow for the truck to pass.
+			- **Dissolve (v. 溶解)**
+				- **中文释义**：使固体物质与液体混合，形成溶液。
+				- **英文例句**：Sugar dissolves in water.
