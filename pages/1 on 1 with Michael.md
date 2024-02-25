@@ -551,3 +551,53 @@
 			- **Volcano (火山)**
 				- 中文释义：地球表面的一个开口，通过它将熔岩、火山灰和气体从地下释放到外部。
 				- 英文例句：Mount Fuji is a dormant volcano in Japan.
+- 2024-02-25
+	- 今天是关于猫的有关讨论
+		- **tongue** - 舌头
+			- The cat cleans its fur with its **tongue**.
+			- 猫用它的**舌头**清洁它的毛皮。
+		- **playful** - 爱玩的，好玩的
+			- The kitten is very **playful** and enjoys playing with catnip toys.
+			- 小猫非常**爱玩**，喜欢玩猫薄荷玩具。
+		- **scratch** - 抓，刮
+			- Cats sometimes **scratch** the furniture with their claws.
+			- 猫有时会用它们的爪子**抓**家具。
+		- **furniture** - 家具
+			- Keep your cat's claws trimmed to protect your **furniture**.
+			- 保持你的猫的爪子修剪整齐，以保护你的**家具**。
+		- **sharp** - 尖锐的
+			- Cats have **sharp** claws that can easily scratch.
+			- 猫有**尖锐的**爪子，可以轻易地造成抓痕。
+		- **catnip** - 猫薄荷
+			- **Catnip** is a herb that many cats love and find irresistible.
+			- **猫薄荷**是一种很多猫都喜欢并且无法抗拒的草本植物。
+		- **claws** - 爪子
+			- Cats use their **claws** for scratching and hunting.
+			- 猫用它们的**爪子**进行抓挠和狩猎。
+		- **fur** - 毛皮
+			- Cats groom their **fur** to keep it clean and smooth.
+			- 猫整理它们的**毛皮**以保持清洁和光滑。
+		- **kitten** - 小猫
+			- A **kitten** is a young cat.
+			- **小猫**是年轻的猫。
+		- **lick** - 舔
+			- Cats **lick** their fur to clean themselves.
+			- 猫**舔**它们的毛皮来清洁自己。
+		- **meow** - 喵喵叫
+			- Cats **meow** to communicate with humans.
+			- 猫**喵喵叫**来与人类交流。
+		- **nap** - 小睡，打盹
+			- Cats enjoy taking a **nap** in the warm sunlight.
+			- 猫喜欢在温暖的阳光下打个**盹**。
+		- **paws** - 爪子，足
+			- Cats have soft pads on their **paws**.
+			- 猫的**爪子**上有软垫。
+		- **purr** - 呼噜声，发出呼噜声
+			- Cats **purr** when they are happy or relaxed.
+			- 当猫高兴或放松时，它们会发出**呼噜声**。
+		- **tail** - 尾巴
+			- A cat's **tail** can express its emotions.
+			- 猫的**尾巴**可以表达它的情绪。
+		- **whiskers** - 胡须
+			- Cats use their **whiskers** to detect changes in their surroundings.
+			- 猫用它们的**胡须**来探测周围环境的变化。
