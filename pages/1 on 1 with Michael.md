@@ -601,3 +601,84 @@
 		- **whiskers** - 胡须
 			- Cats use their **whiskers** to detect changes in their surroundings.
 			- 猫用它们的**胡须**来探测周围环境的变化。
+		- **shrinking** - 缩小
+			- The habitat of many wild animals is **shrinking** due to deforestation.
+			- 由于森林砍伐，许多野生动物的栖息地正在**缩小**。
+		- **measure** - 测量
+			- Scientists **measure** the skulls of ancient animals to understand their structure.
+			- 科学家们**测量**古代动物的头骨来理解它们的结构。
+		- **skull** - 头骨
+			- The **skull** protects the brain and supports the structures of the face.
+			- **头骨**保护大脑并支撑面部结构。
+		- **wildcat** - 野猫
+			- The European **wildcat** is an ancestor of the domestic cat.
+			- 欧洲**野猫**是家猫的祖先。
+		- **domestication** - 驯化
+			- The **domestication** of animals has changed their behavior and physical characteristics.
+			- 动物的**驯化**改变了它们的行为和身体特征。
+		- **aggression** - 攻击性
+			- **Aggression** in animals can be a response to a threat or part of territorial behavior.
+			- 动物的**攻击性**可能是对威胁的反应或领土行为的一部分。
+		- **forests** - 森林
+			- **Forests** are vital ecosystems that provide habitat for a wide range of species.
+			- **森林**是提供给多种物种栖息地的重要生态系统。
+		- **threatening** - 威胁的
+			- The presence of predators can be **threatening** to smaller animals.
+			- 捕食者的存在对较小的动物来说可能是**威胁的**。
+		- **violent** - 暴力的
+			- **Violent** storms can cause significant damage to natural habitats.
+			- **暴力的**风暴可以对自然栖息地造成重大损害。
+		- **bones** - 骨头
+			- Archaeologists find **bones** that help them understand the life of ancient creatures.
+			- 考古学家发现帮助他们理解古生物生活的**骨头**。
+		- **examines** - 检查
+			- The doctor **examines** the patient to diagnose the illness.
+			- 医生**检查**病人以诊断疾病。
+		- **fossil** - 化石
+			- **Fossils** provide evidence about the plants and animals that lived millions of years ago.
+			- **化石**提供了数百万年前生活在地球上的植物和动物的证据。
+		- **dinosaur** - 恐龙
+			- **Dinosaurs** roamed the earth during the Mesozoic Era.
+			- **恐龙**在中生代时期漫游地球。
+		- **bobcat** - 山猫
+			- The **bobcat** is a North American wildcat that is adaptable to various habitats.
+			- **山猫**是一种北美野猫，能适应各种栖息地。
+		- **scientists** - 科学家
+			- **Scientists** conduct research to discover new knowledge.
+			- **科学家**进行研究以发现新知识。
+		- **Royal Society** - 皇家学会
+			- The **Royal Society** is one of the oldest scientific institutions in the world.
+			- **皇家学会**是世界上最古老的科学机构之一。
+		- **journal** - 期刊
+			- Scientific discoveries are often published in academic **journals**.
+			- 科学发现通常在学术**期刊**上发表。
+		- **Vienna** - 维也纳
+			- **Vienna** is known for its cultural contributions to music, art, and science.
+			- **维也纳**以其对音乐、艺术和科学的文化贡献而闻名。
+		- **relatives** - 亲属，相关物种
+			- Wolves and dogs are **relatives**, sharing a common ancestor.
+			- 狼和狗是**亲属**，有共同的祖先。
+		- **unusual** - 不寻常的
+			- The platypus is an **unusual** animal with both mammalian and reptilian traits.
+			- 鸭嘴兽是一种具有哺乳动物和爬行动物特征的**不寻常的**动物。
+		- **intelligent** - 聪明的
+			- Dolphins are known to be highly **intelligent** marine mammals.
+			- 海豚被认为是非常**聪明的**海洋哺乳动物。
+		- **Long-haired** - 长毛的
+			- **Long-haired** cats require regular grooming to avoid mats and tangles.
+			- **长毛的**猫需要定期梳理以避免毛发缠结。
+		- **short-haired** - 短毛的
+			- **Short-haired** dogs are often considered to have lower grooming needs.
+			- **短毛的**狗通常被认为对美容的需求较低。
+		- **messy** - 乱七八糟的
+			- A **messy** room can be stressful to live in and difficult to clean.
+			- 一个**乱七八糟的**房间居住起来可能会感到压力并且难以清理。
+		- **noisy** - 吵闹的
+			- **Noisy** neighbors can make it difficult to find peace and quiet at home.
+			- **吵闹的**邻居可能使得在家找到平静和安宁变得困难。
+		- **Landlords** - 房东
+			- **Landlords** are responsible for maintaining the property and ensuring it meets safety standards.
+			- **房东**负责维护房产并确保它符合安全标准。
+		- **tenants** - 租客
+			- **Tenants** have rights and responsibilities under the lease agreement.
+			- **租客**在租赁协议下有权利和责任。
