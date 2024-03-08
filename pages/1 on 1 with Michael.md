@@ -552,6 +552,7 @@
 				- 中文释义：地球表面的一个开口，通过它将熔岩、火山灰和气体从地下释放到外部。
 				- 英文例句：Mount Fuji is a dormant volcano in Japan.
 - 2024-02-25
+  collapsed:: true
 	- 今天是关于猫的有关讨论
 		- **tongue** - 舌头
 			- The cat cleans its fur with its **tongue**.
@@ -682,3 +683,53 @@
 		- **tenants** - 租客
 			- **Tenants** have rights and responsibilities under the lease agreement.
 			- **租客**在租赁协议下有权利和责任。
+- 2024-03-08
+	- 今天的课程内容是与月亮相关的基本概念和现象
+		- **atmosphere** - 大气层
+			- The moon has a very thin **atmosphere**, so it cannot support life as Earth does.
+			- 月球有一个非常薄的**大气层**，所以它不能像地球那样支持生命。
+		- **crater** - 火山口，陨石坑
+			- **Craters** on the moon were formed by the impact of meteorites.
+			- 月球上的**陨石坑**是由陨石撞击形成的。
+		- **far side** - 远端
+			- The **far side** of the moon is never visible from Earth due to tidal locking.
+			- 由于潮汐锁定，月球的**远端**从地球上永远看不见。
+		- **gravity** - 重力
+			- The **gravity** on the moon is only about one-sixth as strong as Earth's gravity.
+			- 月球上的**重力**只有地球重力的六分之一那么强。
+		- **lunar** - 月球的
+			- **Lunar** phases are the changes in the visible portion of the moon caused by its orbit around Earth.
+			- **月球的**相位是由于月球绕地球轨道运行所导致的可见部分的变化。
+		- **tide** - 潮汐
+			- The **tides** in Earth's oceans are greatly influenced by the gravitational pull of the moon.
+			- 地球海洋中的**潮汐**很大程度上受到月球引力的影响。
+		- **astronauts** - 宇航员
+			- **Astronauts** have landed on the moon during the Apollo missions.
+			- 在阿波罗任务期间，**宇航员**已经登陆月球。
+		- **breathe** - 呼吸
+			- Humans cannot **breathe** on the moon as it lacks an atmosphere with oxygen.
+			- 人类在月球上不能**呼吸**，因为它缺乏含有氧气的大气层。
+		- **destruction** - 破坏
+			- Natural disasters can cause widespread **destruction** to buildings and infrastructure.
+			- 自然灾害可以对建筑物和基础设施造成广泛的**破坏**。
+		- **booming** - 繁荣的，快速增长的
+			- The technology industry is **booming**, with new innovations appearing regularly.
+			- 科技产业是**繁荣的**，定期出现新的创新。
+		- **previously** - 以前
+			- **Previously**, this area was known for its agricultural products.
+			- **以前**，这个地区以其农产品而闻名。
+		- **satellite** - 卫星
+			- A **satellite** orbits the Earth to collect data for weather forecasting and communication.
+			- **卫星**绕地球轨道运行，收集天气预报和通信的数据。
+		- **orbit** - 轨道
+			- The moon is in **orbit** around the Earth, completing one cycle approximately every 28 days.
+			- 月球绕地球**轨道**运行，大约每28天完成一次循环。
+		- **Mars** - 火星
+			- **Mars** is often called the Red Planet due to its reddish appearance.
+			- **火星**因其红色外观常被称为红色星球。
+		- **medicine** - 药物，医学
+			- Advances in **medicine** have significantly increased human life expectancy.
+			- **医学**的进步显著提高了人类的预期寿命。
+		- **Throughout** - 遍及
+			- **Throughout** history, humans have always been fascinated by the stars and planets.
+			- **遍及**历史，人类总是对星星和行星充满了着迷。
