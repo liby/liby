@@ -733,3 +733,24 @@
 		- **Throughout** - 遍及
 			- **Throughout** history, humans have always been fascinated by the stars and planets.
 			- **遍及**历史，人类总是对星星和行星充满了着迷。
+		- **volcanoes** - 火山
+			- **Volcanoes** can be found on Earth and other planets, like Mars, where they can reach massive sizes.
+			- **火山**可以在地球和其他行星上找到，比如火星，那里的火山可以达到巨大的大小。
+		- **political** - 政治的
+			- **Political** decisions can have a major impact on a country's economy and its people.
+			- **政治的**决策可以对一个国家的经济和其人民产生重大影响。
+		- **population** - 人口
+			- The world's **population** is continuously growing, leading to various challenges.
+			- 世界**人口**持续增长，导致各种挑战。
+		- **economy** - 经济
+			- A strong **economy** is crucial for a country's development and prosperity.
+			- 强劲的**经济**对于一个国家的发展和繁荣至关重要。
+		- **growing** - 增长的
+			- The demand for renewable energy is **growing** as countries aim to reduce carbon emissions.
+			- 随着各国旨在减少碳排放，对可再生能源的需求正在**增长**。
+		- **brighter** - 更亮的
+			- The stars appear **brighter** in the countryside due to the absence of city lights.
+			- 由于缺乏城市灯光，在乡村星星看起来更**亮**。
+		- **explode** - 爆炸
+			- Stars can **explode** in a supernova, releasing vast amounts of energy.
+			- 星星可以在超新星爆炸中**爆炸**，释放出巨大的能量。
