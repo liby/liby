@@ -684,6 +684,7 @@
 			- **Tenants** have rights and responsibilities under the lease agreement.
 			- **租客**在租赁协议下有权利和责任。
 - 2024-03-08
+  collapsed:: true
 	- 今天的课程内容是与月亮相关的基本概念和现象
 		- **atmosphere** - 大气层
 			- The moon has a very thin **atmosphere**, so it cannot support life as Earth does.
@@ -754,3 +755,38 @@
 		- **explode** - 爆炸
 			- Stars can **explode** in a supernova, releasing vast amounts of energy.
 			- 星星可以在超新星爆炸中**爆炸**，释放出巨大的能量。
+- 2024-03-15
+	- 今天是学习电影和电视相关的内容
+		- **Discovery** - 发现
+			- The **discovery** of new planets excites astronomers and space enthusiasts.
+			- 新行星的**发现**让天文学家和太空爱好者感到兴奋。
+		- **asleep** - 睡着的
+			- He was so tired that he fell **asleep** during the movie.
+			- 他太累了，在电影中睡着了。
+		- **fell** - 落下，倒下
+			- She **fell** asleep quickly after a long day of work.
+			- 经过一整天的工作后，她很快就睡着了。
+		- **comedy** - 喜剧
+			- We watched a **comedy** last night and laughed a lot.
+			- 我们昨晚看了一部**喜剧**，笑了很多。
+		- **horror** - 恐怖片
+			- He doesn't like **horror** movies because they give him nightmares.
+			- 他不喜欢**恐怖片**，因为它们会让他做噩梦。
+		- **popcorn** - 爆米花
+			- Eating **popcorn** is a popular snack while watching movies.
+			- 看电影时吃**爆米花**是一种流行的零食。
+		- **fiction** - 小说，虚构
+			- Science **fiction** explores futuristic and imaginative concepts.
+			- 科幻**小说**探索未来和富有想象力的概念。
+		- **romance** - 爱情
+			- **Romance** novels often tell stories about love and relationships.
+			- **爱情**小说通常讲述关于爱情和关系的故事。
+		- **documentary** - 纪录片
+			- The **documentary** provided a detailed look into the lives of marine animals.
+			- 这部**纪录片**详细介绍了海洋动物的生活。
+		- **matinee** - 午后场
+			- We decided to watch the **matinee** showing of the movie to avoid the evening crowds.
+			- 我们决定观看电影的**午后场**，以避开晚间的人群。
+		- **volume** - 音量
+			- Please turn down the **volume**; it's too loud.
+			- 请把**音量**调低一点；太响了。
