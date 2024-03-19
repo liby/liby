@@ -756,6 +756,7 @@
 			- Stars can **explode** in a supernova, releasing vast amounts of energy.
 			- 星星可以在超新星爆炸中**爆炸**，释放出巨大的能量。
 - 2024-03-15
+  collapsed:: true
 	- 今天是学习电影和电视相关的内容
 	  collapsed:: true
 		- collapsed:: true
@@ -810,3 +811,140 @@
 			- M (成熟17+)：内容一般适合 17 岁及以上成人。可能包含激烈的暴力、血腥和恐怖内容、性内容和/或强烈语言。
 			- AO (仅限成人 18+)：仅适合成人。可能包含持续的激烈暴力场面、图形性内容，和/或真钱赌博。
 			- RP (评级待定)：尚未最终确定 ESRB 评级。出现在有望在未来获得 ESRB评级的视频游戏的广告、营销和宣传材料中。
+- 2024-03-19
+	- 今天学习和社交媒体相关的内容
+		- **advertising** - 广告广告 - 广告
+			- Effective **advertising** can significantly boost a product's sales.
+			- 有效的**广告**可以显著提升产品的销售量。
+		- **viral** - 病毒式的，迅速传播的
+			- The marketing campaign went **viral**, spreading quickly across social media.
+			- 营销活动**病毒式**传播，在社交媒体上迅速传开。
+		- **Geographic** - 地理的
+			- **Geographic** factors play a significant role in the distribution of natural resources.
+			- **地理**因素在自然资源的分布中起着重要的作用。
+		- **beneficial** - 有益的
+			- Regular exercise is **beneficial** to one's health.
+			- 定期锻炼对一个人的健康是**有益的**。
+		- **entrepreneurs** - 企业家
+			- **Entrepreneurs** often face challenges when starting new businesses.企业家在开展新业务时经常面临挑战。
+			- **企业家**在创办新企业时经常面临挑战。
+		- **operate** - 运营，操作
+			- They learned how to **operate** the new software efficiently.
+			- 他们学会了如何高效地**操作**新软件。
+		- **Medical** - 医学的
+			- **Medical** research is crucial for developing new treatments.
+			- **医学**研究对于开发新的治疗方法至关重要。
+		- **healthcare** - 医疗保健
+			- Access to quality **healthcare** is important for maintaining a healthy society.
+			- 获得优质的**医疗保健**对于维持健康的社会很重要。
+		- **individual** - 个人
+			- Each **individual** has unique talents and abilities.
+			- 每个**个人**都有独特的才能和能力。
+		- **physicians** - 医生
+			- **Physicians** are dedicated to caring for their patients' health.
+			- **医生**致力于照顾他们病人的健康。
+		- **institutions** - 机构
+			- Educational **institutions** play a crucial role in shaping young minds.
+			- 教育**机构**在塑造年轻人的思维中发挥着关键作用。
+		- **dedicated** - 致力的，专注的
+			- She is **dedicated** to promoting environmental awareness.
+			- 她致力于提升环境意识。
+		- **against** - 反对
+			- Many people are **against** the new law due to its potential negative impact.
+			- 许多人**反对**新法律，因为它可能带来负面影响。
+		- **practitioners** - 执行者，从业者
+			- Medical **practitioners** include doctors, nurses, and other healthcare professionals.
+			- 医疗**从业者**包括医生、护士和其他医疗保健专业人员。
+		- **pharmaceutical** - 制药的
+			- **Pharmaceutical** companies are working on a vaccine for the virus.
+			- **制药**公司正在研发这种病毒的疫苗。
+		- **attempting** - 试图
+			- The team is **attempting** to solve the problem by introducing a new method.
+			- 团队正试图通过引入一种新方法来解决问题。
+		- **influence** - 影响
+			- Social media has a significant **influence** on public opinion.社交媒体对公众舆论具有重大影响。
+			- 社交媒体对公众舆论有重要的**影响**。
+		- **opinion** - 意见，看法
+			- Everyone has their own **opinion** on this matter.
+			- 每个人对这个问题都有自己的**看法**。
+		- **sprung up** - 涌现
+			- New cafes have **sprung up** all over the neighborhood recently.
+			- 最近，新的咖啡馆在整个社区**涌现**。
+		- **specializing** - 专门从事
+			- She is **specializing** in marine biology during her graduate studies.
+			- 她在研究生学习期间专门从事海洋生物学。
+		- **fragmented** - 分裂的，碎片化的
+			- The market is quite **fragmented**, with many small companies competing.
+			- 市场相当**分裂**，许多小公司在竞争。
+		- **broader** - 更广泛的
+			- We need a **broader** perspective to understand this complex issue.
+			- 我们需要一个更广泛的视角来理解这个复杂的问题。
+		- **passionate** - 充满激情的
+			- He is **passionate** about environmental conservation.
+			- 他对环境保护充满激情。
+		- **like-minded** - 志同道合的
+			- It's refreshing to work with **like-minded** individuals on this project.
+			- 在这个项目上与志同道合的人一起工作很令人振奋。
+		- **energy** - 能量
+			- The team brought a lot of **energy** and enthusiasm to the task.
+			- 团队为这项任务带来了很多**能量**和热情。
+		- **firmly** - 坚定地
+			- She stated her opinions **firmly**, without hesitation.
+			- 她坚定地表达了她的观点，没有犹豫。
+		- **established** - 建立，确立
+			- The company has **established** itself as a leader in the tech industry.
+			- 该公司已经在科技行业确立了自己的领导地位。
+		- **seeking** - 寻找
+			- Many people are **seeking** a better work-life balance.
+			- 许多人在寻找更好的工作与生活平衡。
+		- **productive** - 富有成效的
+			- The meeting was highly **productive**, with several important decisions made.
+			- 这次会议非常富有成效，作出了几项重要决定。
+		- **deeper** - 更深入的
+			- A **deeper** understanding of the subject is necessary to solve the problem.
+			- 解决问题需要对这个主题有更深入的理解。
+		- **threat** - 威胁
+			- Cybersecurity is important to protect against the **threat** of hackers.
+			- 网络安全对于防范黑客的**威胁**很重要。
+		- **theft** - 盗窃
+			- Identity **theft** is a serious problem in the digital age.
+			- 身份**盗窃**在数字时代是一个严重的问题。
+		- **viruses** - 病毒
+			- Computer **viruses** can cause significant damage to systems and data.
+			- 计算机**病毒**可以对系统和数据造成重大损害。
+		- **sexual** - 性的
+			- Education on **sexual** health is important for teenagers.
+			- 对青少年进行性健康教育很重要。
+		- **predators** - 掠夺者，食肉动物
+			- Online **predators** can pose a threat to unsuspecting users.
+			- 在线**掠夺者**可能对不知情的用户构成威胁。
+		- **enforcement** - 执行，强制
+			- Law **enforcement** agencies are responsible for upholding the law.
+			- 执法机构负责维护法律。
+		- **incidents** - 事件
+			- The company has procedures in place to respond to security **incidents**.
+			- 公司制定了应对安全事件的程序。
+		- **reputations** - 声誉
+			- Companies often work hard to build and maintain good **reputations** in their industry.
+			- 公司通常努力在其行业中建立和维护良好的**声誉**。
+		- **cost-effective** - 性价比高的
+			- Finding **cost-effective** solutions can help businesses save money and resources.
+			- 寻找**性价比高的**解决方案可以帮助企业节省金钱和资源。
+		- **disposable** - 一次性的
+			- **Disposable** products contribute to environmental pollution and waste.
+			- **一次性**产品对环境污染和废物有所贡献。
+		- **paragraph** - 段落
+			- A well-organized **paragraph** clearly presents its main idea and supporting details.
+			- 一个组织良好的**段落**清楚地呈现其主要思想和支持细节。
+		- **spiritual** - 精神的
+			- Many people find **spiritual** fulfillment in meditation and prayer.
+			- 许多人在冥想和祈祷中找到精神的满足。
+		- **profound** - 深刻的
+			- The book offers **profound** insights into human nature and society.
+			- 这本书提供了对人性和社会的深刻见解。
+		- **emphatic** - 强调的，着重的
+			- His speech was **emphatic** about the need for environmental protection.
+			- 他的演讲强调了需要环境保护的必要性。
+		- **personality** - 个性
+			- Each individual's **personality** is influenced by a combination of genetic and environmental factors.
+			- 每个人的**个性**受到遗传和环境因素组合影响的结果。
