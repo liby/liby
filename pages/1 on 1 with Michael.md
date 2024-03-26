@@ -950,4 +950,18 @@
 			- Each individual's **personality** is influenced by a combination of genetic and environmental factors.
 			- 每个人的**个性**受到遗传和环境因素组合影响的结果。
 - 2024-03-25
-	-
+	- **campus** - 校园
+		- The university **campus** is beautiful, with lots of green spaces and historic buildings.
+		- 大学**校园**很美丽，有许多绿地和历史建筑。
+	- **Sheldonian** - 谢尔多尼安（特指牛津大学的谢尔多尼安剧院）
+		- The **Sheldonian Theatre** is an iconic venue at Oxford University, used for concerts and ceremonies.
+		- **谢尔多尼安剧院**是牛津大学的一个标志性场所，用于音乐会和典礼。
+	- **Botanic** - 植物的，植物园的
+		- The **Botanic Garden** is a peaceful place to study and relax with a wide variety of plants.
+		- **植物园**是一个安静的地方，适合学习和放松，那里有各种各样的植物。
+	- **Hobbit** - 霍比特人（指J.R.R. 托尔金的小说中的虚构种族）
+		- The **Hobbit** is a novel by J.R.R. Tolkien, featuring the adventures of a hobbit named Bilbo Baggins.
+		- **霍比特人**是J.R.R. 托尔金的一部小说，讲述了一个名叫比尔博·巴金斯的霍比特人的冒险故事。
+	- **souvenirs** - 纪念品
+		- Tourists often buy **souvenirs** to remember their visits to famous landmarks.
+		- 游客经常购买**纪念品**，以纪念他们对著名地标的参观。
