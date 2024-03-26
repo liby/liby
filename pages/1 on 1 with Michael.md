@@ -812,6 +812,7 @@
 			- AO (仅限成人 18+)：仅适合成人。可能包含持续的激烈暴力场面、图形性内容，和/或真钱赌博。
 			- RP (评级待定)：尚未最终确定 ESRB 评级。出现在有望在未来获得 ESRB评级的视频游戏的广告、营销和宣传材料中。
 - 2024-03-19
+  collapsed:: true
 	- 今天学习和社交媒体相关的内容
 		- **advertising** - 广告广告 - 广告
 			- Effective **advertising** can significantly boost a product's sales.
@@ -948,3 +949,5 @@
 		- **personality** - 个性
 			- Each individual's **personality** is influenced by a combination of genetic and environmental factors.
 			- 每个人的**个性**受到遗传和环境因素组合影响的结果。
+- 2024-03-25
+	-
