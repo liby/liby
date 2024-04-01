@@ -950,6 +950,7 @@
 			- Each individual's **personality** is influenced by a combination of genetic and environmental factors.
 			- 每个人的**个性**受到遗传和环境因素组合影响的结果。
 - 2024-03-25
+  collapsed:: true
 	- **campus** - 校园
 		- The university **campus** is beautiful, with lots of green spaces and historic buildings.
 		- 大学**校园**很美丽，有许多绿地和历史建筑。
@@ -965,3 +966,83 @@
 	- **souvenirs** - 纪念品
 		- Tourists often buy **souvenirs** to remember their visits to famous landmarks.
 		- 游客经常购买**纪念品**，以纪念他们对著名地标的参观。
+- 2024-04-01
+	- 今天学习的内容是关于品牌的
+		- **Xerox** - 施乐（复印机品牌，常用作复印的动词）
+			- People often use "**Xerox**" as a verb meaning to photocopy documents.
+			- 人们通常使用“**Xerox**”作为动词，意为复印文件。
+		- **Kleenex** - 肯尼斯（面巾纸品牌，常用来指任何品牌的面巾纸）
+			- "**Kleenex**" is frequently used to refer to any brand of facial tissue.
+			- “**Kleenex**”经常被用来指任何品牌的面巾纸。
+		- **Roller Blades** - 滚轴溜冰鞋（一种品牌，但常用来指所有品牌的滚轴溜冰鞋）
+			- Many people call all inline skates "**Roller Blades**," even though it's a trademark.
+			- 许多人将所有的直排轮溜冰鞋称为“**Roller Blades**”，尽管它是一个商标。
+		- **Nouns** - 名词
+			- **Nouns** are words that name a person, place, thing, or idea.
+			- **名词**是指代人、地点、物体或想法的词。
+		- **foreign** - 外来的，外国的
+			- "**Foreign**" refers to something that is from another country or unfamiliar.
+			- “**外来的**”指的是来自另一个国家或不熟悉的事物。
+		- **synonym** - 同义词
+			- A "**synonym**" is a word that has the same or nearly the same meaning as another word.
+			- “**同义词**”是指与另一个词有相同或几乎相同意义的词。
+		- **photocopy** - 复印
+			- To "**photocopy**" means to make a paper copy of a document or image using a photocopying machine.
+			- “**复印**”意味着使用复印机制作文档或图像的纸质副本。
+		- **trademark** - 商标
+			- A "**trademark**" is a symbol, word, or words legally registered or established by use as representing a company or product.
+			- “**商标**”是通过法律注册或使用确立的代表公司或产品的符号、词或词组。
+		- **phrase** - 短语
+			- A "**phrase**" is a small group of words that stands together as a conceptual unit, typically forming a component of a clause.
+			- “**短语**”是作为概念单元的一小组词语，通常形成句子成分的一部分。
+		- **occurs** - 发生
+			- "**Occurs**" means to happen or take place.
+			- “**发生**”意味着发生或发生。
+		- **invents** - 发明
+			- To "**invent**" is to create something completely new that has never been made before.
+			- “**发明**”是指创造完全新的、以前从未制造过的东西。
+		- **Band-aids** - 创可贴（一种品牌，常用来指任何品牌的粘性绷带）
+			- "**Band-aids**" are often used generically to refer to any adhesive bandage.
+			- “**创可贴**”通常泛指任何一种粘性绷带。
+		- **adhesive** - 粘合剂
+			- An "**adhesive**" is a substance used for sticking objects or materials together.
+			- “**粘合剂**”是用于将物体或材料粘合在一起的物质。
+		- **bandage** - 绷带
+			- A "**bandage**" is a strip of material used to support a part of the body or to restrict the movement of a part of the body.
+			- “**绷带**”是用来支撑身体部位或限制身体部位移动的材料条。
+		- **plaster** - 石膏，创可贴（英式英语）
+			- In British English, "**plaster**" can also mean an adhesive bandage.
+			- 在英式英语中，“**创可贴**”也可以指粘性绷带。
+		- **frisbee** - 飞盘
+			- A "**frisbee**" is a plastic disc used for throwing and catching, often in recreational settings.
+			- “**飞盘**”是一种用于投掷和接捕的塑料盘，常用于娱乐活动。
+		- **plastic** - 塑料
+			- "**Plastic**" is a synthetic material made from a wide range of organic polymers and is used to make many different products.
+			- “**塑料**”是一种由广泛的有机聚合物制成的合成材料，用于制造许多不同的产品。
+		- **disc** - 圆盘
+			- A "**disc**" is a flat, thin circular object.
+			- “**圆盘**”是一种扁平的、薄的圆形物体。
+		- **diametre** - 直径
+			- The "**diametre**" is a straight line passing from side to side through the center of a body or figure, especially a circle or sphere.
+			- “**直径**”是一条从一边直接穿过中心到另一边的直线，特别是在圆或球中。
+		- **generic** - 通用的，非专利的
+			- "**Generic**" refers to products or substances not protected by trademark registration and can be produced and sold by any company.
+			- “**通用的**”指的是没有通过商标注册保护的产品或物质，任何公司都可以生产和销售。
+		- **facial tissue** - 面巾纸
+			- "**Facial tissue**" is a soft, disposable paper used for cleaning the face or nose.
+			- “**面巾纸**”是一种用于清洁面部或鼻子的软质一次性纸张。
+		- **glue stick** - 胶棒
+			- A "**glue stick**" is a solid adhesive in twist or push-up tubes used for sticking paper or small items together.
+			- “**胶棒**”是一种固体粘合剂，装在旋转或推出式管中，用于粘合纸张或小物品。
+		- **cotton swab** - 棉签
+			- A "**cotton swab**" is a small stick with cotton at both ends, used for cleaning or applying substances to small areas.
+			- “**棉签**”是一种两端有棉花的小棍，用于清洁或向小面积施加物质。
+		- **bud** - 芽，此处指棉花末端
+			- In the context of a cotton swab, a "**bud**" refers to the cotton part used for cleaning or application.
+			- 在棉签的上下文中，“**芽**”指用于清洁或涂抹的棉花部分。
+		- **variety** - 多样性
+			- "**Variety**" refers to the state of being different or diverse; the absence of uniformity or monotony.
+			- “**多样性**”指的是不同或多样的状态；缺乏一致性或单调性。
+		- **Unilever** - 联合利华（跨国消费品公司）
+			- **Unilever** is a multinational company that produces a wide range of consumer goods, including foods, beverages, cleaning agents, and personal care products.
+			- **联合利华**是一家跨国公司，生产包括食品、饮料、清洁剂和个人护理产品在内的广泛消费品。
