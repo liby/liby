@@ -967,6 +967,7 @@
 		- Tourists often buy **souvenirs** to remember their visits to famous landmarks.
 		- 游客经常购买**纪念品**，以纪念他们对著名地标的参观。
 - 2024-04-01
+  collapsed:: true
 	- 今天学习的内容是关于品牌的
 		- **Xerox** - 施乐（复印机品牌，常用作复印的动词）
 			- People often use "**Xerox**" as a verb meaning to photocopy documents.
@@ -1046,3 +1047,77 @@
 		- **Unilever** - 联合利华（跨国消费品公司）
 			- **Unilever** is a multinational company that produces a wide range of consumer goods, including foods, beverages, cleaning agents, and personal care products.
 			- **联合利华**是一家跨国公司，生产包括食品、饮料、清洁剂和个人护理产品在内的广泛消费品。
+- 2024-04-07
+	- 今天学习的内容是关于愚人节的
+		- **Fool** - 傻瓜
+			- Don't be a **fool** by believing everything you hear.
+			- 不要因为相信你听到的一切而成为一个**傻瓜**。
+		- **practical** - 实际的
+			- Learning to cook is a very **practical** skill.
+			- 学习烹饪是一个非常**实际的**技能。
+		- **jelly** - 果冻
+			- **Jelly** is a dessert made by boiling sugar and fruit juice until it sets.
+			- **果冻**是一种通过煮沸糖和果汁直到凝固而成的甜点。
+		- **stick** - 棍子，黏住
+			- She used a **stick** to stir the paint.
+			- 她用一根**棍子**搅拌油漆。
+		- **spaghetti** - 意大利面条
+			- **Spaghetti** is a long, thin, cylindrical pasta of Italian origin.
+			- **意大利面条**是一种长、细、圆柱形的意大利起源的面条。
+		- **fluent** - 流利的
+			- She speaks Spanish **fluently**.
+			- 她说西班牙语说得很**流利**。
+		- **brightly** - 明亮地
+			- The room was **brightly** lit with colorful lights.
+			- 房间里用彩色灯光**明亮地**照亮。
+		- **coloured** - 有色的
+			- The artist used **brightly coloured** paints in her artwork.
+			- 艺术家在她的艺术作品中使用了**鲜艳的颜色**。
+		- **flavour** - 味道
+			- This cake has a rich chocolate **flavour**.
+			- 这蛋糕有浓郁的巧克力**味道**。
+		- **embarrassed** - 尴尬的
+			- He felt **embarrassed** after tripping on stage.
+			- 他在台上绊倒后感到**尴尬**。
+		- **sensor** - 传感器
+			- The device includes a motion **sensor**.
+			- 该设备包括一个运动**传感器**。
+		- **shoelace** - 鞋带
+			- I need to tie my **shoelace**; it's come undone.
+			- 我需要系一下我的**鞋带**；它松开了。
+		- **Belgium** - 比利时
+			- **Belgium** is known for its chocolate and beer.
+			- **比利时**以其巧克力和啤酒而闻名。
+		- **Netherlands** - 荷兰
+			- The **Netherlands** is famous for its tulips and windmills.
+			- **荷兰**以其郁金香和风车而著名。
+		- **Italy** - 意大利
+			- **Italy** is renowned for its rich history, art, and cuisine.
+			- **意大利**以其丰富的历史、艺术和美食而闻名。
+		- **Switzerland** - 瑞士
+			- **Switzerland** is famous for its mountains and watches.
+			- **瑞士**以其山脉和手表而著名。
+		- **Philippines** - 菲律宾
+			- The **Philippines** is an archipelago made up of more than 7,000 islands.
+			- **菲律宾**是由7000多个岛屿组成的群岛。
+		- **earliest** - 最早的
+			- The **earliest** records of civilization date back thousands of years.
+			- 最早的文明记录可以追溯到几千年前。
+		- **broadcast** - 广播
+			- The concert will be **broadcast** live on television.
+			- 音乐会将通过电视进行现场**广播**。
+		- **announced** - 宣布
+			- The company **announced** the launch of a new product.
+			- 该公司**宣布**推出一款新产品。
+		- **advert** - 广告
+			- I saw an interesting **advert** for a new movie in the newspaper.
+			- 我在报纸上看到了一则有趣的新电影**广告**。
+		- **pillows** - 枕头
+			- She bought new **pillows** for the bed.
+			- 她为床买了新的**枕头**。
+		- **Italian** - 意大利的
+			- **Italian** cuisine is known for its emphasis on fresh, high-quality ingredients.
+			- **意大利**美食以强调新鲜、高质量的食材而闻名。
+		- **carefully** - 小心地
+			- She **carefully** placed the vase on the shelf.
+			- 她小心地将花瓶放在架子上。
