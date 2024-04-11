@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.notes.release.agent.plist</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/bryan/Code/GitHub/liby/scripts/git-sync.sh</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/bryan/Code/GitHub/liby/</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict>
+        <key>Minute</key>
+        <integer>20</integer>
+        </dict>
+        <dict>
+        <key>Minute</key>
+        <integer>50</integer>
+        </dict>
+    </array>
+    <key>StandardOutPath</key>
+    <string>/dev/null</string>
+    <key>StandardErrorPath</key>
+    <string>/dev/null</string>
+</dict>
+</plist>

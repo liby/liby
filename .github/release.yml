@@ -1,0 +1,13 @@
+changelog:
+  exclude:
+    authors:
+      # Ignore the release PR created by github-actions
+      - github-actions
+  categories:
+    - title: 📦 Dependency Updates
+      labels:
+        - Dependencies
+        - Security
+    - title: 🦋 Other Changes
+      labels:
+        - '*'

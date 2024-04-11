@@ -1,0 +1,6 @@
+- 除了巴基斯坦以外（限制付费方式），[埃及的订阅价格是最便宜的](https://www.mcetf.com/netflix%e5%85%a8%e7%90%83%e4%bb%b7%e6%a0%bc%e6%b8%85%e5%8d%95/)
+	- [土耳其 Netflix 奈飞转埃及区教程(通用)](https://uuzi.net/netflix-turkey-to-egypt/)
+	- [Netflix 转区之从土耳其到埃及（IP 代理池+指纹浏览器助攻）](https://www.typemylife.com/change-netflix-region-from-turkey-to-egypt/)
+	- [埃及 Netflix 注册经验分享](https://www.nodeseek.com/post-49641-1)
+- [最近大家有遇到 Netflix 解锁检测脚本不准的问题吗](https://www.nodeseek.com/post-32626-2)
+	- [Netflix 提供用于检测的视频](https://www.netflix.com/title/80018499)

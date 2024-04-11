@@ -1,0 +1,20 @@
+name: Nightly release
+
+on:
+  schedule:
+    - cron: '23 23 * * *'
+
+jobs:
+  Tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: fregante/daily-version-action@v2
+        id: daily-version
+        with:
+          prefix: v
+      - name: Create release
+        if: steps.daily-version.outputs.created
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh release create "${{ steps.daily-version.outputs.version }}" --generate-notes

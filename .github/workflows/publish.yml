@@ -1,0 +1,29 @@
+name: Publish
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}-${{ github.event_name }}
+  cancel-in-progress: true
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    name: Publish Logseq graph
+    steps:
+      - uses: actions/checkout@v4
+      - uses: logseq/publish-spa@main
+        with:
+          version: nightly
+      - name: Deploy to Vercel
+        env:
+          VERCEL_ORG_ID: ${{secrets.VERCEL_ORG_ID}}
+          VERCEL_PROJECT_ID: ${{secrets.VERCEL_PROJECT_ID}}
+        run: |
+          npx vercel --token=${{ secrets.VERCEL_TOKEN }} --prod --scope forbidden www
