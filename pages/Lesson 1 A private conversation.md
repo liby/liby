@@ -1,0 +1,10 @@
+- 2024-04-17
+- 生词：
+	- turned round：转身
+	- pay any attention：意思是“专心”或“留心”
+	- [angrily](https://www.wordreference.com/enzh/angrily)：愤怒地
+	- none of your business：表示“这事与你无关”或“这不关你的事”
+	- [**rudely**](https://www.wordreference.com/enzh/rudely)：不客气地、粗鲁地、不礼貌地
+- 语法：
+	- 在句子 "'I can't hear a word!' I said angrily." 中，"I can't hear a word!" 是直接引语，而 "I said" 是陈述部分，它表明了谁是在说这句话。"Angrily" 是一个副词，作为状语，修饰 "said" 来描述说话时的情绪。所以，在这个例子里，直接引语在 "I said" 之前，而不是之后。
+		- 直接引语是 'said' 这个动词的宾语，而且它出现在说这个动作之前。在英语语法中，尤其是在书写时，通常会将说话的动作放在引用的直接引语之后，这是一种标准的格式。
