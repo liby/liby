@@ -1,1 +1,19 @@
 - 2024-04-17
+- 生词：
+	- What a day：什么样的一天
+	- [thought](https://www.wordreference.com/enzh/thought)：思考、想法
+	- [rang](https://www.wordreference.com/enzh/rang)：铃声、响铃
+	- Dear me：天哪
+- 语法：
+	- I get up…
+		- 五大基本句型之一：主语（S） + 谓语（V），其中 S 为主语 subject，V 为谓语动词 verb，即 I get up.
+		- 其中 I 是主语，而 get up 是动词短语作谓语. 主谓结构已经可以完整表达一个意思了，故而这是一个基本句型
+	- It was dark.
+		- 本句是五大基本句型之二： 主语（S） + 谓语(连系动词 V) + 表语（P）
+		- 其中 P 是表语 predicative，本句型的谓语意思并不完整，需要和表语一起才能把意思表达完整，通常表述性质和状态.
+			- 比如 It was 这是，话没有说完的感觉，这是黑的，这
+			  句话才说完整了。
+			- 本课第一句也是本句型，it was 也是不完整的，但是 It was Sunday 这是个星期天，就完整了
+	- I'm having breakfast…
+		- 五大基本句型之三：主语（S） + 谓语（V） + 宾语（O）
+		- 其中 O 指宾语 object，即 I am having breakfast 其中 I 是主语，am having 是动词的现在进行时形式作为谓语，breakfast 是宾语，是动作的承受者，吃这个动作最终落在了早餐上面，早餐被吃了
