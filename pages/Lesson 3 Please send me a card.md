@@ -1,0 +1,10 @@
+- 2024-04-18
+- 生词：
+	- [Postcards](https://www.wordreference.com/enzh/Postcards)：明信片
+	- [lent](https://www.wordreference.com/enzh/lent)：给某人借某物
+- 语法：
+	- A waiter taught me words.
+		- 五大基本句型之四：主语（S） + 谓语（V） + 间接宾语（Oi） + 直接宾语（Od），i 为间接的 indirect，d 为直接的 direct. 双宾语结构的句型很 常见，句中这个 words (sth.物)为直接宾语，而因为这个内容是教给我的，所以 me (sb. 某人)是间接宾语.
+	- he lent me a book.
+		- 简单句，双宾语. lent sb. sth.，这里 sth. 是直接宾语 Od，相当于书籍是借这个动作的直接承受方，而借给我这个人 sb. 是间接宾语 Oi. 本句可以修改为 lent a book to me，这样就可以更清楚地看出，书籍 a book 才是直接宾语.
+		- 这里 lend 是行为人借出去，而 borrow 是行为人借进来，注意区分. 因为一般过去 时，所以 lend 转为 lent.
