@@ -1,0 +1,11 @@
+- 2024-04-19
+- 生词：
+	- [garage](https://www.wordreference.com/enzh/garage)：汽修厂
+	- [pigeons](https://www.wordreference.com/enzh/pigeons)：信鸽
+	- [begun](https://www.wordreference.com/enzh/begun)：开始
+- 语法：
+	- The bird covered the distance...
+		- 简单句，主谓宾结构. 动词 cover 在这里的用法值得留意，to travel the distance mentioned 行走(一段路程)，例：[By sunset] we had covered thirty miles. 到日落时我
+		  们已走了三十英里
+		- 教材中给出的释义是“越过”，理解起来不是很精准，对于这种含 义非常多的基础动词，应使用具备英英释义的词典来进一步理解
+		- [关键句型] 本句为一般过去时.
