@@ -1,0 +1,4 @@
+- 2024-04-19
+- [firm](https://www.wordreference.com/enzh/firm)：公司
+- [centre](https://www.wordreference.com/enzh/centre) 为英式拼法，也可写作 center
+- [abroad](https://www.wordreference.com/enzh/abroad)：在国外
