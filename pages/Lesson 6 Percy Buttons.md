@@ -1,0 +1,19 @@
+- 2024-04-22
+- 生词或短语
+	- stand on one's head：用某人的头倒立
+		- 例句：The little boy can stand on his head.
+			- 那个小男孩能用头倒立
+	- [beggar](https://www.wordreference.com/enzh/beggar)：乞丐
+	- [neighbour](https://www.wordreference.com/enzh/neighbour)：邻居
+- 语法
+	- a beggar 和 the beggar 的 区别
+		- 一个是不定冠词 a，指任何一个 beggar，并非特定;
+		- 一个是定冠词 the，所表达 的含义是特定的某一个人
+	- I gave somebody something.
+		- 简单句，主谓宾结构。give 接双宾语，其中 sth. 物为直接宾语，相当于我给了某件 东西，所以这个东西是直接的宾语，而这个东西给了 sb. 某人，这个人是间接宾语
+	- Everybody knows him.
+		- 简单句，主谓宾结构。 every, everyone, everybody 等等这类表达，在语法上均用单 数，所以“认识、了解”一词用 knows
+	- His name is Percy Buttons.
+		- 简单句，主系表结构。我们借此来学习一下姓名的表达，英语中，我们给孩子取名 字，这个名字是取出来的，所以是 (given) name，这里 given 作定语修饰 name，也叫 first name，本句中 Percy 是取出来的名字，放在前面。
+		- [关键句型] 我们在姓名前不使用不定冠词 a 或者定冠词 the。
+-
