@@ -250,3 +250,62 @@
 		- **regret** - 遗憾，后悔
 			- He expressed **regret** for his hasty decision that led to unnecessary complications.
 			- 他对自己仓促的决定导致不必要的复杂情况表示**遗憾**。
+- 2024-04-22
+	- 今天是关于教育相关的讨论
+		- **pupil** - 学生
+			- A **pupil** in primary school is learning the basics of math and reading.
+			- 小学的**学生**正在学习数学和阅读的基础知识。
+		- **curricular** - 课程的
+			- Schools often evaluate their **curricular** offerings to ensure they meet educational standards.
+			- 学校经常评估他们的**课程**供应以确保它们符合教育标准。
+		- **extra-curricular activities** - 课外活动
+			- **Extra-curricular activities** can include sports, clubs, and arts programs.
+			- **课外活动**可以包括运动、俱乐部和艺术项目。
+		- **curriculum** - 课程
+			- The school's **curriculum** covers a wide range of subjects from science to literature.
+			- 学校的**课程**涵盖了从科学到文学的广泛科目。
+		- **to drop out (of school/college)** - 退学
+			- Some students **drop out** of college due to financial pressures.
+			- 由于经济压力，一些学生会从大学**退学**。
+		- **dropout** - 辍学者
+			- A **dropout** is someone who has left school or college before completing their education.
+			- **辍学者**是指在完成教育之前离开学校或学院的人。
+		- **participation** - 参与
+			- Active **participation** in class discussions can enhance learning.
+			- 在课堂讨论中的积极**参与**可以增强学习。
+		- **truant** - 逃学者
+			- A student who repeatedly skips school is called a **truant**.
+			- 经常逃学的学生被称为**逃学者**。
+		- **hooky** - 逃学
+			- Playing **hooky** means staying away from school without permission.
+			- **逃学**意味着未经允许不去学校。
+		- **wag off** - 逃学（英国俚语）
+			- Some students **wag off** school to hang out with friends.
+			- 一些学生为了和朋友聚会而**逃学**。
+		- **skive** - 逃避（尤指逃学或逃工）
+			- To **skive** off work or school means to avoid going without a good reason.
+			- **逃避**工作或学校意味着没有充分理由就不去。
+		- **absent** - 缺席的
+			- The student was **absent** from school for three days due to illness.
+			- 该学生因病缺席学校三天。
+		- **attendance** - 出席，到场
+			- Good **attendance** is crucial for academic success.
+			- 良好的**出席率**对学术成功至关重要。
+		- **flunk** - 不及格
+			- To **flunk** an exam means to fail it.
+			- **不及格**意味着考试失败。
+		- **societies** - 社团
+			- University **societies** offer students opportunities to pursue their interests.
+			- 大学**社团**为学生提供了追求兴趣的机会。
+		- **headmaster** - 校长（通常用于男性）
+			- The **headmaster** gave a speech at the school assembly.
+			- **校长**在学校集会上发表了演讲。
+		- **billionaires** - 亿万富翁
+			- Some **billionaires** donate large sums of money to educational causes.
+			- 一些**亿万富翁**向教育事业捐赠了大量资金。
+		- **interfere** - 干涉
+			- Parents should not **interfere** too much in their children's homework.
+			- 家长不应过多**干涉**孩子的家庭作业。
+		- **misbehave** - 行为不端
+			- Students who **misbehave** in class may be sent to the principal's office.
+			- 在课堂上**行为不端**的学生可能会被送到校长办公室。
