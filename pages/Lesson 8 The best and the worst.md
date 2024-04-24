@@ -1,0 +1,17 @@
+- 2024-04-24
+- 生词
+	- [competition](https://www.wordreference.com/enzh/Competition)：比赛
+	- [grows](https://www.wordreference.com/enzh/grows)：种植
+	- [neat](https://www.wordreference.com/enzh/neat)：整洁地
+	- [wooden](https://www.wordreference.com/enzh/wooden)：木头
+	- [prize](https://www.wordreference.com/enzh/prize)：奖
+- 语法
+	- Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time.
+		- 并列句，由 but 连接，表转折。前句为主谓宾结构；后句为主谓结构。 前句中参加 比赛，直接使用 enter a competition 即可，[多出的 for 不是习惯的表达](https://www.usingenglish.com/forum/threads/a-little-prize-for-the-worst-garden.269813/)
+	- Bill Frith's garden is larger than Joe's.
+		- 简单句，主系表结构. 形容词 large 的比较级 larger 作表语。
+		  [关键句型] 本课学习比较的表达，本句 is larger than：比什么大。
+	- I like gardens too, but I do not like hard work.
+		- 并列句，but 连接前后两句，均为主谓宾结构，这里 hard 是形容词作定语修饰 work， 注意与第 4 句作副词的 hard 相区别。另外，hard-working 是形容词，勤劳的。
+	- Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!
+		- 并列句，and 连接前后两句，均为主谓宾结构，I win a little prize 这里的 little 是小 的，用来修饰奖项是一个小奖，不是 a little 的词组，这里出现 a little 属于巧合，你可以理解为 I win a [very] (small) prize.
