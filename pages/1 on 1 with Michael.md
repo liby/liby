@@ -251,6 +251,7 @@
 			- He expressed **regret** for his hasty decision that led to unnecessary complications.
 			- 他对自己仓促的决定导致不必要的复杂情况表示**遗憾**。
 - 2024-04-22
+  collapsed:: true
 	- 今天是关于教育相关的讨论
 		- **pupil** - 学生
 			- A **pupil** in primary school is learning the basics of math and reading.
@@ -309,3 +310,5 @@
 		- **misbehave** - 行为不端
 			- Students who **misbehave** in class may be sent to the principal's office.
 			- 在课堂上**行为不端**的学生可能会被送到校长办公室。
+- 2024-05-09
+	- 今天讨论的内容是关于数字游民的
