@@ -312,3 +312,36 @@
 			- 在课堂上**行为不端**的学生可能会被送到校长办公室。
 - 2024-05-09
 	- 今天讨论的内容是关于数字游民的
+		- **digital** - 数字的
+			- We live in a **digital** age where technology plays a major role in our daily lives.
+			- 我们生活在一个**数字**时代，技术在我们日常生活中扮演着重要角色。
+		- **nomad** - 游牧民，游荡者
+			- A **nomad** is someone who travels from place to place without a permanent home.
+			- **游牧民**是指没有固定住所、四处流浪的人。
+		- **restricted** - 受限的
+			- Access to the area is **restricted** to authorized personnel only.
+			- 只有授权人员才能进入该受限区域。
+		- **character** - 性格；字符
+			- She is known for her strong moral **character**.
+			- 她以其坚强的道德**性格**而闻名。
+		- **virtual** - 虚拟的
+			- **Virtual** reality technology allows us to experience simulated environments.
+			- **虚拟**现实技术让我们能够体验模拟环境。
+		- **discipline** - 纪律；学科
+			- Good **discipline** is essential in maintaining order in schools.
+			- 良好的**纪律**是维持学校秩序的关键。
+		- **adventurous** - 爱冒险的
+			- He is an **adventurous** traveler who enjoys exploring remote places.
+			- 他是一个爱冒险的旅行者，喜欢探索偏远地区。
+		- **suntan** - 晒黑
+			- Many people like to get a **suntan** during the summer.
+			- 许多人喜欢在夏天晒黑。
+		- **sunburn** - 晒伤
+			- Without proper protection, you can easily get a **sunburn** while at the beach.
+			- 如果没有适当的防护，你在海滩上很容易晒伤。
+		- **scuba** - 水肺潜水
+			- **Scuba** diving allows you to explore underwater worlds.
+			- **水肺潜水**让你能探索水下世界。
+		- **souvenir** - 纪念品
+			- Tourists often buy **souvenirs** to remember their travels.
+			- 游客常常购买**纪念品**以纪念他们的旅行。
