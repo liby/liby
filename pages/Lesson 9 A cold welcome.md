@@ -1,0 +1,10 @@
+- 2024-05-12
+- 生词和短语
+	- [Town Hall](https://www.wordreference.com/enzh/Town%20Hall)：市政厅
+	- [gathered](https://www.wordreference.com/enzh/gathered)：聚集
+	- [strike](https://www.wordreference.com/enzh/strike)：敲响
+		- The clock struck ten.
+	- in twenty minutes time：在 20 分钟后
+	- [hand](https://www.wordreference.com/enzh/hand)：指针
+	- [shouted](https://www.wordreference.com/enzh/shouted)：喊叫
+	-
