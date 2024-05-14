@@ -311,6 +311,7 @@
 			- Students who **misbehave** in class may be sent to the principal's office.
 			- 在课堂上**行为不端**的学生可能会被送到校长办公室。
 - 2024-05-09
+  collapsed:: true
 	- 今天讨论的内容是关于数字游民的
 		- **digital** - 数字的
 			- We live in a **digital** age where technology plays a major role in our daily lives.
@@ -345,3 +346,65 @@
 		- **souvenir** - 纪念品
 			- Tourists often buy **souvenirs** to remember their travels.
 			- 游客常常购买**纪念品**以纪念他们的旅行。
+- 2024-05-14
+	- 今天学习主动时态和被动语态的有关内容
+		- ####  Wind Chill
+			- **中文释义**: 风寒效应
+			- **例句**:
+				- **英文**: The wind chill made it feel much colder than the actual temperature.
+				- **中文**: 风寒效应让人感觉比实际温度冷得多。
+		- Mice
+			- **中文释义**: 老鼠（mouse 的复数）
+			- **例句**:
+				- **英文**: There are many mice in the old house.
+				- **中文**: 那栋老房子里有很多老鼠。
+		- Passive
+			- **中文释义**: 被动的
+			- **例句**:
+				- **英文**: He remained passive during the whole discussion.
+				- **中文**: 在整个讨论过程中，他一直保持被动。
+		- Thief
+			- **中文释义**: 小偷
+			- **例句**:
+				- **英文**: The thief was caught by the police last night.
+				- **中文**: 昨晚小偷被警察抓住了。
+		- Kite
+			- **中文释义**: 风筝
+			- **例句**:
+				- **英文**: The children enjoyed flying their kite in the park.
+				- **中文**: 孩子们在公园里放风筝玩得很开心。
+		- Frightened
+			- **中文释义**: 害怕的，受惊的
+			- **例句**:
+				- **英文**: She was frightened by the loud noise.
+				- **中文**: 她被巨大的噪音吓到了。
+		- Bulb
+			- **中文释义**: 灯泡
+			- **例句**:
+				- **英文**: We need to replace the bulb in the living room.
+				- **中文**: 我们需要更换客厅的灯泡。
+		- Invented
+			- **中文释义**: 发明了
+			- **例句**:
+				- **英文**: Thomas Edison invented the light bulb.
+				- **中文**: 托马斯·爱迪生发明了灯泡。
+		- Discovery
+			- **中文释义**: 发现
+			- **例句**:
+				- **英文**: The discovery of penicillin revolutionized medicine.
+				- **中文**: 青霉素的发现彻底改变了医学。
+		- Betrayed
+			- **中文释义**: 背叛了
+			- **例句**:
+				- **英文**: He felt betrayed by his best friend.
+				- **中文**: 他感到被他最好的朋友背叛了。
+		- Permitted
+			- **中文释义**: 允许的
+			- **例句**:
+				- **英文**: Smoking is not permitted in this building.
+				- **中文**: 这栋楼里不允许吸烟。
+		- Admiring
+			- **中文释义**: 赞赏的，钦佩的
+			- **例句**:
+				- **英文**: They stood there, admiring the beautiful sunset.
+				- **中文**: 他们站在那里，赞赏着美丽的日落。
