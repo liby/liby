@@ -411,4 +411,42 @@
 				- **中文**: 他们站在那里，赞赏着美丽的日落。
 - 2024-05-20
 	- 今天学习一般现在时和现在进行时的有关内容
-		-
+		- **gigabyte** - 千兆字节
+			- A **gigabyte** is a unit of storage capacity equivalent to approximately one billion bytes.
+			- **千兆字节**是一个存储容量单位，大约相当于十亿字节。
+		- **terabyte** - 太字节
+			- A **terabyte** is a unit of digital information that is equal to about one trillion bytes.
+			- **太字节**是一个数字信息单位，相当于大约一万亿字节。
+		- **floppy disk** - 软盘
+			- A **floppy disk** is a type of data storage technology that was popular before CDs and USB drives.
+			- **软盘**是一种数据存储技术，在CD和USB驱动器流行之前很常用。
+		- **singular** - 单数的
+			- In grammar, **singular** refers to one, as opposed to plural, which refers to more than one.
+			- 在语法中，**单数**指的是一个，与之对应的复数指的是多个。
+		- **consonant** - 辅音
+			- A **consonant** is a speech sound that is not a vowel.
+			- **辅音**是非元音的语音。
+		- **temporary** - 临时的
+			- The job position is **temporary**, lasting only a few months.
+			- 这个职位是**临时的**，只持续几个月。
+		- **emphasize** - 强调
+			- The teacher used examples to **emphasize** the important points in the lesson.
+			- 老师用例子来**强调**课程中的重点。
+		- **crying** - 哭泣
+			- The baby started **crying** because it was hungry.
+			- 宝宝因为饿了开始**哭泣**。
+		- **bounds** - 界限
+			- Please respect the **bounds** of other people's personal space.
+			- 请尊重他人个人空间的**界限**。
+		- **Syllable** - 音节
+			- A **syllable** is a unit of pronunciation having one vowel sound.
+			- **音节**是发音的单位，包含一个元音声音。
+		- **cafeteria** - 自助餐厅
+			- Students often eat lunch in the school **cafeteria**.
+			- 学生们通常在学校**自助餐厅**吃午餐。
+		- **bucket** - 桶
+			- He carried a **bucket** of water from the well.
+			- 他从井里挑了一**桶**水。
+		- **barber** - 理发师
+			- The **barber** gave him a haircut and a shave.
+			- **理发师**给他剪发和刮脸。
