@@ -347,6 +347,7 @@
 			- Tourists often buy **souvenirs** to remember their travels.
 			- 游客常常购买**纪念品**以纪念他们的旅行。
 - 2024-05-14
+  collapsed:: true
 	- 今天学习主动时态和被动语态的有关内容
 		- ####  Wind Chill
 			- **中文释义**: 风寒效应
@@ -408,3 +409,6 @@
 			- **例句**:
 				- **英文**: They stood there, admiring the beautiful sunset.
 				- **中文**: 他们站在那里，赞赏着美丽的日落。
+- 2024-05-20
+	- 今天学习一般现在时和现在进行时的有关内容
+		-
