@@ -1,315 +1,6 @@
 - [[italki - 2023]]
   collapsed:: true
 - [[italki - 2024]]
-- 2024-04-01
-  collapsed:: true
-	- 今天学习的内容是关于品牌的
-		- **Xerox** - 施乐（复印机品牌，常用作复印的动词）
-			- People often use "**Xerox**" as a verb meaning to photocopy documents.
-			- 人们通常使用“**Xerox**”作为动词，意为复印文件。
-		- **Kleenex** - 肯尼斯（面巾纸品牌，常用来指任何品牌的面巾纸）
-			- "**Kleenex**" is frequently used to refer to any brand of facial tissue.
-			- “**Kleenex**”经常被用来指任何品牌的面巾纸。
-		- **Roller Blades** - 滚轴溜冰鞋（一种品牌，但常用来指所有品牌的滚轴溜冰鞋）
-			- Many people call all inline skates "**Roller Blades**," even though it's a trademark.
-			- 许多人将所有的直排轮溜冰鞋称为“**Roller Blades**”，尽管它是一个商标。
-		- **Nouns** - 名词
-			- **Nouns** are words that name a person, place, thing, or idea.
-			- **名词**是指代人、地点、物体或想法的词。
-		- **foreign** - 外来的，外国的
-			- "**Foreign**" refers to something that is from another country or unfamiliar.
-			- “**外来的**”指的是来自另一个国家或不熟悉的事物。
-		- **synonym** - 同义词
-			- A "**synonym**" is a word that has the same or nearly the same meaning as another word.
-			- “**同义词**”是指与另一个词有相同或几乎相同意义的词。
-		- **photocopy** - 复印
-			- To "**photocopy**" means to make a paper copy of a document or image using a photocopying machine.
-			- “**复印**”意味着使用复印机制作文档或图像的纸质副本。
-		- **trademark** - 商标
-			- A "**trademark**" is a symbol, word, or words legally registered or established by use as representing a company or product.
-			- “**商标**”是通过法律注册或使用确立的代表公司或产品的符号、词或词组。
-		- **phrase** - 短语
-			- A "**phrase**" is a small group of words that stands together as a conceptual unit, typically forming a component of a clause.
-			- “**短语**”是作为概念单元的一小组词语，通常形成句子成分的一部分。
-		- **occurs** - 发生
-			- "**Occurs**" means to happen or take place.
-			- “**发生**”意味着发生或发生。
-		- **invents** - 发明
-			- To "**invent**" is to create something completely new that has never been made before.
-			- “**发明**”是指创造完全新的、以前从未制造过的东西。
-		- **Band-aids** - 创可贴（一种品牌，常用来指任何品牌的粘性绷带）
-			- "**Band-aids**" are often used generically to refer to any adhesive bandage.
-			- “**创可贴**”通常泛指任何一种粘性绷带。
-		- **adhesive** - 粘合剂
-			- An "**adhesive**" is a substance used for sticking objects or materials together.
-			- “**粘合剂**”是用于将物体或材料粘合在一起的物质。
-		- **bandage** - 绷带
-			- A "**bandage**" is a strip of material used to support a part of the body or to restrict the movement of a part of the body.
-			- “**绷带**”是用来支撑身体部位或限制身体部位移动的材料条。
-		- **plaster** - 石膏，创可贴（英式英语）
-			- In British English, "**plaster**" can also mean an adhesive bandage.
-			- 在英式英语中，“**创可贴**”也可以指粘性绷带。
-		- **frisbee** - 飞盘
-			- A "**frisbee**" is a plastic disc used for throwing and catching, often in recreational settings.
-			- “**飞盘**”是一种用于投掷和接捕的塑料盘，常用于娱乐活动。
-		- **plastic** - 塑料
-			- "**Plastic**" is a synthetic material made from a wide range of organic polymers and is used to make many different products.
-			- “**塑料**”是一种由广泛的有机聚合物制成的合成材料，用于制造许多不同的产品。
-		- **disc** - 圆盘
-			- A "**disc**" is a flat, thin circular object.
-			- “**圆盘**”是一种扁平的、薄的圆形物体。
-		- **diametre** - 直径
-			- The "**diametre**" is a straight line passing from side to side through the center of a body or figure, especially a circle or sphere.
-			- “**直径**”是一条从一边直接穿过中心到另一边的直线，特别是在圆或球中。
-		- **generic** - 通用的，非专利的
-			- "**Generic**" refers to products or substances not protected by trademark registration and can be produced and sold by any company.
-			- “**通用的**”指的是没有通过商标注册保护的产品或物质，任何公司都可以生产和销售。
-		- **facial tissue** - 面巾纸
-			- "**Facial tissue**" is a soft, disposable paper used for cleaning the face or nose.
-			- “**面巾纸**”是一种用于清洁面部或鼻子的软质一次性纸张。
-		- **glue stick** - 胶棒
-			- A "**glue stick**" is a solid adhesive in twist or push-up tubes used for sticking paper or small items together.
-			- “**胶棒**”是一种固体粘合剂，装在旋转或推出式管中，用于粘合纸张或小物品。
-		- **cotton swab** - 棉签
-			- A "**cotton swab**" is a small stick with cotton at both ends, used for cleaning or applying substances to small areas.
-			- “**棉签**”是一种两端有棉花的小棍，用于清洁或向小面积施加物质。
-		- **bud** - 芽，此处指棉花末端
-			- In the context of a cotton swab, a "**bud**" refers to the cotton part used for cleaning or application.
-			- 在棉签的上下文中，“**芽**”指用于清洁或涂抹的棉花部分。
-		- **variety** - 多样性
-			- "**Variety**" refers to the state of being different or diverse; the absence of uniformity or monotony.
-			- “**多样性**”指的是不同或多样的状态；缺乏一致性或单调性。
-		- **Unilever** - 联合利华（跨国消费品公司）
-			- **Unilever** is a multinational company that produces a wide range of consumer goods, including foods, beverages, cleaning agents, and personal care products.
-			- **联合利华**是一家跨国公司，生产包括食品、饮料、清洁剂和个人护理产品在内的广泛消费品。
-- 2024-04-07
-  collapsed:: true
-	- 今天学习的内容是关于愚人节的
-		- **Fool** - 傻瓜
-			- Don't be a **fool** by believing everything you hear.
-			- 不要因为相信你听到的一切而成为一个**傻瓜**。
-		- **practical** - 实际的
-			- Learning to cook is a very **practical** skill.
-			- 学习烹饪是一个非常**实际的**技能。
-		- **jelly** - 果冻
-			- **Jelly** is a dessert made by boiling sugar and fruit juice until it sets.
-			- **果冻**是一种通过煮沸糖和果汁直到凝固而成的甜点。
-		- **stick** - 棍子，黏住
-			- She used a **stick** to stir the paint.
-			- 她用一根**棍子**搅拌油漆。
-		- **spaghetti** - 意大利面条
-			- **Spaghetti** is a long, thin, cylindrical pasta of Italian origin.
-			- **意大利面条**是一种长、细、圆柱形的意大利起源的面条。
-		- **fluent** - 流利的
-			- She speaks Spanish **fluently**.
-			- 她说西班牙语说得很**流利**。
-		- **brightly** - 明亮地
-			- The room was **brightly** lit with colorful lights.
-			- 房间里用彩色灯光**明亮地**照亮。
-		- **coloured** - 有色的
-			- The artist used **brightly coloured** paints in her artwork.
-			- 艺术家在她的艺术作品中使用了**鲜艳的颜色**。
-		- **flavour** - 味道
-			- This cake has a rich chocolate **flavour**.
-			- 这蛋糕有浓郁的巧克力**味道**。
-		- **embarrassed** - 尴尬的
-			- He felt **embarrassed** after tripping on stage.
-			- 他在台上绊倒后感到**尴尬**。
-		- **sensor** - 传感器
-			- The device includes a motion **sensor**.
-			- 该设备包括一个运动**传感器**。
-		- **shoelace** - 鞋带
-			- I need to tie my **shoelace**; it's come undone.
-			- 我需要系一下我的**鞋带**；它松开了。
-		- **Belgium** - 比利时
-			- **Belgium** is known for its chocolate and beer.
-			- **比利时**以其巧克力和啤酒而闻名。
-		- **Netherlands** - 荷兰
-			- The **Netherlands** is famous for its tulips and windmills.
-			- **荷兰**以其郁金香和风车而著名。
-		- **Italy** - 意大利
-			- **Italy** is renowned for its rich history, art, and cuisine.
-			- **意大利**以其丰富的历史、艺术和美食而闻名。
-		- **Switzerland** - 瑞士
-			- **Switzerland** is famous for its mountains and watches.
-			- **瑞士**以其山脉和手表而著名。
-		- **Philippines** - 菲律宾
-			- The **Philippines** is an archipelago made up of more than 7,000 islands.
-			- **菲律宾**是由7000多个岛屿组成的群岛。
-		- **earliest** - 最早的
-			- The **earliest** records of civilization date back thousands of years.
-			- 最早的文明记录可以追溯到几千年前。
-		- **broadcast** - 广播
-			- The concert will be **broadcast** live on television.
-			- 音乐会将通过电视进行现场**广播**。
-		- **announced** - 宣布
-			- The company **announced** the launch of a new product.
-			- 该公司**宣布**推出一款新产品。
-		- **advert** - 广告
-			- I saw an interesting **advert** for a new movie in the newspaper.
-			- 我在报纸上看到了一则有趣的新电影**广告**。
-		- **pillows** - 枕头
-			- She bought new **pillows** for the bed.
-			- 她为床买了新的**枕头**。
-		- **Italian** - 意大利的
-			- **Italian** cuisine is known for its emphasis on fresh, high-quality ingredients.
-			- **意大利**美食以强调新鲜、高质量的食材而闻名。
-		- **carefully** - 小心地
-			- She **carefully** placed the vase on the shelf.
-			- 她小心地将花瓶放在架子上。
-- 2024-04-16
-  collapsed:: true
-	- 今天学习的内容是关于职场冲突的讨论
-		- **creatures** - 生物
-			- Humans are social **creatures** that thrive in interactive environments.
-			- 人类是社交**生物**，在互动环境中茁壮成长。
-		- **workplace** - 工作场所
-			- **Workplace** dynamics can significantly affect employee productivity.
-			- **工作场所**的动态可以显著影响员工的生产力。
-		- **inevitable** - 不可避免的
-			- Conflicts are often **inevitable** in a diverse workplace.
-			- 在多元化的工作环境中，冲突往往是**不可避免的**。
-		- **tend** - 倾向
-			- People **tend** to avoid difficult conversations, which can lead to unresolved issues.
-			- 人们**倾向**于避免困难的对话，这可能导致问题未解决。
-		- **dispute** - 争论
-			- A **dispute** over project management styles caused tension in the team.
-			- 团队中关于项目管理风格的**争论**引起了紧张。
-		- **morale** - 士气
-			- High **morale** among employees often leads to higher productivity and job satisfaction.
-			- 员工之间高涨的**士气**通常会导致更高的生产力和工作满意度。
-		- **cultures** - 文化
-			- Understanding different **cultures** is essential for global business success.
-			- 理解不同的**文化**对全球商业成功至关重要。
-		- **confrontational** - 对抗性的
-			- He has a **confrontational** style that can be off-putting to his colleagues.
-			- 他有一种**对抗性**的风格，可能会让他的同事感到不快。
-		- **negative** - 负面的
-			- **Negative** feedback should be delivered constructively to avoid discouraging the recipient.
-			- **负面**反馈应以建设性的方式传达，以避免使接受者感到沮丧。
-		- **advantageous** - 有利的
-			- It is **advantageous** to resolve conflicts quickly to maintain a positive work environment.
-			- 快速解决冲突对于维持积极的工作环境是**有利的**。
-		- **to get it/something off one's chest** - 倾诉心里的话
-			- He felt better after he got it **off his chest**.
-			- 在倾诉了心里的话后，他感觉好多了。
-		- **to bite one's tongue** - 忍住不说
-			- Sometimes it's wise **to bite your tongue** rather than say something you might regret.
-			- 有时候，**忍住不说**比说出可能会后悔的话更明智。
-		- **annoy** - 惹恼
-			- Loud talking in the office can **annoy** others who are trying to concentrate.
-			- 办公室里的大声说话可能会**惹恼**其他试图集中注意力的人。
-		- **to get the wrong end of the stick** - 误解
-			- Miscommunication often leads people **to get the wrong end of the stick**.
-			- 沟通不畅常常导致人们**误解**。
-		- **to escalate** - 升级
-			- The argument **escalated** quickly, involving more people.
-			- 争论迅速**升级**，涉及更多人。
-		- **intense** - 强烈的
-			- The meeting was **intense**, with strong opinions expressed by all sides.
-			- 会议非常**强烈**，各方都表达了强烈的观点。
-		- **serious** - 严重的
-			- The **serious** allegations required an immediate and thorough investigation.
-			- 这些**严重的**指控需要立即和彻底的调查。
-		- **to undermine** - 破坏
-			- Gossip in the workplace can **undermine** trust among team members.
-			- 工作场所的闲话可以**破坏**团队成员之间的信任。
-		- **gradually** - 逐渐地
-			- The employee **gradually** gained confidence with more training.
-			- 随着接受更多的培训，员工**逐渐**获得了信心。
-		- **weaker** - 较弱的
-			- In negotiations, revealing too much information can make your position **weaker**.
-			- 在谈判中，透露太多信息可以使你的立场**变弱**。
-		- **animosity** - 敌意
-			- There was noticeable **animosity** between the two departments.
-			- 两个部门之间明显存在**敌意**。
-		- **hatred** - 憎恨
-			- **Hatred** in the workplace can lead to a toxic environment.
-			- 工作场所的**憎恨**可能导致有毒的环境。
-		- **hostility** - 敌意
-			- His **hostility** towards the new policies was evident in the meeting.
-			- 他对新政策的**敌意**在会议中表现得很明显。
-		- **supervisor** - 主管
-			- The **supervisor** is responsible for overseeing the performance of their team.
-			- **主管**负责监督其团队的表现。
-		- **Tensions** - 紧张关系
-			- **Tensions** in the workplace can affect overall productivity and well-being.
-			- 工作场所的**紧张关系**可能影响整体生产力和福祉。
-		- **announced** - 宣布
-			- The manager **announced** the new strategy to all employees during the meeting.
-			- 经理在会议中向所有员工**宣布**了新策略。
-		- **investigation** - 调查
-			- An **investigation** was launched to determine the cause of the data breach.
-			- 启动了一项**调查**以确定数据泄露的原因。
-		- **practices** - 做法，实践
-			- Best **practices** in management ensure fairness and efficiency in the workplace.
-			- 管理的最佳**实践**确保工作场所的公平和效率。
-		- **rubbish** - 垃圾
-			- Please throw any **rubbish** into the bin to keep the office clean.
-			- 请将任何**垃圾**扔进垃圾桶，保持办公室清洁。
-		- **regret** - 遗憾，后悔
-			- He expressed **regret** for his hasty decision that led to unnecessary complications.
-			- 他对自己仓促的决定导致不必要的复杂情况表示**遗憾**。
-- 2024-04-22
-  collapsed:: true
-	- 今天是关于教育相关的讨论
-		- **pupil** - 学生
-			- A **pupil** in primary school is learning the basics of math and reading.
-			- 小学的**学生**正在学习数学和阅读的基础知识。
-		- **curricular** - 课程的
-			- Schools often evaluate their **curricular** offerings to ensure they meet educational standards.
-			- 学校经常评估他们的**课程**供应以确保它们符合教育标准。
-		- **extra-curricular activities** - 课外活动
-			- **Extra-curricular activities** can include sports, clubs, and arts programs.
-			- **课外活动**可以包括运动、俱乐部和艺术项目。
-		- **curriculum** - 课程
-			- The school's **curriculum** covers a wide range of subjects from science to literature.
-			- 学校的**课程**涵盖了从科学到文学的广泛科目。
-		- **to drop out (of school/college)** - 退学
-			- Some students **drop out** of college due to financial pressures.
-			- 由于经济压力，一些学生会从大学**退学**。
-		- **dropout** - 辍学者
-			- A **dropout** is someone who has left school or college before completing their education.
-			- **辍学者**是指在完成教育之前离开学校或学院的人。
-		- **participation** - 参与
-			- Active **participation** in class discussions can enhance learning.
-			- 在课堂讨论中的积极**参与**可以增强学习。
-		- **truant** - 逃学者
-			- A student who repeatedly skips school is called a **truant**.
-			- 经常逃学的学生被称为**逃学者**。
-		- **hooky** - 逃学
-			- Playing **hooky** means staying away from school without permission.
-			- **逃学**意味着未经允许不去学校。
-		- **wag off** - 逃学（英国俚语）
-			- Some students **wag off** school to hang out with friends.
-			- 一些学生为了和朋友聚会而**逃学**。
-		- **skive** - 逃避（尤指逃学或逃工）
-			- To **skive** off work or school means to avoid going without a good reason.
-			- **逃避**工作或学校意味着没有充分理由就不去。
-		- **absent** - 缺席的
-			- The student was **absent** from school for three days due to illness.
-			- 该学生因病缺席学校三天。
-		- **attendance** - 出席，到场
-			- Good **attendance** is crucial for academic success.
-			- 良好的**出席率**对学术成功至关重要。
-		- **flunk** - 不及格
-			- To **flunk** an exam means to fail it.
-			- **不及格**意味着考试失败。
-		- **societies** - 社团
-			- University **societies** offer students opportunities to pursue their interests.
-			- 大学**社团**为学生提供了追求兴趣的机会。
-		- **headmaster** - 校长（通常用于男性）
-			- The **headmaster** gave a speech at the school assembly.
-			- **校长**在学校集会上发表了演讲。
-		- **billionaires** - 亿万富翁
-			- Some **billionaires** donate large sums of money to educational causes.
-			- 一些**亿万富翁**向教育事业捐赠了大量资金。
-		- **interfere** - 干涉
-			- Parents should not **interfere** too much in their children's homework.
-			- 家长不应过多**干涉**孩子的家庭作业。
-		- **misbehave** - 行为不端
-			- Students who **misbehave** in class may be sent to the principal's office.
-			- 在课堂上**行为不端**的学生可能会被送到校长办公室。
 - 2024-05-09
   collapsed:: true
 	- 今天讨论的内容是关于数字游民的
@@ -410,6 +101,7 @@
 				- **英文**: They stood there, admiring the beautiful sunset.
 				- **中文**: 他们站在那里，赞赏着美丽的日落。
 - 2024-05-20
+  collapsed:: true
 	- 今天学习一般现在时和现在进行时的有关内容
 		- **gigabyte** - 千兆字节
 			- A **gigabyte** is a unit of storage capacity equivalent to approximately one billion bytes.
@@ -450,3 +142,86 @@
 		- **barber** - 理发师
 			- The **barber** gave him a haircut and a shave.
 			- **理发师**给他剪发和刮脸。
+	-
+- 2024-05-23
+	- 今天学习一般过去时 (Past Simple) 和现在完成时 (Present Perfect）
+		- 过去简单时 (Past Simple)
+		  collapsed:: true
+			- 用法：
+			  collapsed:: true
+				- 1.	表示已完成的动作或事情：
+					- We lived in Japan from 1995 to 1998.（我们从 1995 年到 1998 年住在日本。）
+				- 2.	描述特定时间点发生的动作或事件：
+					- I saw the Eiffel Tower in 2007.（我在 2007 年看到了埃菲尔铁塔。）
+				- 3.	表示一系列已完成的动作：
+					- First he read the book, and then he watched the movie.（首先他读了书，然后他看了电影。）
+			- 结构：
+			  collapsed:: true
+				- 肯定句：主语 + 动词过去式
+					- He visited the museum.（他参观了博物馆。）
+				- 否定句：主语 + did + not + 动词原形
+					- He did not (didn’t) visit the museum.（他没有参观博物馆。）
+				- 疑问句：Did + 主语 + 动词原形
+					- Did he visit the museum?（他参观了博物馆吗？）
+			- 时间标志词：
+				- yesterday, then, ago, last night/week, in 2001 等
+				- 例如：She visited Paris last year.（她去年访问了巴黎。）
+		- 现在完成时 (Present Perfect)
+		  collapsed:: true
+			- 用法：
+				- 1.	描述从过去开始持续到现在的未完成动作：
+					- I’ve worked as a teacher since 2011.（我从 2011 年起一直当老师。）
+				- 2.	描述过去的经历或结果：
+					- I have seen the Eiffel Tower.（我见过埃菲尔铁塔。）
+					- She has already watched this movie 3 times.（她已经看过这部电影三次了。）
+				- 3.	描述最近完成的动作，对现在有影响：
+					- I have lost my job.（我失业了。）
+			- 结构：
+				- 肯定句：主语 + have/has + 过去分词
+					- I have tried sushi.（我尝过寿司。）
+				- 否定句：主语 + have/has + not + 过去分词
+					- I have not tried sushi.（我没有尝过寿司。）
+				- 疑问句：Have/Has + 主语 + 过去分词
+					- Have you tried sushi?（你尝过寿司吗？）
+			- 时间标志词：
+				- for, since, ever, never, yet, already, so far, how long 等
+					- 例如：She has already watched this movie 3 times.（她已经看过这部电影三次了。）
+		- 对比和总结
+		  collapsed:: true
+			- 表达时间
+				- 过去简单时：表达已完成的时间
+					- We lived in Japan from 1995 to 1998.（我们从 1995 年到 1998 年住在日本。）
+				- 现在完成时：描述未完成的时间
+					- I’ve worked as a teacher since 2011.（我从 2011 年起一直当老师。）
+			- 指代时间
+				- •	过去简单时：指代确定的时间
+					- •	I saw the Eiffel Tower in 2007.（我在 2007 年看到了埃菲尔铁塔。）
+				- •	现在完成时：指代不确定的时间
+					- •	I have seen the Eiffel Tower.（我见过埃菲尔铁塔。）
+			- 表达动作
+				- 过去简单时：表示一系列已完成的动作
+					- First he read the book, and then he watched the movie.（首先他读了书，然后他看了电影。）
+				- 现在完成时：表示经历或结果
+					- She has already watched this movie 3 times.（她已经看过这部电影三次了。）
+		- 例题
+			- () you read “Harry Potter” when you were on holidays?
+				- 这里填 Did，使用一般过去时描述假期中的具体事件。
+				- 为什么不填 have 呢？即这里为什么不用现在完成时呢？
+					- 因为过去简单时用于描述在特定时间点发生的动作或事件。它强调的是动作发生在明确的过去时间点，并且与现在没有直接联系
+						- Did you read “Harry Potter” when you were on holidays?
+							- 这里使用过去简单时，因为问题询问的是在某个特定时间段（假期期间）是否发生了“读《哈利·波特》”这个动作。假期是一个明确的过去时间段，所以使用过去简单时。
+					- 现在完成时用于描述从过去开始并持续到现在的动作，或者在过去发生但对现在有影响的动作。它不强调动作发生的具体时间，而是关注动作本身的完成情况或其结果。
+						- Have you read “Harry Potter”?
+							- 这里使用现在完成时，是因为问题询问的是某人是否有过“读《哈利·波特》”的经历，没有指定具体的时间点。
+					- 对比
+						- Did you read “Harry Potter” when you were on holidays?
+							- 强调的是“假期期间”这个特定的过去时间段，询问在那个时间段是否读过这本书。
+						- Have you read “Harry Potter”?
+							- 强调的是是否有过读这本书的经历，没有指定具体的时间。
+					- 更多示例对比
+						- 过去简单时：
+							- Did you visit Paris last year?（你去年访问过巴黎吗？）
+								- 这里的“last year”是一个具体的过去时间段，所以使用过去简单时。
+						- 现在完成时：
+							- Have you ever visited Paris?（你曾经访问过巴黎吗？）
+								- 这里询问的是是否有过访问巴黎的经历，没有指定具体时间，所以使用现在完成时。
