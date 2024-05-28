@@ -239,8 +239,13 @@
 			- 用法：
 				- 1.	描述已完成的动作：
 					- •	例如：She has finished her homework.（她已经完成了作业。）
-				- 2.	描述持续到现在的状态：
+				- 2.	描述持续到现在的状态（或者说永久性动作）：
 					- •	例如：I have lived here for five years.（我已经在这里住了五年。）
+					- •	例如：I have taught English for 12 years.（描述我已经教了 12 年英语，动作表示长期或永久性。）
+				- 3.	强调动作的结果：
+					- •	例如：He has repaired the car.（强调车子已经修好了，结果显而易见。）
+				- 4.	表示数量或次数：
+					- •	例如：It has taken six years to write this book.（强调书写作过程花了六年时间。）
 			- 时间标志词：
 				- •	for, since, ever, never, yet, already, so far, how long 等
 					- •	例如：She has never studied Japanese.（她从未学习过日语。）
@@ -253,10 +258,15 @@
 				- •	疑问句：Have/Has + 主语 + been + 动词-ing
 					- •	例如：Have they been learning English for 2 years?
 			- 用法：
-				- 1.	描述从过去开始并持续到现在的长时间动作：
-					- •	例如：I’ve been living in Ireland for almost 4 years.（我已经在爱尔兰住了将近4年。）
+				- 1.	描述从过去开始并持续到现在的长时间动作（未完成的动作）：
+					- •	例如：I’ve been living in Ireland for almost 4 years.（我已经在爱尔兰住了将近 4 年。）
+					- •	例如：The kids have been playing since morning.（描述孩子们从早上开始一直在玩，动作仍在进行。）
 				- 2.	描述最近完成的动作，并且该动作对现在有明显影响：
 					- •	例如：Her eyes are red because she’s been crying all evening.（她的眼睛很红，因为她整个晚上都在哭。）
+				- 3.	强调动作的持续时间（临时性动作）：
+					- •	例如：He has been repairing the car for 2 hours.（强调他修车已经持续了 2 个小时，动作仍在进行。）
+				- 4.	表示进行中过程中的数量或次数：
+					- •	例如：He has been studying English for two months.（强调他学习英语的过程已经持续了两个月。）
 			- 时间标志词：
 				- •	for, since, for the last 2 hours 等
 					- •	例如：Have they been learning English this week?（他们这周一直在学英语吗？）
