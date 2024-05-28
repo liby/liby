@@ -143,7 +143,8 @@
 			- The **barber** gave him a haircut and a shave.
 			- **理发师**给他剪发和刮脸。
 	-
-- 2024-05-23
+- 2024-05-24
+  collapsed:: true
 	- 今天学习一般过去时 (Past Simple) 和现在完成时 (Present Perfect）
 		- 过去简单时 (Past Simple)
 		  collapsed:: true
@@ -225,3 +226,59 @@
 						- 现在完成时：
 							- Have you ever visited Paris?（你曾经访问过巴黎吗？）
 								- 这里询问的是是否有过访问巴黎的经历，没有指定具体时间，所以使用现在完成时。
+- 2024-05-28
+	- 现在完成时与现在完成进行时
+		- 现在完成时 (Present Perfect)
+			- 结构：
+				- •	肯定句：主语 + have/has + 过去分词 (V3)
+					- •	例如：They have played for 2 hours.
+				- •	否定句：主语 + have/has + not + 过去分词 (V3)
+					- •	例如：They have not played for 2 hours.
+				- •	疑问句：Have/Has + 主语 + 过去分词 (V3)
+					- •	例如：Have they played for 2 hours?
+			- 用法：
+				- 1.	描述已完成的动作：
+					- •	例如：She has finished her homework.（她已经完成了作业。）
+				- 2.	描述持续到现在的状态：
+					- •	例如：I have lived here for five years.（我已经在这里住了五年。）
+			- 时间标志词：
+				- •	for, since, ever, never, yet, already, so far, how long 等
+					- •	例如：She has never studied Japanese.（她从未学习过日语。）
+		- 现在完成进行时 (Present Perfect Continuous)
+			- 结构：
+				- •	肯定句：主语 + have/has + been + 动词-ing
+					- •	例如：They have been learning English for 2 years.
+				- •	否定句：主语 + have/has + not + been + 动词-ing
+					- •	例如：They have not been learning English for 2 years.
+				- •	疑问句：Have/Has + 主语 + been + 动词-ing
+					- •	例如：Have they been learning English for 2 years?
+			- 用法：
+				- 1.	描述从过去开始并持续到现在的长时间动作：
+					- •	例如：I’ve been living in Ireland for almost 4 years.（我已经在爱尔兰住了将近4年。）
+				- 2.	描述最近完成的动作，并且该动作对现在有明显影响：
+					- •	例如：Her eyes are red because she’s been crying all evening.（她的眼睛很红，因为她整个晚上都在哭。）
+			- 时间标志词：
+				- •	for, since, for the last 2 hours 等
+					- •	例如：Have they been learning English this week?（他们这周一直在学英语吗？）
+					- •	例如：He hasn’t done anything to help his wife this evening because he has been watching TV for the last 2 hours.（今天晚上他没有做任何事情来帮助他的妻子，因为他已经看了两个小时的电视了。）
+			- 例题：
+				- What ___ you ___ Sirius? You are covered in paint.
+					- 你全身都是油漆，这意味着你刚刚完成或一直在进行某个与油漆相关的活动。
+					- What have you been doing, Sirius? You are covered in paint.
+						- •	What：疑问词，表示要问的问题。
+						- •	have：助动词，用于构成现在完成时或现在完成进行时。
+						- •	you：主语。
+						- •	been：现在完成进行时的结构之一，表示动作的持续性。
+						- •	doing：动词的现在分词，表示具体的动作。
+					- 结构解释：
+						- •	现在完成进行时的结构是 have/has + been + 动词-ing。
+						- •	在这个句子中，问的是 Sirius（一个人名）一直在做什么导致他全身都是油漆。
+						- •	题目中需要用 现在完成进行时 来强调这个动作的持续性和其对现在的影响。
+					- 使用时态的原因：
+						- •	现在完成进行时（Present Perfect Continuous）用来描述从过去开始并且持续到现在的动作，通常强调动作的持续时间或其对现在的影响。
+						- •	You are covered in paint 表示结果依然明显，所以我们用现在完成进行时来强调这个持续的动作。
+					- 举例：
+						- •	What have you been doing?（你一直在做什么？）
+						- •	用来询问某人一直在做的事情，尤其当有明显的结果或影响时。
+						- •	You are covered in paint.（你全身都是油漆。）
+						- •	提供了一个明确的现在的结果，表明刚刚完成或一直在进行某个活动。
