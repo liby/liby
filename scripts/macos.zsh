@@ -178,6 +178,12 @@ restore_dotfiles() {
     dot config --local status.showUntrackedFiles no
     dot checkout --force
 
+    local github_config_path="$HOME/gitconfig/.github"
+    GPG_KEY_ID=$(gpg --card-status | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
+    git config --file $github_config_path user.signingkey $GPG_KEY_ID
+    
+    local github_config_path="$HOME/gitconfig/.gitlab"    
+
     brew_bundle
   fi
 }
