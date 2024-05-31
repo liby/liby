@@ -154,6 +154,27 @@ setup_ohmyzsh() {
   fi
 }
 
+format_gitconfig_files() {
+  echo "==========================================================="
+  echo "                    Format Gitconfig Files                 "
+  echo "-----------------------------------------------------------"
+
+  local config_dir="$HOME/gitconfig"
+
+  if [[ -d "$config_dir" ]]; then
+    echo "Formatting all files in $config_dir..."
+
+    find "$config_dir" -type f | while read -r file; do
+      perl -pi -e 's/^\s*/  /g' "$file"
+      echo "Formatted $file"
+    done
+
+    echo "All files in $config_dir have been formatted."
+  else
+    echo "Directory $config_dir does not exist."
+  fi
+}
+
 restore_dotfiles() {
   echo "-----------------------------------------------------------"
   echo "          * Restore Bryan’s dotfiles from GitHub.com         "
@@ -192,7 +213,8 @@ restore_dotfiles() {
 
     git config --file $git_sub_config_path/.gitlab user.email $decoded_email
     git config --file $git_sub_config_path/.gitlab user.name $decoded_name
-
+    
+    format_gitconfig_files
     brew_bundle
   fi
 
