@@ -63,11 +63,11 @@ install_homebrew() {
   if [ ! -x "$(command -v brew)" ]; then
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-    brew_shellenv
     if ! ([[ -e ~/.zprofile ]] && grep -q "brew shellenv" ~/.zprofile); then
         echo "eval \"\$(${HOMEBREW_PREFIX}/bin/brew shellenv)\"" >> "${HOME}/.zprofile"
         echo "typeset -U path" >> "${HOME}/.zprofile"
     fi
+    brew_shellenv
 
     brew analytics off && brew update
     echo "Homebrew installed."
@@ -82,6 +82,7 @@ install_brew_packages() {
   __pkg_to_be_installed=(
     curl
     git
+    gnupg
     jq
     zsh
   )
@@ -108,7 +109,7 @@ install_brew_packages() {
 }
 
 brew_bundle() {
-  echo "-----------------------------------------------------------"
+  echo "==========================================================="
   echo "          * Restore bundles from Homebrew                  "
   echo "-----------------------------------------------------------"
   brew bundle
@@ -153,40 +154,31 @@ setup_ohmyzsh() {
   fi
 }
 
-install_starship() {
-  echo "==========================================================="
-  echo "                   Install Starship                        "
-  echo "-----------------------------------------------------------"
-
-  if command -v starship > /dev/null; then
-    echo "Starship is already installed, skipping..."
-  else
-    curl -sS https://starship.rs/install.sh | sh
-  fi
-}
-
 restore_dotfiles() {
   echo "-----------------------------------------------------------"
-  echo "          * Restore Bryan/dotfiles from GitHub.com         "
+  echo "          * Restore Bryan’s dotfiles from GitHub.com         "
   echo "-----------------------------------------------------------"
 
   if [[ -d "$HOME/.dotfiles" ]]; then
     echo "Dotfiles already restored, skipping..."
   else
     git clone --bare https://github.com/liby/dotfiles.git $HOME/.dotfiles
-    alias dot="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
-    dot config --local status.showUntrackedFiles no
-    dot checkout --force
+    git --git-dir=$HOME/.dotfiles --work-tree=$HOME config --local status.showUntrackedFiles no
+    git --git-dir=$HOME/.dotfiles --work-tree=$HOME checkout --force
 
     local dotfiles_dir="$HOME/.dotfiles"
     local git_sub_config_path="$HOME/gitconfig"
-    local github_template="$git_sub_config_path/.github_template"
-    local gitlab_template="$git_sub_config_path/.gitlab_template"
+    local github_template="$git_sub_config_path/.github-template"
+    local gitlab_template="$git_sub_config_path/.gitlab-template"
     local github_config="$git_sub_config_path/.github"
     local gitlab_config="$git_sub_config_path/.gitlab"
     local ssh_dir="$HOME/.ssh"
     local gpg_pub_key_file="$ssh_dir/$GPG_KEY_ID.pub"
 
+    if [[ -d "$HOME/.gnupg" ]]; then
+      chmod 700 "$HOME/.gnupg"
+      chmod 600 "$HOME/.gnupg"/*
+    fi
     local GPG_KEY_ID=$(gpg --card-status | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
 
     git config --file $git_sub_config_path/.github user.signingkey $GPG_KEY_ID
@@ -195,19 +187,16 @@ restore_dotfiles() {
 
     local encoded_email="Ym95dWFuLmxpQHJpZ2h0Y2FwaXRhbC5jb20="
     local decoded_email=$(echo -n "$encoded_email" | base64 --decode)
-
     local encoded_name="Qm95dWFuIExp"
     local decoded_name=$(echo -n "$encoded_name" | base64 --decode)
 
-    git config --file $git_sub_config_path/.github user.email $decoded_email
-    git config --file $git_sub_config_path/.github user.name $decoded_name
     git config --file $git_sub_config_path/.gitlab user.email $decoded_email
     git config --file $git_sub_config_path/.gitlab user.name $decoded_name
 
     brew_bundle
   fi
 
-  dot remote set-url origin git@github.com:liby/dotfiles.git
+  git --git-dir=$HOME/.dotfiles --work-tree=$HOME remote set-url origin git@github.com:liby/dotfiles.git
 }
 
 
@@ -275,7 +264,7 @@ install_rust() {
   if command -v rustc > /dev/null; then
     echo "Rust is already installed, skipping..."
   else
-    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
   fi
 }
 
@@ -334,7 +323,6 @@ start
 install_homebrew
 install_brew_packages
 setup_ohmyzsh
-install_starship
 restore_dotfiles
 install_nodejs
 install_rust
