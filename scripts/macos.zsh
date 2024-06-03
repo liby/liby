@@ -83,7 +83,6 @@ install_brew_packages() {
     curl
     git
     gnupg
-    jq
     zsh
   )
 
@@ -162,22 +161,28 @@ setup_gpg_agent() {
   echo "Installing pinentry-mac using Homebrew..."
   brew install pinentry-mac
 
-  local gpg_agent_conf="$HOME/.gnupg/gpg-agent.conf"
-  if [[ -f "$gpg_agent_conf" ]]; then
-    echo "$gpg_agent_conf already exists. Checking configuration..."
-  else
-    echo "$gpg_agent_conf does not exist. Creating and configuring..."
-    touch "$gpg_agent_conf"
+  if [[ -d "$HOME/.gnupg" ]]; then
+    echo "Setting correct permissions for $HOME/.gnupg and its contents..."
+    chown -R $(whoami) "$HOME/.gnupg"
+    find "$HOME/.gnupg" -type f -exec chmod 600 {} \;
+    find "$HOME/.gnupg" -type d -exec chmod 700 {} \;
+
+    local gpg_agent_conf="$HOME/.gnupg/gpg-agent.conf"
+    if [[ -f "$gpg_agent_conf" ]]; then
+      echo "$gpg_agent_conf already exists. Checking configuration..."
+    else
+      echo "$gpg_agent_conf does not exist. Creating and configuring..."
+      touch "$gpg_agent_conf"
+    fi
+
+    if grep -q "pinentry-program" "$gpg_agent_conf"; then
+      echo "pinentry-program is already configured in $gpg_agent_conf."
+    else
+      echo "Configuring pinentry-program in $gpg_agent_conf..."
+      echo "pinentry-program $(which pinentry-mac)" >> "$gpg_agent_conf"
+    fi
   fi
 
-  if grep -q "pinentry-program" "$gpg_agent_conf"; then
-    echo "pinentry-program is already configured in $gpg_agent_conf."
-  else
-    echo "Configuring pinentry-program in $gpg_agent_conf..."
-    echo "pinentry-program $(which pinentry-mac)" >> "$gpg_agent_conf"
-  fi
-
-  chmod 600 "$gpg_agent_conf"
   echo "Launching gpg-agent if not already running..."
   gpgconf --launch gpg-agent
 
@@ -229,10 +234,8 @@ restore_dotfiles() {
     local ssh_dir="$HOME/.ssh"
     local gpg_pub_key_file="$ssh_dir/$GPG_KEY_ID.pub"
 
-    if [[ -d "$HOME/.gnupg" ]]; then
-      chmod 700 "$HOME/.gnupg"
-      chmod 600 "$HOME/.gnupg"/*
-    fi
+    setup_gpg_agent
+
     local GPG_KEY_ID=$(gpg --card-status | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
 
     git config --file $git_sub_config_path/.github user.signingkey $GPG_KEY_ID
@@ -248,7 +251,6 @@ restore_dotfiles() {
     git config --file $git_sub_config_path/.gitlab user.name $decoded_name
     
     format_gitconfig_files
-    setup_gpg_agent
     brew_bundle
   fi
 
