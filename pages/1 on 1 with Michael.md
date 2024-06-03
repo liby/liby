@@ -227,6 +227,7 @@
 							- Have you ever visited Paris?（你曾经访问过巴黎吗？）
 								- 这里询问的是是否有过访问巴黎的经历，没有指定具体时间，所以使用现在完成时。
 - 2024-05-28
+  collapsed:: true
 	- 现在完成时与现在完成进行时
 		- 现在完成时 (Present Perfect)
 			- 结构：
@@ -292,3 +293,63 @@
 						- •	用来询问某人一直在做的事情，尤其当有明显的结果或影响时。
 						- •	You are covered in paint.（你全身都是油漆。）
 						- •	提供了一个明确的现在的结果，表明刚刚完成或一直在进行某个活动。
+- 2024-06-03
+	- 今天学习过去简单时
+		- 一般过去时 (Simple Past)
+			- 结构：
+			- •	肯定句：主语 + 动词过去式
+				- •	例如：I lived in London.
+			- •	否定句：主语 + did not (didn’t) + 动词原形
+				- •	例如：I didn’t live in Spain.
+			- •	疑问句：Did + 主语 + 动词原形
+				- •	例如：Did you live in Italy?
+			- 用法：
+				- 1.	描述过去发生并已完成的动作：
+					- •	I lived in London.（我曾经住在伦敦。）
+				- 2.	描述发生在过去的动作，并且我们确切知道发生的时间：
+					- •	She watched a movie yesterday.（她昨天看了一部电影。）
+			- 时间标志词：
+				- •	with yesterday, then, ago, last night/week, in 2001 等
+					- •	例如：She visited Paris last year.（她去年访问了巴黎。）
+			- 一般过去时的规则动词变化
+				- 拼写规则：
+					- 1.	base form + ed
+						- •	例如：walk ➔ walked
+					- 2.	verbs ending in -e + d
+						- •	例如：like ➔ liked
+					- 3.	verbs ending in a consonant + y，变 y 为 i + ed
+						- •	例如：carry ➔ carried
+					- 4.	Some verbs ending in a single consonant，前一个字母为元音，双写最后一个字母 + ed
+						- •	例如：plan ➔ planned
+			- 现在完成时 (Present Perfect)
+				- 结构：
+					- •	肯定句：主语 + have/has + 过去分词 (V3)
+						- •	例如：I have seen the Eiffel Tower.
+					- •	否定句：主语 + have/has + not + 过去分词 (V3)
+						- •	例如：She hasn’t finished her homework.
+					- •	疑问句：Have/Has + 主语 + 过去分词 (V3)
+						- •	例如：Have you ever been to Japan?
+				- 用法：
+					- 1.	描述从过去开始并持续到现在的动作：
+						- •	I’ve worked as a teacher since 2011.（我从 2011 年起一直当老师。）
+					- 2.	描述过去发生但我们不知道确切时间的动作：
+						- •	I have seen the Eiffel Tower.（我见过埃菲尔铁塔。）
+	- 时间标志词：
+	- •	with for, since, ever, never, yet, already, so far, how long 等
+	  •	例如：She has never studied Japanese.（她从未学习过日语。）
+	- 对比与总结
+	- 表达时间
+	- •	过去简单时：表达已完成的时间
+	  •	例如：We lived in Japan from 1995 to 1998.（我们从1995年到1998年住在日本。）
+	  •	现在完成时：描述未完成的时间
+	  •	例如：I’ve worked as a teacher since 2011.（我从2011年起一直当老师。）
+	- 指代时间
+	- •	过去简单时：指代确定的时间
+	  •	例如：I saw the Eiffel Tower in 2007.（我在2007年看到了埃菲尔铁塔。）
+	  •	现在完成时：指代不确定的时间
+	  •	例如：I have seen the Eiffel Tower.（我见过埃菲尔铁塔。）
+	- 表达动作
+	- •	过去简单时：表示一系列已完成的动作
+	  •	例如：First he read the book, and then he watched the movie.（首先他读了书，然后他看了电影。）
+	  •	现在完成时：表示经历或结果
+	  •	例如：She has already watched this movie 3 times.（她已经看过这部电影三次了。）
