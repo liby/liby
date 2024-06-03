@@ -42,7 +42,7 @@ is_apple_silicon() {
   [[ "$(/usr/bin/uname -m)" == "arm64" ]]
 }
 
-brew_shellenv() {
+setup_brew() {
   # It will export env variable: HOMEBREW_PREFIX, HOMEBREW_CELLAR, HOMEBREW_REPOSITORY, HOMEBREW_SHELLENV_PREFIX
   # It will add path: $PATH, $MANPATH, $INFOPATH
   if is_apple_silicon; then
@@ -67,7 +67,8 @@ install_homebrew() {
         echo "eval \"\$(${HOMEBREW_PREFIX}/bin/brew shellenv)\"" >> "${HOME}/.zprofile"
         echo "typeset -U path" >> "${HOME}/.zprofile"
     fi
-    brew_shellenv
+
+    setup_brew
 
     brew analytics off && brew update
     echo "Homebrew installed."
@@ -192,6 +193,30 @@ setup_gpg_agent() {
   echo "GPG Agent setup completed."
 }
 
+setup_gitcofnig() {
+  local git_sub_config_path="$HOME/gitconfig"
+  local github_template="$git_sub_config_path/.github-template"
+  local gitlab_template="$git_sub_config_path/.gitlab-template"
+  local github_config="$git_sub_config_path/.github"
+  local gitlab_config="$git_sub_config_path/.gitlab"
+  local ssh_dir="$HOME/.ssh"
+  local gpg_pub_key_file="$ssh_dir/$GPG_KEY_ID.pub"
+
+  local GPG_KEY_ID=$(gpg --card-status | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
+
+  git config --file $git_sub_config_path/.github user.signingkey $GPG_KEY_ID
+  gpg --export-ssh-key $GPG_KEY_ID > $HOME/.ssh/$GPG_KEY_ID.pub
+  git config --file $git_sub_config_path/.gitlab user.signingkey $HOME/.ssh/$GPG_KEY_ID.pub
+
+  local encoded_email="Ym95dWFuLmxpQHJpZ2h0Y2FwaXRhbC5jb20="
+  local decoded_email=$(echo -n "$encoded_email" | base64 --decode)
+  local encoded_name="Qm95dWFuIExp"
+  local decoded_name=$(echo -n "$encoded_name" | base64 --decode)
+
+  git config --file $git_sub_config_path/.gitlab user.email $decoded_email
+  git config --file $git_sub_config_path/.gitlab user.name $decoded_name
+}
+
 format_gitconfig_files() {
   echo "==========================================================="
   echo "                    Format Gitconfig Files                 "
@@ -215,7 +240,7 @@ format_gitconfig_files() {
 
 restore_dotfiles() {
   echo "-----------------------------------------------------------"
-  echo "          * Restore Bryan’s dotfiles from GitHub.com         "
+  echo "         * Restore Bryan’s dotfiles from GitHub.com        "
   echo "-----------------------------------------------------------"
 
   if [[ -d "$HOME/.dotfiles" ]]; then
@@ -225,31 +250,8 @@ restore_dotfiles() {
     git --git-dir=$HOME/.dotfiles --work-tree=$HOME config --local status.showUntrackedFiles no
     git --git-dir=$HOME/.dotfiles --work-tree=$HOME checkout --force
 
-    local dotfiles_dir="$HOME/.dotfiles"
-    local git_sub_config_path="$HOME/gitconfig"
-    local github_template="$git_sub_config_path/.github-template"
-    local gitlab_template="$git_sub_config_path/.gitlab-template"
-    local github_config="$git_sub_config_path/.github"
-    local gitlab_config="$git_sub_config_path/.gitlab"
-    local ssh_dir="$HOME/.ssh"
-    local gpg_pub_key_file="$ssh_dir/$GPG_KEY_ID.pub"
-
     setup_gpg_agent
-
-    local GPG_KEY_ID=$(gpg --card-status | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
-
-    git config --file $git_sub_config_path/.github user.signingkey $GPG_KEY_ID
-    gpg --export-ssh-key $GPG_KEY_ID > $HOME/.ssh/$GPG_KEY_ID.pub
-    git config --file $git_sub_config_path/.gitlab user.signingkey $HOME/.ssh/$GPG_KEY_ID.pub
-
-    local encoded_email="Ym95dWFuLmxpQHJpZ2h0Y2FwaXRhbC5jb20="
-    local decoded_email=$(echo -n "$encoded_email" | base64 --decode)
-    local encoded_name="Qm95dWFuIExp"
-    local decoded_name=$(echo -n "$encoded_name" | base64 --decode)
-
-    git config --file $git_sub_config_path/.gitlab user.email $decoded_email
-    git config --file $git_sub_config_path/.gitlab user.name $decoded_name
-    
+    setup_gitcofnig
     format_gitconfig_files
     brew_bundle
   fi
@@ -358,6 +360,7 @@ finish() {
   echo "> Do not forget run those things:                          "
   echo "                                                           "
   echo "- NPM login                                                "
+  echo "- Setup .npmrc                                             " 
   echo "- Steup iTerm2                                             "
   echo "- Steup launchd for notes                                  "
   echo "- Install Bob,                                             "
@@ -367,7 +370,6 @@ finish() {
   echo "          The Unarchiver,                                  "
   echo "          Hidden Bar                                       "
   echo "  from the Apple Store                                     "
-  echo "- Install Inconsolata LGC                                  "
   echo "- Create a case-sensitive volume on macOS                  "
   echo "- https://www.v2ex.com/t/813229?p=1#r_11048555             "
   echo "                                                           "
