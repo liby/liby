@@ -154,6 +154,39 @@ setup_ohmyzsh() {
   fi
 }
 
+setup_gpg_agent() {
+  echo "==========================================================="
+  echo "                * Setting up GPG Agent                     "
+  echo "-----------------------------------------------------------"
+
+  echo "Installing pinentry-mac using Homebrew..."
+  brew install pinentry-mac
+
+  local gpg_agent_conf="$HOME/.gnupg/gpg-agent.conf"
+  if [[ -f "$gpg_agent_conf" ]]; then
+    echo "$gpg_agent_conf already exists. Checking configuration..."
+  else
+    echo "$gpg_agent_conf does not exist. Creating and configuring..."
+    touch "$gpg_agent_conf"
+  fi
+
+  if grep -q "pinentry-program" "$gpg_agent_conf"; then
+    echo "pinentry-program is already configured in $gpg_agent_conf."
+  else
+    echo "Configuring pinentry-program in $gpg_agent_conf..."
+    echo "pinentry-program $(which pinentry-mac)" >> "$gpg_agent_conf"
+  fi
+
+  chmod 600 "$gpg_agent_conf"
+  echo "Launching gpg-agent if not already running..."
+  gpgconf --launch gpg-agent
+
+  echo "Reloading gpg-agent configuration..."
+  echo RELOADAGENT | gpg-connect-agent
+
+  echo "GPG Agent setup completed."
+}
+
 format_gitconfig_files() {
   echo "==========================================================="
   echo "                    Format Gitconfig Files                 "
@@ -215,17 +248,17 @@ restore_dotfiles() {
     git config --file $git_sub_config_path/.gitlab user.name $decoded_name
     
     format_gitconfig_files
+    setup_gpg_agent
     brew_bundle
   fi
 
   git --git-dir=$HOME/.dotfiles --work-tree=$HOME remote set-url origin git@github.com:liby/dotfiles.git
 }
 
-
 install_nodejs() {
   echo "==========================================================="
   echo "              Setting up NodeJS Environment                "
-  echo "==========================================================="
+  echo "-----------------------------------------------------------"
 
   if command -v n > /dev/null; then
     echo "tj/n is already installed, skipping..."
