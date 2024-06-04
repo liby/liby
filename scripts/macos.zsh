@@ -28,11 +28,11 @@ start() {
   echo "        YOU ARE SETTING UP: Bryan Environment (macOS)      "
   echo "==========================================================="
   echo "                                                           "
-  echo -n "       * The setup will begin in 5 seconds...           "
+  echo "          * The setup will begin in 5 seconds...           "
 
   sleep 5
 
-  echo -n "Times up! Here we start!"
+  echo "                Times up! Here we start!                   "
   echo "-----------------------------------------------------------"
 
   cd $HOME
