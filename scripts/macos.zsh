@@ -202,16 +202,16 @@ setup_gitcofnig() {
   local ssh_dir="$HOME/.ssh"
   local gpg_pub_key_file="$ssh_dir/$GPG_KEY_ID.pub"
 
+  local encoded_email="Ym95dWFuLmxpQHJpZ2h0Y2FwaXRhbC5jb20="
+  local decoded_email=$(echo -n "$encoded_email" | base64 --decode)
+  local encoded_name="Qm95dWFuIExp"
+  local decoded_name=$(echo -n "$encoded_name" | base64 --decode)
+
   local GPG_KEY_ID=$(gpg --card-status | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
 
   git config --file $git_sub_config_path/.github user.signingkey $GPG_KEY_ID
   gpg --export-ssh-key $GPG_KEY_ID > $HOME/.ssh/$GPG_KEY_ID.pub
   git config --file $git_sub_config_path/.gitlab user.signingkey $HOME/.ssh/$GPG_KEY_ID.pub
-
-  local encoded_email="Ym95dWFuLmxpQHJpZ2h0Y2FwaXRhbC5jb20="
-  local decoded_email=$(echo -n "$encoded_email" | base64 --decode)
-  local encoded_name="Qm95dWFuIExp"
-  local decoded_name=$(echo -n "$encoded_name" | base64 --decode)
 
   git config --file $git_sub_config_path/.gitlab user.email $decoded_email
   git config --file $git_sub_config_path/.gitlab user.name $decoded_name
