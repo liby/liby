@@ -63,7 +63,7 @@ install_homebrew() {
   if [ ! -x "$(command -v brew)" ]; then
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-    if ! ([[ -e ~/.zprofile ]] && grep -q "brew shellenv" ~/.zprofile); then
+    if ! ([[ -e "$HOME/.zprofile" ]] && grep -q "brew shellenv" "$HOME/.zprofile"); then
         echo "eval \"\$(${HOMEBREW_PREFIX}/bin/brew shellenv)\"" >> "${HOME}/.zprofile"
         echo "typeset -U path" >> "${HOME}/.zprofile"
     fi
@@ -332,8 +332,15 @@ install_font() {
   echo "                 Install Inconsolata LGC                   "
   echo "-----------------------------------------------------------"
 
-  local font_file="$HOME/Downloads/InconsolataLGC.zip"
-  
+  local font_file="/tmp/InconsolataLGC.zip"
+  local font_dir="/tmp/InconsolataLGC"
+  local target_dir="$HOME/Library/Fonts"
+
+  if ls "${target_dir}"/*InconsolataLGC* 1> /dev/null 2>&1; then
+    echo "Fonts with 'InconsolataLGC' already installed, skipping download and installation..."
+    return
+  fi
+
   if [[ -e "${font_file}" ]]; then
     echo "Font already downloaded, skipping download..."
   else
@@ -341,6 +348,23 @@ install_font() {
     curl -L https://github.com/ryanoasis/nerd-fonts/releases/latest/download/InconsolataLGC.zip -o "${font_file}"
     echo "Font downloaded successfully to ${font_file}."
   fi
+
+  if [[ -d "${font_dir}" ]]; then
+    echo "Font already unzipped, skipping unzip..."
+  else
+    echo "Unzipping font..."
+    mkdir -p "${font_dir}"
+    unzip "${font_file}" -d "${font_dir}"
+    echo "Font unzipped successfully to ${font_dir}."
+  fi
+
+  echo "Copying font files to ${target_dir}..."
+  cp "${font_dir}"/*InconsolataLGC*.ttf "${target_dir}/"
+  echo "Font files copied successfully to ${target_dir}."
+
+  echo "Cleaning up..."
+  rm -rf "${font_file}" "${font_dir}"
+  echo "Installation complete and cleanup done."
 }
 
 reload_zshrc() {
@@ -348,21 +372,32 @@ reload_zshrc() {
   echo "                  Reload Bryan env zshrc                   "
   echo "-----------------------------------------------------------"
 
-  rm ~/.zcompdump*; autoload -w compinit && compinit -i
+  if [[ ! -f "$HOME/.zshrc" ]]; then
+    echo "No .zshrc file found. Exiting."
+    return 1
+  fi
+
+  echo "Removing .zcompdump files in $HOME..."
+  rm -f "$HOME/.zcompdump"*
+
+  echo "Reloading zsh completion system..."
+  autoload -Uz compinit && compinit -i
+
+  echo "Starting a new zsh session..."
   exec zsh
 }
 
-finish() {
+display_todo_list() {
   echo "==========================================================="
   echo "Done!                                                      "
   echo "                                                           "
-  echo "> Bryan Enviroment Setup finished!                         "
-  echo "> Do not forget run those things:                          "
+  echo "> Bryan Environment Setup finished!                        "
+  echo "> Do not forget to run these things:                       "
   echo "                                                           "
   echo "- NPM login                                                "
   echo "- Setup .npmrc                                             " 
-  echo "- Steup iTerm2                                             "
-  echo "- Steup launchd for notes                                  "
+  echo "- Setup iTerm2                                             "
+  echo "- Setup launchd for notes                                  "
   echo "- Install Bob,                                             "
   echo "          Slack,                                           "
   echo "          WeChat,                                          "
@@ -374,8 +409,11 @@ finish() {
   echo "- https://www.v2ex.com/t/813229?p=1#r_11048555             "
   echo "                                                           "
   echo "==========================================================="
+}
 
+finish() {
   cd $HOME
+  display_todo_list
 }
 
 start
@@ -386,5 +424,5 @@ restore_dotfiles
 install_nodejs
 install_rust
 install_font
-finish
 reload_zshrc
+finish
