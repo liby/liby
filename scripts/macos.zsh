@@ -193,28 +193,32 @@ setup_gpg_agent() {
   echo "GPG Agent setup completed."
 }
 
-setup_gitcofnig() {
-  local git_sub_config_path="$HOME/gitconfig"
-  local github_template="$git_sub_config_path/.github-template"
-  local gitlab_template="$git_sub_config_path/.gitlab-template"
-  local github_config="$git_sub_config_path/.github"
-  local gitlab_config="$git_sub_config_path/.gitlab"
+setup_gitconfig() {
+  local git_config_path="$HOME/.config/git"
+  local github_example_config="$git_config_path/github.example.config"
+  local gitlab_example_config="$git_config_path/gitlab.example.config"
+  local github_config="$git_config_path/github.config"
+  local gitlab_config="$git_config_path/gitlab.config"
   local ssh_dir="$HOME/.ssh"
-  local gpg_pub_key_file="$ssh_dir/$GPG_KEY_ID.pub"
+
+  [ ! -f "$github_config" ] && cp "$github_example_config" "$github_config"
+  [ ! -f "$gitlab_config" ] && cp "$gitlab_example_config" "$gitlab_config"
+
+  local gpg_key_id=$(gpg --card-status | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
+  local gpg_pub_key_file="$ssh_dir/$gpg_key_id.pub"
 
   local encoded_email="Ym95dWFuLmxpQHJpZ2h0Y2FwaXRhbC5jb20="
   local decoded_email=$(echo -n "$encoded_email" | base64 --decode)
   local encoded_name="Qm95dWFuIExp"
   local decoded_name=$(echo -n "$encoded_name" | base64 --decode)
 
-  local GPG_KEY_ID=$(gpg --card-status | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
+  git config --file "$github_config" user.signingkey "$gpg_key_id"
+  
+  gpg --export-ssh-key "$gpg_key_id" > "$gpg_pub_key_file"
 
-  git config --file $git_sub_config_path/.github user.signingkey $GPG_KEY_ID
-  gpg --export-ssh-key $GPG_KEY_ID > $HOME/.ssh/$GPG_KEY_ID.pub
-  git config --file $git_sub_config_path/.gitlab user.signingkey $HOME/.ssh/$GPG_KEY_ID.pub
-
-  git config --file $git_sub_config_path/.gitlab user.email $decoded_email
-  git config --file $git_sub_config_path/.gitlab user.name $decoded_name
+  git config --file "$gitlab_config" user.signingkey "$gpg_pub_key_file"
+  git config --file "$gitlab_config" user.email "$decoded_email"
+  git config --file "$gitlab_config" user.name "$decoded_name"
 }
 
 format_gitconfig_files() {
@@ -251,7 +255,7 @@ restore_dotfiles() {
     git --git-dir=$HOME/.dotfiles --work-tree=$HOME checkout --force
 
     setup_gpg_agent
-    setup_gitcofnig
+    setup_gitconfig
     format_gitconfig_files
     brew_bundle
   fi
