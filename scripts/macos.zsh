@@ -57,9 +57,6 @@ install_homebrew() {
   echo "                     Install Homebrew                      "
   echo "-----------------------------------------------------------"
 
-  # xcode command tool will be installed during homebrew installation
-  xcode-select --install || true
-
   if [ ! -x "$(command -v brew)" ]; then
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
@@ -194,11 +191,11 @@ setup_gpg_agent() {
 }
 
 setup_gitconfig() {
-  local git_config_path="$HOME/.config/git"
-  local github_example_config="$git_config_path/github.example.config"
-  local gitlab_example_config="$git_config_path/gitlab.example.config"
-  local github_config="$git_config_path/github.config"
-  local gitlab_config="$git_config_path/gitlab.config"
+  local git_config_dir="$HOME/.config/git"
+  local github_example_config="$git_config_dir/github.example.config"
+  local gitlab_example_config="$git_config_dir/gitlab.example.config"
+  local github_config="$git_config_dir/github.config"
+  local gitlab_config="$git_config_dir/gitlab.config"
   local ssh_dir="$HOME/.ssh"
 
   [ ! -f "$github_config" ] && cp "$github_example_config" "$github_config"
@@ -226,19 +223,19 @@ format_gitconfig_files() {
   echo "                    Format Gitconfig Files                 "
   echo "-----------------------------------------------------------"
 
-  local config_dir="$HOME/gitconfig"
+  local git_config_dir="$HOME/.config/git"
 
-  if [[ -d "$config_dir" ]]; then
-    echo "Formatting all files in $config_dir..."
+  if [[ -d "$git_config_dir" ]]; then
+    echo "Formatting all files in $git_config_dir..."
 
-    find "$config_dir" -type f | while read -r file; do
+    find "$git_config_dir" -type f | while read -r file; do
       perl -pi -e 's/^\s*/  /g' "$file"
       echo "Formatted $file"
     done
 
-    echo "All files in $config_dir have been formatted."
+    echo "All files in $git_config_dir have been formatted."
   else
-    echo "Directory $config_dir does not exist."
+    echo "Directory $git_config_dir does not exist."
   fi
 }
 
@@ -417,6 +414,7 @@ display_todo_list() {
 
 finish() {
   cd $HOME
+  rm -rf $HOME/macos.zsh
   display_todo_list
 }
 
