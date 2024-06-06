@@ -30,7 +30,7 @@ start() {
   echo "                                                           "
   echo "          * The setup will begin in 5 seconds...           "
 
-  sleep 5
+  sleep 3
 
   echo "                Times up! Here we start!                   "
   echo "-----------------------------------------------------------"
