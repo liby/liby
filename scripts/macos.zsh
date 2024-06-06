@@ -179,7 +179,7 @@ setup_gpg_agent() {
     echo "pinentry-program is already configured in $gpg_agent_conf."
   else
     echo "Configuring pinentry-program in $gpg_agent_conf..."
-    echo "pinentry-program $(which pinentry-mac)" >> "$gpg_agent_conf"
+    echo "pinentry-program $(command -v pinentry-mac)" >> "$gpg_agent_conf"
   fi
 
   echo "Launching gpg-agent if not already running..."
@@ -364,8 +364,8 @@ install_font() {
   local font_dir="/tmp/InconsolataLGC"
   local target_dir="$HOME/Library/Fonts"
 
-  if ls "${target_dir}"/*InconsolataLGC* 1> /dev/null 2>&1; then
-    echo "Fonts with 'InconsolataLGC' already installed, skipping download and installation..."
+  if ls "${target_dir}"/*InconsolataLGCNerdFontMono* 1> /dev/null 2>&1; then
+    echo "Fonts with 'InconsolataLGCNerdFontMono' already installed, skipping download and installation..."
     return
   fi
 
@@ -386,8 +386,8 @@ install_font() {
     echo "Font unzipped successfully to ${font_dir}."
   fi
 
-  echo "Copying font files to ${target_dir}..."
-  cp "${font_dir}"/*InconsolataLGC*.ttf "${target_dir}/"
+  echo "Copying Mono font files to ${target_dir}..."
+  cp "${font_dir}"/*InconsolataLGCNerdFontMono*.ttf "${target_dir}/"
   echo "Font files copied successfully to ${target_dir}."
 
   echo "Cleaning up..."
