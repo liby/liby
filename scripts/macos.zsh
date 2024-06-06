@@ -60,12 +60,12 @@ install_homebrew() {
   if [ ! -x "$(command -v brew)" ]; then
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+    setup_brew
+
     if ! ([[ -e "$HOME/.zprofile" ]] && grep -q "brew shellenv" "$HOME/.zprofile"); then
         echo "eval \"\$(${HOMEBREW_PREFIX}/bin/brew shellenv)\"" >> "${HOME}/.zprofile"
         echo "typeset -U path" >> "${HOME}/.zprofile"
     fi
-
-    setup_brew
 
     brew analytics off && brew update
     echo "Homebrew installed."
@@ -81,6 +81,7 @@ install_brew_packages() {
     curl
     git
     gnupg
+    pinentry-mac
     zsh
   )
 
@@ -156,29 +157,29 @@ setup_gpg_agent() {
   echo "                * Setting up GPG Agent                     "
   echo "-----------------------------------------------------------"
 
-  echo "Installing pinentry-mac using Homebrew..."
-  brew install pinentry-mac
+  if [[ ! -d "$HOME/.gnupg" ]]; then
+    echo "Creating $HOME/.gnupg directory..."
+    mkdir -p "$HOME/.gnupg"
+  fi
 
-  if [[ -d "$HOME/.gnupg" ]]; then
-    echo "Setting correct permissions for $HOME/.gnupg and its contents..."
-    chown -R $(whoami) "$HOME/.gnupg"
-    find "$HOME/.gnupg" -type f -exec chmod 600 {} \;
-    find "$HOME/.gnupg" -type d -exec chmod 700 {} \;
+  echo "Setting correct permissions for $HOME/.gnupg and its contents..."
+  chown -R $(whoami) "$HOME/.gnupg"
+  find "$HOME/.gnupg" -type f -exec chmod 600 {} \;
+  find "$HOME/.gnupg" -type d -exec chmod 700 {} \;
 
-    local gpg_agent_conf="$HOME/.gnupg/gpg-agent.conf"
-    if [[ -f "$gpg_agent_conf" ]]; then
-      echo "$gpg_agent_conf already exists. Checking configuration..."
-    else
-      echo "$gpg_agent_conf does not exist. Creating and configuring..."
-      touch "$gpg_agent_conf"
-    fi
+  local gpg_agent_conf="$HOME/.gnupg/gpg-agent.conf"
+  if [[ -f "$gpg_agent_conf" ]]; then
+    echo "$gpg_agent_conf already exists. Checking configuration..."
+  else
+    echo "$gpg_agent_conf does not exist. Creating and configuring..."
+    touch "$gpg_agent_conf"
+  fi
 
-    if grep -q "pinentry-program" "$gpg_agent_conf"; then
-      echo "pinentry-program is already configured in $gpg_agent_conf."
-    else
-      echo "Configuring pinentry-program in $gpg_agent_conf..."
-      echo "pinentry-program $(which pinentry-mac)" >> "$gpg_agent_conf"
-    fi
+  if grep -q "pinentry-program" "$gpg_agent_conf"; then
+    echo "pinentry-program is already configured in $gpg_agent_conf."
+  else
+    echo "Configuring pinentry-program in $gpg_agent_conf..."
+    echo "pinentry-program $(which pinentry-mac)" >> "$gpg_agent_conf"
   fi
 
   echo "Launching gpg-agent if not already running..."
@@ -187,10 +188,21 @@ setup_gpg_agent() {
   echo "Reloading gpg-agent configuration..."
   echo RELOADAGENT | gpg-connect-agent
 
+  echo "Fetching GPG keys from Yubikey..."
+  # Fetch the keys from Yubikey
+  echo "fetch" | gpg --command-fd 0 --status-fd 1 --card-edit > /dev/null 2>&1
+
+  # Wait for a moment to ensure the keys are fetched
+  sleep 3
+
   echo "GPG Agent setup completed."
 }
 
 setup_gitconfig() {
+  echo "==========================================================="
+  echo "                     Setting up Gitconfig                  "
+  echo "-----------------------------------------------------------"
+
   local git_config_dir="$HOME/.config/git"
   local github_example_config="$git_config_dir/github.example.config"
   local gitlab_example_config="$git_config_dir/gitlab.example.config"
@@ -198,24 +210,39 @@ setup_gitconfig() {
   local gitlab_config="$git_config_dir/gitlab.config"
   local ssh_dir="$HOME/.ssh"
 
+  # Ensure the .ssh directory exists
+  [ ! -d "$ssh_dir" ] && mkdir -p "$ssh_dir"
+
+  # Copy example configs if the actual configs do not exist
   [ ! -f "$github_config" ] && cp "$github_example_config" "$github_config"
   [ ! -f "$gitlab_config" ] && cp "$gitlab_example_config" "$gitlab_config"
 
-  local gpg_key_id=$(gpg --card-status | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
-  local gpg_pub_key_file="$ssh_dir/$gpg_key_id.pub"
-
+  # Decode email and name
   local encoded_email="Ym95dWFuLmxpQHJpZ2h0Y2FwaXRhbC5jb20="
   local decoded_email=$(echo -n "$encoded_email" | base64 --decode)
   local encoded_name="Qm95dWFuIExp"
   local decoded_name=$(echo -n "$encoded_name" | base64 --decode)
 
-  git config --file "$github_config" user.signingkey "$gpg_key_id"
-  
-  gpg --export-ssh-key "$gpg_key_id" > "$gpg_pub_key_file"
-
-  git config --file "$gitlab_config" user.signingkey "$gpg_pub_key_file"
+  # Set GitLab user email and name
   git config --file "$gitlab_config" user.email "$decoded_email"
   git config --file "$gitlab_config" user.name "$decoded_name"
+
+  # Check if GPG key exists and export it
+  local gpg_key_id=$(gpg --card-status | grep 'sec' | awk '{print $2}' | cut -d'/' -f2)
+  if [[ -n "$gpg_key_id" ]]; then
+    local gpg_pub_key_file="$ssh_dir/$gpg_key_id.pub"
+
+    echo "Exporting GPG key $gpg_key_id as SSH key..."
+    gpg --export-ssh-key "$gpg_key_id" > "$gpg_pub_key_file"
+    echo "GPG key exported successfully."
+
+    git config --file "$github_config" user.signingkey "$gpg_key_id"
+    git config --file "$gitlab_config" user.signingkey "$gpg_pub_key_file"
+  else
+    echo "No GPG key found. Please ensure a GPG key is available."
+  fi
+
+  echo "Git config setup completed."
 }
 
 format_gitconfig_files() {
@@ -229,7 +256,7 @@ format_gitconfig_files() {
     echo "Formatting all files in $git_config_dir..."
 
     find "$git_config_dir" -type f | while read -r file; do
-      perl -pi -e 's/^\s*/  /g' "$file"
+      perl -pi -e 's/^\s*\[(.*?)\]/\[$1\]/g; s/^\s*(\w)/  $1/g' "$file"
       echo "Formatted $file"
     done
 
