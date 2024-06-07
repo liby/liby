@@ -35,24 +35,24 @@ status:: [[DONE]]
 		- ```
 		  # 初始化 Git Bare Repository
 		  git init --bare $HOME/.dotfiles
-
+		  
 		  # 创建 alias，方便执行操作
 		  alias dot="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
-
+		  
 		  # 不显示工作区（$HOME）未跟踪的文件
 		  dot config --local status.showUntrackedFiles no
 		  ```
-		- 如果不设置 `config config --local status.showUntrackedFiles no` 的话，运行 `dot status` 你会发现列出来一大堆 untracked files，因为 `$HOME` 下所有文件都还没加入 Git 跟踪，但我们本意也不是要跟踪所有文件，这样全部列出来看着很乱
+		- 如果不设置 `dot config --local status.showUntrackedFiles no` 的话，运行 `dot status` 你会发现列出来一大堆 untracked files，因为 `$HOME` 下所有文件都还没加入 Git 跟踪，但我们本意也不是要跟踪所有文件，这样全部列出来看着很乱
 	- #### 使用
 		- 至此我们完成了裸仓库的创建，可以像日常使用 Git 那样来直接管理你的目标文件，例如：
 			- ```
 			  # 添加 dotfile
 			  dot add .zshrc
 			  dot commit -m "chore: 🔧 add .zshrc"
-
+			  
 			  # 配置远程仓库
 			  dot remote add origin <git_url>
-
+			  
 			  # 推送 commit 到远程仓库，同时将远程仓库与本地的 master 分支关联
 			  # 关联以后，推送 commit 就只需要输入 dot push
 			  dot push -u origin master
@@ -63,7 +63,7 @@ status:: [[DONE]]
 			  git clone --bare <git_url> $HOME/.dotfiles
 			  alias dot="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
 			  dot config --local status.showUntrackedFiles no
-
+			  
 			  #  checkout 一下，就可以恢复所有文件了：
 			  dot checkout
 			  ```
