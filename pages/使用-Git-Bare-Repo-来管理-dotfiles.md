@@ -46,7 +46,7 @@ status:: [[DONE]]
 	- #### 使用
 		- 至此我们完成了裸仓库的创建，可以像日常使用 Git 那样来直接管理你的目标文件，例如：
 			- ```
-			  # 添加 dotfile
+			  # 添加需要纳入版本管理的 dotfile 文件
 			  dot add .zshrc
 			  dot commit -m "chore: 🔧 add .zshrc"
 			  
