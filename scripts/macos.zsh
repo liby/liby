@@ -255,12 +255,12 @@ format_gitconfig_files() {
   if [[ -d "$git_config_dir" ]]; then
     echo "Formatting all files in $git_config_dir..."
 
-    find "$git_config_dir" -type f | while read -r file; do
+    find "$git_config_dir" -type f -name '*config*' | while read -r file; do
       perl -pi -e 's/^\s*\[(.*?)\]/\[$1\]/g; s/^\s*(\w)/  $1/g' "$file"
       echo "Formatted $file"
     done
 
-    echo "All files in $git_config_dir have been formatted."
+    echo "All files in $git_config_dir with 'config' in their name have been formatted."
   else
     echo "Directory $git_config_dir does not exist."
   fi
