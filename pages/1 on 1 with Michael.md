@@ -2,6 +2,7 @@
   collapsed:: true
 - [[italki - 2024]]
 - 2024-06-03
+  collapsed:: true
 	- 今天学习过去简单时
 		- 一般过去时 (Simple Past)
 		  collapsed:: true
@@ -63,3 +64,90 @@
 					- •	例如：First he read the book, and then he watched the movie.（首先他读了书，然后他看了电影。）
 				- •	现在完成时：表示经历或结果
 					- •	例如：She has already watched this movie 3 times.（她已经看过这部电影三次了。）
+- 2024-06-07
+	- 学习过去完成时和过去进行时
+		- ### 过去完成时 (Past Perfect Tense)
+			- #### 结构
+				- **肯定句**：主语 + had + 过去分词 (V3)
+					- 例如：**She had finished the test.**
+				- **否定句**：主语 + had not/hadn’t + 过去分词 (V3)
+					- 例如：**She hadn’t finished the test.**
+				- **疑问句**：Had + 主语 + 过去分词 (V3)?
+					- 例如：**Had she finished the test?**
+			- #### 用法
+				- **描述在另一个过去动作之前已经完成的动作**：
+					- **例子**：**Richard had gone out when his wife arrived in the office.**
+						- Richard 出去时，他的妻子到达办公室。
+				- **描述在过去某个特定时间之前发生的动作**：
+					- **例子**：**Christine had never been to an opera before last night.**
+						- Christine 在昨晚之前从未看过歌剧。
+				- **描述因果关系（结合过去简单时）**：
+					- **例子**：**I got stuck in traffic because there had been an accident.**
+						- 我遇到交通堵塞，因为之前发生了事故。
+				- **强调过去某一活动的结果**：
+					- **例子**：**I had been to London twice by the time I got a job in New York.**
+						- 在我找到纽约的工作之前，我已经去过伦敦两次。
+			- #### 示例总结
+			  collapsed:: true
+				- **肯定句**：
+					- **She had finished the test.**（她已经完成了测试。）
+				- **否定句**：
+					- **She hadn’t finished the test.**（她还没有完成测试。）
+				- **疑问句**：
+					- **Had she finished the test?**（她完成测试了吗？）
+			- #### 具体例子
+			  collapsed:: true
+				- **描述在另一个过去动作之前已经完成的动作**：
+					- **Richard had gone out when his wife arrived in the office.**
+						- Richard 出去时，他的妻子到达办公室。
+				- **描述在过去某个特定时间之前发生的动作**：
+					- **Christine had never been to an opera before last night.**
+						- Christine 在昨晚之前从未看过歌剧。
+				- **描述因果关系**：
+					- **I got stuck in traffic because there had been an accident.**
+						- 我遇到交通堵塞，因为之前发生了事故。
+				- **强调过去某一活动的结果**：
+					- **I had been to London twice by the time I got a job in New York.**
+						- 在我找到纽约的工作之前，我已经去过伦敦两次。
+		- ### 过去进行时 (Past Continuous Tense)
+		  collapsed:: true
+			- #### 结构
+				- **肯定句**：主语 + was/were + 动词-ing
+					- 例如：**She was cooking all the morning.**
+				- **否定句**：主语 + was/were + not + 动词-ing
+					- 例如：**She was not sleeping when he came home.**
+				- **疑问句**：Was/Were + 主语 + 动词-ing?
+					- 例如：**Was she sleeping when he came home?**
+			- #### 用法
+				- **描述过去某一时刻正在进行的动作**：
+					- 例如：**I was working in the garden all day yesterday.**
+						- 我昨天一整天都在花园里干活。
+				- **描述过去并行发生的动作**：
+					- 例如：**While I was washing the dishes, I heard a loud noise.**
+						- 我在洗碗的时候，听到了一声巨响。
+				- **描述被打断的动作**：
+					- 例如：**I was driving to work when I crashed my car.**
+						- 我在开车去上班的路上出了车祸。
+				- **描述过去反复发生的动作或令人恼火的行为**：
+					- 例如：**He was always complaining in class.**
+						- 他总是在课堂上抱怨。
+				- #### 示例总结
+					- **肯定句**：
+						- **She was cooking all the morning.**（她整个早上都在做饭。）
+					- **否定句**：
+						- **She was not sleeping when he came home.**（他回家时，她没有在睡觉。）
+					- **疑问句**：
+						- **Was she sleeping when he came home?**（他回家时，她在睡觉吗？）
+				- #### 具体例子
+					- **描述过去某一时刻正在进行的动作**：
+						- **I was working in the garden all day yesterday.**
+							- 我昨天一整天都在花园里干活。
+					- **描述过去并行发生的动作**：
+						- **While I was washing the dishes, I heard a loud noise.**
+							- 我在洗碗的时候，听到了一声巨响。
+					- **描述被打断的动作**：
+						- **I was driving to work when I crashed my car.**
+							- 我在开车去上班的路上出了车祸。
+					- **描述过去反复发生的动作或令人恼火的行为**：
+						- **He was always complaining in class.**
+							- 他总是在课堂上抱怨。
