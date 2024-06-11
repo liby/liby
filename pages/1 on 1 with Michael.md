@@ -154,6 +154,26 @@
 							- 他总是在课堂上抱怨。
 - 2024-06-11
 	- 过去完成进行时
+		- 结构
+			- •	肯定句：主语 + had + been + 动词-ing
+				- •	例如：They had been playing tennis.
+			- •	否定句：主语 + had not/hadn’t + been + 动词-ing
+				- •	例如：They hadn’t been playing tennis.
+			- •	疑问句：Had + 主语 + been + 动词-ing?
+				- •	例如：Had they been playing tennis?
+		- 用法和解释
+			- 1.	描述已经开始并持续到另一个过去的动作或时间的过去动作：
+				- •	表示一个过去的动作已经开始并持续了一段时间，直到另一个过去的动作或时间点。
+				- •	例子：The boys had been playing soccer for about an hour when it started to rain.
+					- •	在开始下雨时，男孩们已经踢了大约一小时的足球。
+			- 2.	表示在过去某个动作之前的持续时间：
+				- •	用于表示一个动作在过去某个时间点之前持续了多长时间。
+				- •	例子：Richard needed a holiday because he had been working hard for six months.
+				- •	理查德需要一个假期，因为他已经努力工作了六个月。
+			- 3.	描述过去某事的原因：
+				- •	用于说明过去某个结果的原因。
+					- •	例子：He was tired because he had been jogging.
+						- •	他很累，因为他一直在慢跑。
 	- 一般将来时
 	  collapsed:: true
 		- 结构
