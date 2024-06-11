@@ -65,6 +65,7 @@
 				- •	现在完成时：表示经历或结果
 					- •	例如：She has already watched this movie 3 times.（她已经看过这部电影三次了。）
 - 2024-06-07
+  collapsed:: true
 	- 学习过去完成时和过去进行时
 		- ### 过去完成时 (Past Perfect Tense)
 			- #### 结构
@@ -151,3 +152,97 @@
 					- **描述过去反复发生的动作或令人恼火的行为**：
 						- **He was always complaining in class.**
 							- 他总是在课堂上抱怨。
+- 2024-06-11
+	- 过去完成进行时
+	- 一般将来时
+	  collapsed:: true
+		- 结构
+			- •	肯定句：主语 + will/shall + 动词原形
+				- •	例如：I will go to Thailand.
+			- •	否定句：主语 + will not/won’t + 动词原形
+				- •	例如：I will not go to Thailand.
+			- •	疑问句：Will + 主语 + 动词原形?
+				- •	例如：Will you go to Thailand?
+		- 用法
+			- 1.	在说话时决定的动作：
+				- •	例如：I have a toothache. I’ll take some medicine.
+					- •	我牙疼。我会吃点药。
+				- •	表示在说话的当下决定去做的事情。
+			- 2.	未计划的将来动作：
+				- •	表示在说话时刻没有提前计划或准备的未来动作，这些动作往往是临时决定的。
+				- •	例子：
+					- •	I think I will watch a movie tonight.
+						- •	我想我今晚会看电影。（这是临时决定的，没有提前计划）
+					- •	I will probably go to the store later.
+						- •	我可能会晚些时候去商店。（也是临时决定的）
+			- 3.	用于提供、请求、承诺、命令、威胁等：
+				- •	例如：I’m afraid we will get wet.
+					- •	我担心我们会淋湿。
+				- •	表示提供帮助、请求某事、承诺做某事、命令或威胁等。
+			- 4.	描述将来无法避免的动作：
+				- •	描述那些不受控制、必然会发生的未来事件，这些通常是自然现象或无法避免的事实。
+				- 例子：
+				  	•	The sun will rise tomorrow.
+					- •	太阳明天会升起。（这是自然现象，无法避免）
+				- •	There will be high tides tomorrow.
+					- •	明天会涨潮。（也是自然现象）
+			- 5.	用于条件、时间和目的状语从句：
+				- •	例如：When I arrive at home, I will call you.
+					- •	我到家后会给你打电话。
+				- •	用在条件从句、时间从句和目的从句中。
+			- 6.	用于表达对将来的想法、预测、假设、确信、担忧等：
+				- •	例如：I promise I won’t tell this to anyone.
+					- •	我保证不会告诉任何人。
+				- •	用于表达对未来的预测、假设、信心或担忧
+	- Will vs. Going to
+	  collapsed:: true
+		- will 和 going to 都是用来描述一般将来时的，但它们的使用场景和含义略有不同
+			- Will 更适合临时决定、承诺、提供、威胁和一般预测：
+				- 1.	临时/快速决定 (Decisions made at the moment of speaking)：
+					- •	这里表示在说话的瞬间做出的决定。
+					- •	例子：I’m thirsty. I think I will buy a drink.
+						- •	我口渴了。我想我会买一杯饮料。
+				- collapsed:: true
+				  2.	承诺 (Promises)：
+					- •	表示对未来的承诺。
+					- •	例子：I promise I will help you.
+						- •	我保证我会帮助你。
+				- collapsed:: true
+				  3.	提供 (Offers)：
+					- •	提供帮助的场景。
+					- •	例子：That looks heavy. I will help you with it.
+						- •	那看起来很重。我来帮你。
+				- 4.	威胁 (Threats)：
+					- •	用于威胁某人。
+					- •	例子：If you don’t stop, I will tell your mother.
+						- •	如果你不停下来，我会告诉你妈妈。
+				- 5.	一般预测 (General Predictions) ：
+					- •	一般预测是基于个人意见、感觉或有限的信息对未来进行的预测。它们通常不是基于明确的证据或详细的计划，而是对未来可能发生的事情进行的推测。这种预测使用 will 来表达，因为它们是对未来的一种猜测或期望
+					- 例子：
+						- 1.	个人意见或感觉：
+							- •	这里表示说话人根据自己的感觉或经验对天气进行预测。
+							- •	例子：I think it will rain tomorrow.
+								- •	我认为明天会下雨。
+						- 2.	基于现有信息的猜测：
+							- •	表示说话人根据目前对她的了解或她的学习情况进行猜测。
+							- •	例子：She will probably pass the exam.
+								- •	她可能会通过考试。
+						- 3.	一般性的预测：
+							- •	基于对科技发展的趋势做出的一般性预测。
+							- •	例子：Technology will continue to advance in the next decade.
+								- •	未来十年科技将继续进步。
+			- Going to 更适合提前计划和基于当前证据的预测：
+			  collapsed:: true
+				- 1.	提前计划 (Plans made before the moment of speaking)：
+					- •	表示在说话之前已经做出的计划。
+					- •	例子：I’m going to visit my grandparents next weekend.
+						- •	下周末我要去看望我的祖父母。
+				- 2.	有迹象表明将发生的事 (Evidence or signs that something will happen)：
+					- •	表示有迹象表明某事即将发生。
+					- •	例子：Look at those clouds! It’s going to rain.
+						- •	看那些云！要下雨了。
+				- 3.	预测 (Predictions based on present evidence)：
+					- •	基于当前证据的预测。
+					- •	例子：It’s 70-0. They’re going to win.
+						- •	现在比分是70-0。他们要赢了。
+	-
