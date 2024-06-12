@@ -1,0 +1,14 @@
+- 2024-06-12
+- 生词和短语
+	- One good turn deserves another：这是个习语，表示一个好的举动值得别人同样好的
+	  对待，按照中文类似的习语就是好人有好报
+	- a good salary：也可以说 a decent salary
+	- [lend](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/lend)：借出，借给
+		- borrow 是向别人借入
+- 语法
+	- While he was eating, I asked him to lend me twenty pounds.
+		- 复合句，主句为主谓宾 + 宾补的结构，主句中动词不定式短语 to lend me twenty pounds 作宾语 him 的补足语。
+			- 前面是 while 引导的时间状语从句，主谓结构
+		- [关键句型] 本句的从句复习第 7 课关键句型，过去进行时
+		- [学习提示] 本句的主干结构是五大基本句型之五：S + V + O + C
+			- 主语 + 谓语 + 宾语 + 宾语补足语，其中 C 为宾语补足语 object complement。本句型的特点是该动词 接了一个宾语意思不完整，还需要补充一部分才能构成完整的意思，文中我让他，表述不够完整，让他借我点钱，这样才完整.
