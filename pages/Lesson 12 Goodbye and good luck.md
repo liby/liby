@@ -9,5 +9,3 @@
 	- [harbour](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/harbour)：港口，码头
 	- [set out](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/set-off-out?q=set%2Bout%2B)：出发，启程
 	- take part：参加
-- 语法
-	-
