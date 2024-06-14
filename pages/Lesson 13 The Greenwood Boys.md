@@ -1,0 +1,11 @@
+- 2024-06-14
+- 生词和短语
+	- all parts of the country：全国各地
+	- As usual：一如既往
+	- [occasions](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/occasion?q=occasions)：场合
+- 语法
+	- The Greenwood Boys are a group of pop singers.
+		- 简单句，主系表结构。乐队组合名首字母大写表特指，同样，The 定冠词也不能少
+	- They will be arriving here tomorrow.
+		- 简单句，主谓结构。
+		- [关键句型] 本课学习将来进行时，will be doing 形式。上句为现在进行时，我们与 (一般)将来进行时作对比，所谓**一般**将来进行时，是针对**过去**将来进行时区分的， 通常“一般”二字予以省略
