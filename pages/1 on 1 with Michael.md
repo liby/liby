@@ -153,6 +153,7 @@
 						- **He was always complaining in class.**
 							- 他总是在课堂上抱怨。
 - 2024-06-11
+  collapsed:: true
 	- 过去完成进行时
 		- 结构
 			- •	肯定句：主语 + had + been + 动词-ing
@@ -266,3 +267,45 @@
 					- •	例子：It’s 70-0. They’re going to win.
 						- •	现在比分是70-0。他们要赢了。
 	-
+- 2024-06-16
+	- Future Continuous 和 Future Perfect
+		- Future Continuous Tense (将来进行时)
+		  collapsed:: true
+			- 结构：
+				- •	肯定句：主语 + will + be + 动词-ing (现在分词)
+					- •	例如：I will be singing in the concert tomorrow.
+				- •	否定句：主语 + will + not + be + 动词-ing (现在分词)
+					- •	例如：I will not be singing in the concert tomorrow.
+				- •	疑问句：Will + 主语 + be + 动词-ing (现在分词)?
+					- •	例如：Will you be singing in the concert tomorrow?
+			- 用法：
+			  collapsed:: true
+				- •	描述将来某一时刻正在进行的动作：
+					- •	When you come tomorrow, they will be playing tennis.
+				- •	表示在将来某一特定时间正在进行的动作：
+					- •	At 12 o’clock tomorrow, we will be having lunch at school.
+				- •	表示现在正在进行并预期将来继续的动作：
+					- •	Unfortunately, sea levels will still be rising in 20 years.
+				- •	用于礼貌地询问将来的事情：
+					- •	Will you be bringing your friend to the party tonight?
+				- •	强调将来的计划和意图：
+					- •	He’ll be coming to visit us next week.
+				- •	描述将来的氛围或情况：
+					- •	When I arrive at the party, everybody will be celebrating, some will be dancing.
+				- •	表示将来并行的动作或一系列并行动作：
+					- •	She will be watching TV, and he will be cooking dinner.
+		- Future Perfect Tense (将来完成时)
+			- 结构：
+				- •	肯定句：主语 + will + have + 过去分词
+					- •	例如：He will have done it by this evening.
+				- •	否定句：主语 + will + not + have + 过去分词
+					- •	例如：He will not have done it by this evening.
+				- •	疑问句：Will + 主语 + have + 过去分词?
+					- •	例如：Will he have done it by this evening?
+			- 用法：
+				- 表示在将来某一特定时间之前完成的动作：
+					- •	By eight o’clock tomorrow, I will have taken off for Japan.
+				- •	表示在另一个事件发生之前将完成的动作：
+					- •	She will have learnt Chinese before she moves to China.
+				- •	表达对某事在近期内已经完成的确信：
+					- •	The guests will have arrived at the hotel by now.
