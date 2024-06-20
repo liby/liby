@@ -13,3 +13,13 @@
 - 语法
 	- I had an amusing experience last year.
 		- 简单句，主谓宾结构，experience 作经历讲，有可数和不可数不同的用法，需要留 意，这里是作为可数名词使用的，加了冠词 an. 至于是用 a 还是 an，主要看临近的单词是否元音开头，这里 amusing 为/əˈmjuːzɪŋ/为/ə/开头，故用 an.
+	- After I had left a small village in the south of France, I drove on to the next town.
+		- 复合句，主句主谓结构；时间状语从句为主谓宾结构，后面 in the south of France 为介词短语作后置定语修饰 village
+		- [关键句型] 本课学习过去完成时，该时态常用于表示两件都发生在过去的事情， 其中发生在更久远(更前面)的事情，用过去完成时，而后发生的事情，用一般过去时。
+			- 本句有两个事情发生在过去，1. 开车 drove；2. 离开村庄 left a village，根据文意， 作者先离开了村庄，再开车上路，所以离开村庄所发生的时间更久远，发生在开车之 前，所以用过去完成时，had done
+	- As soon as he had got into the car, I said good morning to him in French and he replied in the same language.
+		- 并列复合句，由 and 连接前后两个句子，前句为复合句，包含 as soon as 引导的时 间状语从句，从句和主句均为主谓宾结构。 and 后句为简单句，主谓结构。
+		- [关键句型] 这人先上车，我再跟他说早上好，所以先上车用过去完成时。
+	- As I soon learnt, he was English himself!
+		- 复合句，主句主系表结构，这里反身代词 himself 为 English 英国人的同位语，表 示强调，所以在句意上说“他也是个英国人”，感觉就跟自己一样，都可以说英语，大呼 认错了，就比教材按照反身代词翻译成“他自己就是个英国人”要更合理，当然，教 材更强调准确。 反身代词更常见的用法是作为动词宾语，这个之后会遇到。
+		- As I learnt 在语法上是定语从句，as 作 learnt 的宾语。在这里可以与 as 引导的时间 状语从句稍作区分，时间状语从句表达“正当，一边一边，随着”的意思，如 He smiled [as he passed.] 他路过的时候笑了一下。
