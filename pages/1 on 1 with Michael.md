@@ -268,7 +268,9 @@
 						- •	现在比分是70-0。他们要赢了。
 	-
 - 2024-06-16
+  collapsed:: true
 	- Future Continuous 和 Future Perfect
+	  collapsed:: true
 		- Future Continuous Tense (将来进行时)
 		  collapsed:: true
 			- 结构：
@@ -309,3 +311,19 @@
 					- •	She will have learnt Chinese before she moves to China.
 				- •	表达对某事在近期内已经完成的确信：
 					- •	The guests will have arrived at the hotel by now.
+- 2024-06-20
+	- Future Perfect Continuous Tense (将来完成进行时)
+		- 结构
+			- •	肯定句：主语 + will + have + been + 动词-ing (现在分词)
+				- •	例如：I will have been eating vegetables for three months.
+			- •	否定句：主语 + will + not + have + been + 动词-ing (现在分词)
+				- •	例如：I won’t have been eating vegetables for three months.
+			- •	疑问句：Will + 主语 + have + been + 动词-ing (现在分词)?
+				- •	例如：Will you have been eating vegetables for three months?
+		- 用法
+			- 1.	表示某事会一直持续到将来的某个时间或事件
+				- •	例如：James will have been teaching at the university for more than a year by the time he leaves for Asia.
+					- •	解释：詹姆斯到离开去亚洲时将在大学教书超过一年。
+			- 2.	描述某个动作在将来某个时间或事件前刚刚结束
+				- •	例如：I will be tired when I get home because I will have been walking for over an hour.
+					- •	解释：我到家时会很累，因为我已经走了一个多小时。
