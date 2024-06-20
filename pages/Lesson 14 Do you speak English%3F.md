@@ -10,3 +10,6 @@
 	- [neither](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/neither)：两者皆非，两者都不
 	- [nearly](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/nearly)：几乎，差不多
 	- [reached](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/reach?q=reached)：到达
+- 语法
+	- I had an amusing experience last year.
+		- 简单句，主谓宾结构，experience 作经历讲，有可数和不可数不同的用法，需要留 意，这里是作为可数名词使用的，加了冠词 an. 至于是用 a 还是 an，主要看临近的单词是否元音开头，这里 amusing 为/əˈmjuːzɪŋ/为/ə/开头，故用 an.
