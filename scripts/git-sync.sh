@@ -14,5 +14,5 @@ elif [ -n "$(git status)" ]; then
   git remote -v | grep fetch | awk '{print $2}' | git pull --rebase origin master
   git push
 else
-  echo ${MESSAGE}
+  echo "${MESSAGE}"
 fi
