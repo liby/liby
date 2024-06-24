@@ -1,0 +1,27 @@
+- 2024-06-24
+- 生词和短语
+	- [secretary](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/secretary)：秘书
+	- [nervous](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/nervous)：紧张
+	- look up：抬头
+	- [firm](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/firm)：公司
+	- could not [afford](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/afford) to pay：支付不起
+	- my turn had come：轮到我了
+	- [interrupt](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/interrupt)：打断
+- 语法
+	- The secretary told me that Mr. Harmsworth would see me.
+		- 复合句，主谓宾 + 宾语从句结构，其中 that 引导的宾语从句为主谓宾结构
+		- [关键句型] 本课学习间接引语，也就是转述别人的话，这里是 told me that
+	- I felt very nervous when I went into his office.
+		- 复合句，主句主系表结构，后面是一个 when 引导的时间状语从句，该从句是主谓 宾结构
+	- After I had sat down, he said that business was very bad.
+		- 复合句，这句话有两个从句。主句是 he said that，主谓 + 宾语从句结构。句首是一个 after 引导的时间状语从句。后面 that 引导的宾语从句为主系表结构
+		- [关键句型] he said that... 转述他所说的内容，间接引语
+	- He told me that the firm could not afford to pay such large salaries.
+		- 复合句，主谓宾 + 宾语从句结构。宾语从句为主谓宾结构，其中动词不定式短语 to pay salaries 作宾语，该宾语中包括一个程度副词 such 作程度状语修饰形容词 large， 而 large 又作为定语修饰 salaries
+	- Then he smiled and told me I would receive an extra thousand pounds a year!
+		- 复合句，主句有两个谓语，由 and 连接，相当于是两个句子，he smiled 一句，另 一句则是 he told me that I would... 该宾语从句为主谓宾结构，并且省略了引导词 that
+		  关于数字表达，在金融行业，严格按照每三位加一个逗号来表达，如
+			- 1,000：a thousand
+			- 1,000,000：a million
+			- 1,000,000,000：a billion
+		- 这样在数字的表达上，就可以通过看逗号来表达，比如 20,000,000 就是 twenty million
