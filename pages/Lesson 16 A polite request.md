@@ -1,0 +1,20 @@
+- 2024-06-27
+- 生词和短语
+	- [polite](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/polite)：有礼貌的；客气
+	- [Sweden](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sweden?q=Sweden)：瑞典
+	- [obey](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/obey)：服从；遵守
+- 语法
+	- If you park your car in the wrong place, a traffic policeman will soon find it.
+		- 复合句，主句是主谓宾结构，句首是 if 引导的条件状语从句，表假设，该从句为 主谓宾结构
+		- [关键句型] 本课学习 if 引导的条件句，通常是主句用将来时，本句的 will find；从句用现在时，本句 park your car
+	- You will be very lucky if he lets you go without a ticket. However, this does not always happen.
+		- 复合句，主句是主系表结构，后面是 if 引导的条件状语从句，该从句为主谓宾 + 宾补的结构，这里 without a ticket 为介词短语作方式状语修饰前面放走的方式，是没 有领罚单就让交警给放走了
+	- This is a 'No Parking' area.
+		- 简单句，主系表结构. 这里表语的用法为名词性词组当作形容词用，相当于是 no parking 作定语修饰 area。这种用法在英语中很常见，比如 This is a (no smoking) area. 此处禁止吸烟
+	- You will enjoy your stay here if you pay attention to our street signs.
+		- 复合句，主句是主谓宾结构，其后跟了一个 if 引导的条件状语从句，该从句中的
+		  谓语为动词短语 pay attention to，这里比较特殊，“有些由动词构成的短语包含有一个名词，多数语言学家都不把它们归入动词短语范围之内，但它们的作用和动词短语是差不多的” ，这里是“动词 + 名词 + 介词”的形式，考虑到其作用上近似于动词短语，我们为理解方便，将其整个作为谓语，所以后面 our street signs 为宾语
+	- If you receive a request like this, you cannot fail to obey it!
+		- 复合句，主句是主谓宾结构，动词不定式短语作宾语，句首是一个 if 引导的条件 状语从句，主谓宾结构。
+		- 根据 How to win friends and influence people 一书中所讲，“People don’t criticize themselves [for anything], [no matter how wrong it may be.]” 人们无论犯 了多大的错，也绝不会怪罪自己。
+			- 这句话 “no matter + 疑问词”引导让步状语从句。从 这里其实可以看出，如果交警开了罚单，车主肯定是内心不服气的，也只会怨自己倒霉，并不会觉得自己有什么做得不对的地方，但是交警不罚款，只是一个温馨提示， 这给人的感觉就好多了。
