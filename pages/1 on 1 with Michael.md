@@ -1,4 +1,40 @@
 - [[italki - 2023]]
   collapsed:: true
 - [[italki - 2024]]
--
+- 2024-07-01
+	- Simile 和 Metaphor
+		- Simile（明喻）
+		  collapsed:: true
+			- 定义：使用 “like” 或 “as” 将一种事物比作另一种事物，以增强描述效果。
+			- 用法：
+				- •	当你使用 Simile 时，你是在说某物像或如同另一物。
+			- 例子：
+				- •	He eats like a pig!（他吃东西像猪一样！）
+				- •	It’s cold like in Antarctica here.（这里冷得像南极一样。）
+				- •	Her skin was as white as snow.（她的皮肤像雪一样白。）
+				- •	She went on working in the pantry as quiet as a mouse.（她在厨房里工作时安静得像只老鼠。）
+				- •	She smelt like a rose too, the old woman thought.（老妇人觉得她也闻起来像玫瑰。）
+				- •	John sleeps like a baby all night.（John 整晚都睡得像婴儿一样安稳。）
+			- 扩展：
+				- •	使用场景：Simile 常用于文学作品、日常对话和演讲中，以增加描述的生动性和形象感。
+				- •	注意事项：Simile 中的 “like” 和 “as” 是关键标志词，帮助识别这种修辞手法。
+		- Metaphor（隐喻）
+		  collapsed:: true
+			- 定义：通过说某物是另一物来描绘画面，而不是简单地将其比作另一物。
+			- 用法：
+				- •	当你通过说某物是另一物来描绘画面时，你使用的是 Metaphor。
+			- 例子：
+				- •	Thanks for mailing those letters, you’re an angel.（感谢你邮寄那些信，你就是个天使。）
+				- •	It’s Antarctica here.（这里就像南极。）
+				- •	Laughter is the music of the soul.（笑声是灵魂的音乐。）
+				- •	The computer in the classroom was an old dinosaur.（教室里的电脑是个老古董。）
+				- •	The detective listened to her tales with a wooden face.（侦探面无表情地听她讲故事。）
+				- •	I think that new singer is a diamond in the rough.（我认为那个新歌手是一块未经雕琢的钻石。）
+			- 扩展：
+				- •	使用场景：Metaphor 在文学、艺术、演讲中广泛使用，用于创造深刻的情感共鸣和丰富的意象。
+				- •	注意事项：Metaphor 不使用 “like” 或 “as” 这样的帮助词，而是直接陈述两个事物的相似性。
+		- 如何区分 Simile 和 Metaphor
+			- •	Simile：句子中有 “as” 或 “like”。
+				- •	例子：Her smile is like the sunshine.（她的微笑像阳光一样。）
+			- •	Metaphor：仅通过比较来描绘，而没有使用 “as” 或 “like”。
+				- •	例子：Her smile is sunshine.（她的微笑就是阳光。）
