@@ -43,4 +43,161 @@
 	- 今天是日常交流，比如关于学生时期使用手机的一些讨论
 - 2024-07-11
 	- 今天学习 Personification 有关的内容，学到的生词有：
-	-
+		- #### 1. [brave](https://www.collinsdictionary.com/dictionary/english/brave)
+		  collapsed:: true
+			- **音标**: /breɪv/
+			- **释义**: 勇敢的；英勇的
+			- **例句**: The brave firefighter rescued the child from the burning building.
+		- #### 2. [owl](https://www.collinsdictionary.com/dictionary/english/owl)
+		  collapsed:: true
+			- **音标**: /aʊl/
+			- **释义**: 猫头鹰
+			- **例句**: The owl hooted softly in the night.
+		- #### 3. [snail](https://www.collinsdictionary.com/dictionary/english/snail)
+			- **音标**: /sneɪl/
+			- **释义**: 蜗牛
+			- **例句**: The snail moved slowly across the garden path.
+		- #### 4. [swan](https://www.collinsdictionary.com/dictionary/english/swan)
+			- **音标**: /swɒn/
+			- **释义**: 天鹅
+			- **例句**: The swan glided gracefully across the lake.
+		- #### 5. [cucumber](https://www.collinsdictionary.com/dictionary/english/cucumber)
+			- **音标**: /ˈkjuːkʌmbər/
+			- **释义**: 黄瓜
+			- **例句**: She added slices of cucumber to the salad.
+		- #### 6. [eagerly](https://www.collinsdictionary.com/dictionary/english/eagerly)
+			- **音标**: /ˈiːɡərli/
+			- **释义**: 渴望地；热切地
+			- **例句**: The children waited eagerly for the show to start.
+		- #### 7. [coal](https://www.collinsdictionary.com/dictionary/english/coal)
+			- **音标**: /kəʊl/
+			- **释义**: 煤
+			- **例句**: The miners extracted coal from deep underground.
+		- #### 8. [clever](https://www.collinsdictionary.com/dictionary/english/clever)
+			- **音标**: /ˈklɛvər/
+			- **释义**: 聪明的；灵巧的
+			- **例句**: The clever student solved the complex problem quickly.
+		- #### 9. [toast](https://www.collinsdictionary.com/dictionary/english/toast)
+			- **音标**: /təʊst/
+			- **释义**: 吐司；烤面包片
+			- **例句**: She spread butter and jam on her toast.
+		- #### 10. [pancake](https://www.collinsdictionary.com/dictionary/english/pancake)
+			- **音标**: /ˈpænkeɪk/
+			- **释义**: 煎饼；薄饼
+			- **例句**: He made a stack of pancakes for breakfast.
+		- #### 11. [peacock](https://www.collinsdictionary.com/dictionary/english/peacock)
+			- **音标**: /ˈpiːkɒk/
+			- **释义**: 孔雀
+			- **例句**: The peacock displayed its colorful feathers.
+		- #### 12. [poisonous](https://www.collinsdictionary.com/dictionary/english/poisonous)
+			- **音标**: /ˈpɔɪzənəs/
+			- **释义**: 有毒的
+			- **例句**: The poisonous snake bit the hiker.
+		- #### 13. [beetroot](https://www.collinsdictionary.com/dictionary/english/beetroot)
+			- **音标**: /ˈbiːtruːt/
+			- **释义**: 甜菜根
+			- **例句**: She made a salad with beetroot and goat cheese.
+		- #### 14. [beard](https://www.collinsdictionary.com/dictionary/english/beard)
+			- **音标**: /bɪərd/
+			- **释义**: 胡须
+			- **例句**: He decided to grow a beard over the winter.
+		- #### 15. [stick](https://www.collinsdictionary.com/dictionary/english/stick)
+			- **音标**: /stɪk/
+			- **释义**: 棍；枝条
+			- **例句**: The dog fetched the stick that was thrown.
+		- #### 16. [tick](https://www.collinsdictionary.com/dictionary/english/tick)
+			- **音标**: /tɪk/
+			- **释义**: 勾号；滴答声
+			- **例句**: She put a tick next to each completed task.
+		- #### 17. [hips](https://www.collinsdictionary.com/dictionary/english/hips)
+			- **音标**: /hɪps/
+			- **释义**: 臀部
+			- **例句**: She swayed her hips to the rhythm of the music.
+		- #### 18. [razor](https://www.collinsdictionary.com/dictionary/english/razor)
+			- **音标**: /ˈreɪzər/
+			- **释义**: 剃刀
+			- **例句**: He used a razor to shave his beard.
+		- #### 19. [sharp](https://www.collinsdictionary.com/dictionary/english/sharp)
+			- **音标**: /ʃɑːrp/
+			- **释义**: 锋利的
+			- **例句**: Be careful, the knife is very sharp.
+		- #### 20. [shark](https://www.collinsdictionary.com/dictionary/english/shark)
+			- **音标**: /ʃɑːrk/
+			- **释义**: 鲨鱼
+			- **例句**: We saw a shark swimming near the boat.
+		- #### 21. [shape](https://www.collinsdictionary.com/dictionary/english/shape)
+			- **音标**: /ʃeɪp/
+			- **释义**: 形状
+			- **例句**: The cloud took the shape of a dragon.
+		- #### 22. [Personification](https://www.collinsdictionary.com/dictionary/english/personification)
+			- **音标**: /pərˌsɒnɪfɪˈkeɪʃən/
+			- **释义**: 拟人
+			- **例句**: Personification is often used in literature to give human characteristics to non-human things.
+		- #### 23. [characteristics](https://www.collinsdictionary.com/dictionary/english/characteristics)
+			- **音标**: /ˌkærɪktəˈrɪstɪks/
+			- **释义**: 特征
+			- **例句**: Kindness and patience are her most admirable characteristics.
+		- #### 24. [abstract](https://www.collinsdictionary.com/dictionary/english/abstract)
+			- **音标**: /ˈæbstrækt/
+			- **释义**: 抽象的
+			- **例句**: The artist's work was very abstract, making it hard to interpret.
+		- #### 25. [concepts](https://www.collinsdictionary.com/dictionary/english/concepts)
+			- **音标**: /ˈkɒnsɛpts/
+			- **释义**: 概念
+			- **例句**: The book explains complex concepts in simple terms.
+		- #### 26. [inanimate](https://www.collinsdictionary.com/dictionary/english/inanimate)
+			- **音标**: /ɪnˈænɪmət/
+			- **释义**: 无生命的
+			- **例句**: Rocks and stones are inanimate objects.
+		- #### 27. [embrace](https://www.collinsdictionary.com/dictionary/english/embrace)
+			- **音标**: /ɪmˈbreɪs/
+			- **释义**: 拥抱
+			- **例句**: They warmly embraced after being apart for so long.
+		- #### 28. [joyfully](https://www.collinsdictionary.com/dictionary/english/joyfully)
+			- **音标**: /ˈdʒɔɪfəli/
+			- **释义**: 高兴地
+			- **例句**: The children played joyfully in the park.
+		- #### 29. [qualities](https://www.collinsdictionary.com/dictionary/english/qualities)
+			- **音标**: /ˈkwɒlɪtiz/
+			- **释义**: 品质
+			- **例句**: Honesty and integrity are important qualities in a friend.
+		- #### 30. [candle](https://www.collinsdictionary.com/dictionary/english/candle)
+			- **音标**: /ˈkændl/
+			- **释义**: 蜡烛
+			- **例句**: She lit a candle to brighten the room.
+		- #### 31. [sunflowers](https://www.collinsdictionary.com/dictionary/english/sunflowers)
+			- **音标**: /ˈsʌnˌflaʊərz/
+			- **释义**: 向日葵
+			- **例句**: The field was full of tall sunflowers.
+		- #### 32. [nodded](https://www.collinsdictionary.com/dictionary/english/nodded)
+			- **音标**: /nɒdɪd/
+			- **释义**: 点头
+			- **例句**: She nodded in agreement.
+		- #### 33. [pounded](https://www.collinsdictionary.com/dictionary/english/pounded)
+			- **音标**: /ˈpaʊndɪd/
+			- **释义**: 猛击
+			- **例句**: The waves pounded the shore during the storm.
+		- #### 34. [shelter](https://www.collinsdictionary.com/dictionary/english/shelter)
+			- **音标**: /ˈʃɛltər/
+			- **释义**: 庇护所
+			- **例句**: They took shelter under a tree when it started to rain.
+		- #### 35. [crept](https://www.collinsdictionary.com/dictionary/english/crept)
+			- **音标**: /krɛpt/
+			- **释义**: 悄悄移动
+			- **例句**: He crept quietly into the room.
+		- #### 36. [thunder](https://www.collinsdictionary.com/dictionary/english/thunder)
+			- **音标**: /ˈθʌndər/
+			- **释义**: 雷声
+			- **例句**: The thunder roared loudly during the storm.
+		- #### 37. [grumbled](https://www.collinsdictionary.com/dictionary/english/grumbled)
+			- **音标**: /ˈɡrʌmbld/
+			- **释义**: 抱怨
+			- **例句**: He grumbled about the long wait.
+		- #### 38. [raindrops](https://www.collinsdictionary.com/dictionary/english/raindrops)
+			- **音标**: /ˈreɪnˌdrɒps/
+			- **释义**: 雨滴
+			- **例句**: Raindrops splashed against the window.
+		- #### 39. [duty](https://www.collinsdictionary.com/dictionary/english/duty)
+			- **音标**: /ˈdjuːti/
+			- **释义**: 责任
+			- **例句**: It is my duty to help those in need.
