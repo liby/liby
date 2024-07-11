@@ -2,6 +2,7 @@
   collapsed:: true
 - [[italki - 2024]]
 - 2024-07-01
+  collapsed:: true
 	- Simile 和 Metaphor
 		- Simile（明喻）
 		  collapsed:: true
@@ -38,3 +39,8 @@
 				- •	例子：Her smile is like the sunshine.（她的微笑像阳光一样。）
 			- •	Metaphor：仅通过比较来描绘，而没有使用 “as” 或 “like”。
 				- •	例子：Her smile is sunshine.（她的微笑就是阳光。）
+- 2024-07-05
+	- 今天是日常交流，比如关于学生时期使用手机的一些讨论
+- 2024-07-11
+	- 今天学习 Personification 有关的内容，学到的生词有：
+	-
