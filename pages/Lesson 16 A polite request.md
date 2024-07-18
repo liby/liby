@@ -4,6 +4,7 @@
 	- [Sweden](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sweden?q=Sweden)：瑞典
 	- [obey](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/obey)：服从；遵守
 - 语法
+  collapsed:: true
 	- If you park your car in the wrong place, a traffic policeman will soon find it.
 		- 复合句，主句是主谓宾结构，句首是 if 引导的条件状语从句，表假设，该从句为 主谓宾结构
 		- [关键句型] 本课学习 if 引导的条件句，通常是主句用将来时，本句的 will find；从句用现在时，本句 park your car
