@@ -41,6 +41,9 @@ status:: [[DONE]]
 		  
 		  # 不显示工作区（$HOME）未跟踪的文件
 		  dot config --local status.showUntrackedFiles no
+		  
+		  # 关闭 FSMonitor
+		  dot config --local core.fsmonitor false
 		  ```
 		- 如果不设置 `dot config --local status.showUntrackedFiles no` 的话，运行 `dot status` 你会发现列出来一大堆 untracked files，因为 `$HOME` 下所有文件都还没加入 Git 跟踪，但我们本意也不是要跟踪所有文件，这样全部列出来看着很乱
 	- #### 使用
