@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats-liby.vercel.app/api?username=liby&show_icons=true&hide=stars&hide_title=true&theme=cobalt&hide_border=true">
+<img align="right" src="./assets/mona-whisper.gif" alt="GIF">
 
 <details>
   <summary>
@@ -10,8 +10,6 @@
 > Now working for a Fintech company in front-end development.
 
 </details>
-
-<img src="./assets/mona-whisper.gif" height="85" alt="GIF">
 
 #### Platform & Tools
 
