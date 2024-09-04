@@ -1,0 +1,4 @@
+- [Docker 镜像制作教程：减小镜像体积 ](https://icloudnative.io/posts/docker-images-part1-reducing-image-size/)
+- [Docker 镜像制作教程：针对不同语言的精简策略](https://icloudnative.io/posts/docker-images-part2-details-specific-to-different-languages)
+- [Docker Alpine：轻量级容器镜像的终极选择](https://icloudnative.io/posts/alpine-vs-distroless-vs-busybox/)
+-
