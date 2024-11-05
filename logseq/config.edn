@@ -128,7 +128,7 @@
   :feature/enable-timetracking? false
   :publishing/all-pages-public? true
   :feature/enable-journals? true
-  :favorites ["Contents" "Journals"]
+  :favorites ["contents" "journals"]
   :default-home {:page "Contents"}
 
 
