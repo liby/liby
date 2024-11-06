@@ -17,12 +17,11 @@ echo "First wake time: $first_wake_time"
 
 # Convert the first wake time to a timestamp
 remind_time=$(date -j -f "%Y-%m-%d %H:%M:%S" "$first_wake_time" +%s)
-# Add 9 hours and 12 minutes (total 55200 seconds) as the end-of-day reminder time
-remind_time=$((remind_time + 55200))
-formatted_remind_time=$(date -r $remind_time +"%Y-%m-%d %H:%M:%S")
+# Add 9 hours and 12 minutes (total 55200 seconds)
+remind_time=$(date -r $remind_time -v+9H -v+12M +"%Y-%m-%d %H:%M:%S")
 
 # Print the end-of-day reminder time
-echo "End-of-day reminder time: $formatted_remind_time"
+echo "End-of-day reminder time: $remind_time"
 
 # Calculate the difference between the current time and the reminder time
 current_time=$(date +%s)
