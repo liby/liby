@@ -1,8 +1,9 @@
 title:: English Learning
 
-- [[1 on 1 with Michael]]
+- [[italki courses]]
 - [[单词之间的区别]]
 - 语法术语
+  collapsed:: true
 	- 宾语（Object）
 		- 宾语是动词所作用的对象，也就是动作落在谁或什么上。
 			- 例如：我爱吃北京烤鸭。("北京烤鸭"是动词"爱吃"的宾语)
