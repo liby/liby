@@ -36,4 +36,5 @@ status:: [[DONE]]
 			- `launchctl start com.example.app`
 		- 停止一个任务：
 			- `launchctl stop com.example.app`
--
+		- 重新启动
+			- `launchctl kickstart -k gui/$(id -u)/com.example.app`

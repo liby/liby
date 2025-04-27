@@ -27,6 +27,8 @@ status:: [[DONE]]
 			- 要注意 `gui/$UID` 和 plist 文件路径之间是用 `/` 相连的，且没有 `.plist` 文件后缀
 		- 我看很多文档都说要用 `enable` 来代替之前的 `load` 命令启动服务，实际这是不对的，`load` 命令应该要用 `bootstrap` 来替代，`enable`只是起到启用**被禁用服务**的作用，没有任何 `start` 或者 `run` 的作用
 			- 具体可以看这个[讨论串](https://www.reddit.com/r/MacOS/comments/kbko61/comment/hybuaqq/?utm_source=share&utm_medium=web2x&context=3)
+	- `launchctl kickstart -k gui/$(id -u)/com.example.app`
+		- 重新启动目标服务
 - 此外， [LAUNCHCTL 2.0 SYNTAX](https://babodee.wordpress.com/2016/04/09/launchctl-2-0-syntax/) 还提到了一个 `print` 命令 #read
 	- 大概就是说，之前都是用 `launchctl list` 列出正在运行的服务/代理，并且还可以用 `grep` 来做筛选
 		- `launchctl list | grep pattern`
