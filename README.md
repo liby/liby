@@ -7,7 +7,7 @@
     <strong>
   </summary>
 
-> Currently working for a Fintech company as a front-end developer.
+> Currently working for a Fintech company as a Full-Stack Engineer.
 
 </details>
 
