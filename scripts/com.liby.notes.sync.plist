@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.notes.release.agent.plist</string>
+    <string>com.liby.notes.sync.plist</string>
     <key>ProgramArguments</key>
     <array>
         <string>/Users/bryan/Code/GitHub/liby/scripts/git-sync.sh</string>
