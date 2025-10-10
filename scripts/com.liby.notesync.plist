@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.liby.notesync.plist</string>
+    <string>com.liby.notesync</string>
     <key>ProgramArguments</key>
     <array>
         <string>/Users/bryan/Code/GitHub/liby/scripts/git-sync.sh</string>
@@ -12,6 +12,8 @@
     <string>/Users/bryan/Code/GitHub/liby/</string>
     <key>RunAtLoad</key>
     <true/>
+    <key>ProcessType</key>
+    <string>Background</string>
     <key>StartCalendarInterval</key>
     <array>
         <dict>
@@ -24,8 +26,8 @@
         </dict>
     </array>
     <key>StandardOutPath</key>
-    <string>/dev/null</string>
+    <string>/Users/bryan/Library/Logs/notesync.log</string>
     <key>StandardErrorPath</key>
-    <string>/dev/null</string>
+    <string>/Users/bryan/Library/Logs/notesync.stderr.log</string>
 </dict>
 </plist>
