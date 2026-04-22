@@ -18,7 +18,7 @@ jobs:
     name: Publish Logseq graph
     steps:
       - uses: actions/checkout@v4
-      - uses: liby/publish-spa@0d19023b20c09ebeb7e3dcc9aa794df657711dec
+      - uses: liby/publish-spa@9fab97b7f075c1056e443e35f42964b3f7813922
         with:
           version: nightly-publish-fix
       - name: Deploy to Vercel
