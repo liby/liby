@@ -18,9 +18,9 @@ jobs:
     name: Publish Logseq graph
     steps:
       - uses: actions/checkout@v4
-      - uses: liby/publish-spa@c3985fa1e323a3e2f2ec33549bd1811450044039
+      - uses: logseq/publish-spa@main
         with:
-          version: nightly
+          version: 0.10.15
       - name: Deploy to Vercel
         env:
           VERCEL_ORG_ID: ${{secrets.VERCEL_ORG_ID}}
